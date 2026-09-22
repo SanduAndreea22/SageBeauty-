@@ -1,20 +1,20 @@
 # Audiență — SageBeauty
 
-> [DE COMPLETAT de Andreea] Cine urmareste/ar trebui sa urmareasca contul de Instagram. Agentii de postare si reels citesc acest fisier ca sa stie cui vorbesc — nu presupun un public generic "toata lumea". SageBeauty nu vinde nimic, deci audienta e formata din urmaritori/comunitate, nu din potentiali clienti.
+> Cine urmareste/ar trebui sa urmareasca contul de Instagram. Agentii de postare si reels citesc acest fisier ca sa stie cui vorbesc — nu presupun un public generic "toata lumea". SageBeauty nu vinde nimic, deci audienta e formata din urmaritori/comunitate, nu din potentiali clienti.
 
 ## Public principal
 
-- **Varsta / etapa de viata:** [ex: 20-35 ani, femei interesate de beauty]
-- **Ce cauta de fapt urmarind contul:** [inspiratie, pareri sincere, continut relatable — ce ii aduce inapoi]
-- **Nivel de cunostinte despre beauty:** [incepatoare vs pasionate care stiu deja termeni tehnici — afecteaza cat de mult jargon poti folosi]
+- **Varsta / etapa de viata:** in special femei 25-34 ani, interesate mai ales de skincare (dar si de makeup — nu exclusiv).
+- **Ce cauta de fapt urmarind contul:** pareri sincere despre produse, continut relatable, ce merita si ce nu merita cumparat — nu inspiratie generica.
+- **Nivel de cunostinte despre beauty:** presupune un public familiarizat cu nisa (stie termeni de baza — ser, SPF, exfoliere), nu incepatoare absolute; nu e nevoie de explicatii de la zero, dar nici jargon excesiv de tehnic.
 
 ## Ce ii opreste sa scroll-eze (ce ii intereseaza in feed)
 
-- [ex: pareri sincere, nu sponsorizate]
-- [ex: rezultate reale, nu editate excesiv]
-- [ex: personalitate/umor, nu doar poze frumoase]
+- Pareri sincere, nesponsorizate — vin din cutii de abonament sau cumparaturi proprii, nu colaborari platite.
+- Detalii concrete, nu generalitati vagi (textura, cat tine, cum se aseaza).
+- Poze cu impact vizual puternic ("wow") si carusele educationale clare — acestea sunt formatele principale de continut, nu reels-urile.
 
 ## Ce NU vor sa vada
 
-- [ex: continut care se simte ca reclama deghizata]
-- [ex: promisiuni nerealiste, ton de vanzare]
+- Continut care se simte ca reclama deghizata.
+- Promisiuni nerealiste, ton de vanzare.

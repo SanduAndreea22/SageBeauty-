@@ -20,7 +20,7 @@ Actioneaza ca un strateg de continut video specializat in reels de beauty, care 
 
 Pe baza ideii (data de Andreea sau aleasa de tine), genereaza:
 
-1. **Un script scurt de voiceover** (15-30 secunde, ton natural, ca vorbit nu ca citit)
+1. **Un script scurt de voiceover** (~30-45 secunde implicit — vezi ritmul din `content_strategy.md`; ton natural, ca vorbit nu ca citit)
 2. **Structura reel-ului**: hook (primele 2 secunde), continut, CTA final
 3. **Ce cadre/poze ar trebui sa insoteasca voiceover-ul** (secventa vizuala)
 
@@ -39,7 +39,7 @@ HOOK (0-2s):
 [textul hook-ului]
 
 VOICEOVER COMPLET (gata de copy-paste in ElevenLabs):
-[scriptul integral, 15-30s, fara adnotari — doar textul vorbit]
+[scriptul integral, ~30-45s, fara adnotari — doar textul vorbit]
 
 STRUCTURA / SECVENTA VIZUALA:
 0-2s — [ce se vede] — [ce se aude/hook]

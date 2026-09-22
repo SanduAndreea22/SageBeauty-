@@ -1,5 +1,15 @@
 # Strategie de conținut — SageBeauty
 
+## Ritm si mix de continut
+
+- **Ritm:** 4-5 postari pe saptamana, 3-4 Stories pe saptamana.
+- **Mix de formate:** accent pe **carusele educationale** si **poze "wow"** (impact vizual puternic) —
+  acestea sunt formatele principale. **Reels-urile sunt rare** — nu presupune un reel la fiecare
+  cerere de "postare completa"; cand Andreea cere pachet complet fara sa specifice reel explicit,
+  prioritizeaza poza + postare/carusel, nu adauga automat un reel.
+- Cand Andreea cere explicit un reel, se scrie normal, dupa `instagram_reels_prompt.md` — durata
+  implicita ~30-45 secunde (nu 15-30s), avatar si voce generate cu ElevenLabs (vezi `brand.md`).
+
 ## Regula de baza: agentul alege singur, nu Andreea
 
 **Cand Andreea nu da o idee explicita ("vreau o postare", fara alte detalii), agentul NU o intreaba

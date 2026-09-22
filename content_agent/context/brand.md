@@ -1,28 +1,30 @@
 # Brand — SageBeauty
 
-> [DE COMPLETAT de Andreea] Acest fisier e sursa unica de adevar despre cine e SageBeauty. Toti cei 3 agenti il citesc inainte sa scrie orice — daca ramane necompletat, agentii trebuie sa intrebe detaliile lipsa in loc sa presupuna.
->
 > **SageBeauty nu vinde nimic** — e un cont personal de beauty content, nu o afacere cu servicii/produse de vandut. Continutul e despre experienta, parerea si stilul Andreei, nu despre conversie/vanzare.
 
 ## Ce e SageBeauty
 
-- **Domeniu:** [ex: makeup, skincare, rutina de infrumusetare in general — ce te intereseaza tu sa arati]
-- **Cine sunt eu:** [nume, cate ceva despre tine — cat vrei sa fie personal/vizibil]
-- **De ce fac acest cont:** [ex: pasiune, documentez ce incerc, imi place sa impartasesc pareri sincere]
-- **Ce ma diferentiaza de alte conturi de beauty:** [unghiul tau unic — perspectiva, stil vizual, sinceritate, umor etc.]
+- **Domeniu:** skincare si makeup, din viata de zi cu zi — accent pe skincare, dar cu makeup in mix.
+- **Cine sunt eu:** Andreea (Deea). Ten mixt — variaza intre uscat, gras si sensibil, in functie de zona fetei si de perioada. Prefer atat texturi usoare gel-cream cat si texturi bogate, cremoase, in functie de nevoie — si formule minimaliste, cu putine ingrediente. Nu evit nimic anume (fara ingrediente sau tipuri de produs interzise) — sunt deschisa la orice.
+- **De ce fac acest cont:** documentez ce incerc si impartasesc pareri sincere, din experienta mea reala.
+- **Ce ma diferentiaza de alte conturi de beauty:** nu am colaborari platite — produsele vin din cutii de abonament (Goodiebox, BelleBox) si din cumparaturi proprii (Sephora etc.). Parerile sunt 100% ale mele, nesponsorizate.
+- **Obiectiv principal al contului:** crestere (mai multi urmaritori) — continutul trebuie sa fie gandit sa opreasca scroll-ul si sa fie usor de distribuit/comentat, nu doar jurnal personal.
+- **Instrumente folosite:**
+  - Poze: generare AI cu ChatGPT / DALL·E.
+  - Reels: avatar si voce generate cu ElevenLabs, avatarul e creat pe baza fetei mele — nu filmez fizic produsul/mainile/fata pentru reels, tot procesul e prin avatarul digital.
+- **Glow Diary:** link permanent in bio catre glowdiary.pythonanywhere.com. Il mentionez explicit intr-o postare doar cand aceea se leaga direct de o recenzie completa de acolo — nu la fiecare postare.
+- **Stil vizual poze:** mix, ales in functie de idee (vezi logica din `prompts/instagram_photo_prompt.md`), nu un stil fix. Paleta de culori e flexibila — roz pudrat/nude cald, terracotta, alb/neutru minimalist sau culori mai indraznete, dupa ce se potriveste ideii — nu o singura paleta fixa in afara caruselelor (acelea au paleta lor fixa, vezi `identitate_vizuala.md`).
 
 ## Pozitionare
 
-O propozitie clara despre cum vrei sa fii perceputa (nu ca vanzator, ci ca voce/persoana):
-
-> [ex: "nu recomand orbeste — spun sincer ce merita si ce nu, din experienta mea"]
+> "Nu recomand orbeste — spun sincer ce merita si ce nu, din experienta mea."
 
 ## Ce NU esti / ce eviti
 
 - Nu vinzi produse sau servicii — nu ai CTA de cumparare, oferte sau preturi in continut.
-- [ex: nu esti un cont de tip "before/after" senzationalist]
-- [ex: nu faci reclama agresiva, nu promiti rezultate nerealiste]
+- Nu esti un cont de tip "before/after" senzationalist.
+- Nu faci reclama agresiva, nu promiti rezultate nerealiste.
 
 ## Locatie / zona de activitate
 
-[optional — doar daca e relevant pentru continut, ex: contextul unde faci pozele]
+Nespecificat — nu e relevant pentru continut deocamdata.
