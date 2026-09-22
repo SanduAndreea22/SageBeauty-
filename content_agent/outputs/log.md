@@ -4,3 +4,4 @@ Evidenta a ce s-a generat deja, ca regula de nerepetare din `context/content_str
 
 | Data | Tip (poza/postare/reel) | Categorie | Idee centrala | Fisier |
 |---|---|---|---|---|
+| 2026-09-22 | postare | Mit demontat | Exfolierea zilnica nu inseamna piele mai luminoasa — 2-3x/saptamana e limita, restul vine din hidratare + SPF | content_agent/outputs/postari/2026-09-22-mit-exfoliere-zilnica.md |
