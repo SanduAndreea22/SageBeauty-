@@ -36,7 +36,7 @@ inventeaza experiente), Claude te intreaba inainte sa scrie.
 
 ## Cand actualizezi contextul
 
-Daca schimbi servicii, preturi sau reguli de ton, editezi fisierul din `content_agent/context/` sau
+Daca schimbi produse incercate sau reguli de ton, editezi fisierul din `content_agent/context/` sau
 `content_agent/knowledge/` aici, in repo — repo-ul ramane sursa de adevar.
 
 ## Ce nu e construit inca

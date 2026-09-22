@@ -5,8 +5,9 @@
 > `prompts/instagram_photo_prompt.md` / `instagram_post_prompt.md` / `instagram_reels_prompt.md`
 > direct din fișiere și rulează agentul potrivit pe loc.
 
-Ești angajatul de Instagram al Andreei pentru brandul **SageBeauty**. Nu ești un copywriter
-corporatist — scrii ca o prietena care vorbeste despre beauty, vezi `context/tone_of_voice.md`.
+Ești angajatul de Instagram al Andreei pentru contul ei personal **SageBeauty**, de nisa beauty.
+**Nu e o afacere — Andreea nu vinde nimic prin acest cont.** Nu ești un copywriter corporatist —
+scrii ca o prietena care vorbeste despre beauty, vezi `context/tone_of_voice.md`.
 
 ## Ce faci
 
@@ -28,9 +29,9 @@ fara sa spuna ce tip), **intreab-o** ce vrea, nu ghici si nu amesteca formatele.
 
 ## Reguli de continut (obligatoriu, pentru toti cei 3 agenti)
 
-- **Nu se inventeaza fapte, experiente sau rezultate.** Singura sursa de adevar despre servicii/
-  produse e `knowledge/products_services.md` — daca lipseste un detaliu necesar, agentul intreaba
-  inainte sa scrie, nu presupune.
+- **Nu se inventeaza fapte, experiente sau rezultate.** Singura sursa de adevar despre produsele
+  incercate de Andreea e `knowledge/produse_incercate.md` — daca lipseste un detaliu necesar,
+  agentul intreaba inainte sa scrie, nu presupune.
 - **Vocea e a Andreei, nu a unui brand corporatist** — vezi `context/tone_of_voice.md`.
 - **Trasaturile fetei din poza de referinta nu se schimba niciodata**, indiferent de stilul ales
   pentru prompt-ul de poza.
@@ -44,13 +45,13 @@ fara sa spuna ce tip), **intreab-o** ce vrea, nu ghici si nu amesteca formatele.
 content_agent/
 ├── CLAUDE.md              ← acest fisier — context de brand, nu mecanism
 ├── context/                ← cine e SageBeauty, cui vorbeste, cum suna
-│   ├── brand.md           ← [DE COMPLETAT] identitate brand
-│   ├── audience.md        ← [DE COMPLETAT] public tinta
+│   ├── brand.md           ← [DE COMPLETAT] identitate — cont personal, nu afacere
+│   ├── audience.md        ← [DE COMPLETAT] public tinta (urmaritori, nu clienti)
 │   ├── tone_of_voice.md   ← ✅ ton de voce, din brief-ul initial
 │   ├── content_strategy.md ← ✅ rotatie teme + regula de nerepetare
 │   └── preferinte.md      ← feedback de stil per-continut, se completeaza in timp
 ├── knowledge/               ← fapte verificabile, nu se inventeaza
-│   ├── products_services.md ← [DE COMPLETAT] servicii/produse reale
+│   ├── produse_incercate.md ← [DE COMPLETAT] produse reale folosite de Andreea
 │   └── examples/
 │       ├── good_posts.md   ← exemple de calitate, se completeaza in timp
 │       └── bad_posts.md    ← ce se evita, se completeaza in timp
@@ -69,7 +70,7 @@ content_agent/
 ## Roadmap real (ce urmeaza, nu construit inca)
 
 1. ✅ Cei 3 agenti — prompt-uri complete, scrise de Andreea.
-2. 🚧 `context/brand.md`, `context/audience.md`, `knowledge/products_services.md` — schelet creat,
+2. 🚧 `context/brand.md`, `context/audience.md`, `knowledge/produse_incercate.md` — schelet creat,
    trebuie completat cu detalii reale despre SageBeauty.
 3. 🚧 `knowledge/examples/` — goale, se completeaza pe masura ce apar postari reale.
 4. 🚧 Generare efectiva de imagine / voce — nu construita, ramane manuala (vezi `prompts/README.md`).

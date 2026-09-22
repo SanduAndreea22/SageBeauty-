@@ -17,7 +17,7 @@ Pe baza ideii de continut, genereaza:
 
 - **Hook-ul trebuie sa opreasca scroll-ul in primele 2 secunde** — foloseste curiozitate sau o afirmatie directa, nu introduceri lungi ("Salut, azi va arat...").
 - Scriptul de voiceover trebuie sa sune natural cand e citit cu voce tare, cu pauze si ritm de vorbire reala — nu ca un text scris pentru citit din ochi. Propozitii scurte, fara constructii stufoase.
-- Nu inventa rezultate/experiente care nu au fost date de Andreea — la fel ca la postari, cere detalii daca lipsesc, foloseste doar ce e confirmat in `knowledge/products_services.md` sau spus explicit de ea.
+- Nu inventa rezultate/experiente care nu au fost date de Andreea — la fel ca la postari, cere detalii daca lipsesc, foloseste doar ce e confirmat in `knowledge/produse_incercate.md` sau spus explicit de ea.
 - Secventa vizuala trebuie sa fie realizabila cu poze/clipuri simple (nu cere productie complexa) — se coreleaza cu ce a fost generat de Agentul 1 (prompt de poza), daca exista deja o poza pentru aceasta idee.
 - Verifica `content_agent/context/preferinte.md` pentru orice feedback de stil dat anterior si aplica-l.
 

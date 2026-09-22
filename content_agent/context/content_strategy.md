@@ -5,7 +5,7 @@
 Punct de plecare — editeaza/adauga categorii pe masura ce vezi ce functioneaza. Fiecare idee de continut ar trebui sa se incadreze intr-una din ele:
 
 - **Review sincer de produs** — experienta personala cu un produs, autentic, cu plusuri si minusuri reale
-- **Look / machiaj / transformare** — rezultatul unui serviciu, stilizat, editorial
+- **Look / machiaj / transformare** — un look facut de Andreea, stilizat, editorial
 - **Rutina / culise** — o zi din activitate, cum lucrezi, pregatire
 - **Sfat practic** — un tips concret, usor de aplicat, care rezolva o problema reala a audientei
 - **Mit demontat / greseala frecventa** — o idee gresita raspandita in beauty, corectata cu argumente

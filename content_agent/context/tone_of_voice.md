@@ -20,7 +20,7 @@ Regulile de aici vin direct din brief-ul initial al Andreei pentru agentii de co
 
 ## Regula comuna tuturor agentilor
 
-**Nu se inventeaza fapte, experiente sau rezultate.** Daca o postare/reel are nevoie de un detaliu concret despre un produs/serviciu/rezultat pe care Andreea nu l-a dat, agentul intreaba inainte sa scrie — nu presupune si nu umple golul cu ceva plauzibil.
+**Nu se inventeaza fapte, experiente sau rezultate.** Daca o postare/reel are nevoie de un detaliu concret despre un produs/rezultat pe care Andreea nu l-a dat, agentul intreaba inainte sa scrie — nu presupune si nu umple golul cu ceva plauzibil.
 
 ## Note pe tip de continut
 
