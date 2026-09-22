@@ -27,7 +27,9 @@ de fapte (ex: "un review despre X") si nu ti-a dat destule detalii, intrebi acel
 
 Pe baza ideii (data de Andreea sau aleasa de tine), scrie:
 
-1. **Un caption** (3-5 propozitii, ton direct si cald, ca la o cafea cu o prietena)
+1. **Un caption** (3-5 propozitii, ton direct si cald, ca la o cafea cu o prietena). **Prima
+   propozitie e hook-ul** — scrie-o prima, dupa tipurile si regulile din sectiunea "Hook-uri" din
+   `context/tone_of_voice.md`. E singurul rand vizibil in feed inainte de "...mai mult".
 2. **O intrebare la final** care invita la comentarii reale — nu genericul "ce parere aveti?". Intrebarea trebuie sa fie specifica situatiei (ex: cere o parere pe un detaliu concret, o experienta similara, o alegere intre doua variante)
 3. **5-8 hashtag-uri** relevante pentru beauty, mix de nisa (specifice produsului/temei) si generale (comunitate beauty mai larga) — verifica in `log.md` sa nu reciclezi acelasi cluster de hashtag-uri de la o postare la alta
 4. **Promptul de poza complet** — dupa ce alegi ideea, ruleaza si Agentul 1 (`instagram_photo_prompt.md`) pentru aceeasi idee si include promptul complet de poza (in romana, gata de copy-paste), nu doar o descriere scurta. O postare fara imagine nu e continut publicabil — nu livra doar caption-ul.
@@ -42,7 +44,9 @@ Pe baza ideii (data de Andreea sau aleasa de tine), scrie:
 ## Format de livrare
 
 ```
-[Caption]
+HOOK: [tipul folosit — identificare/curiozitate/mit contrazis/adresare directa/detaliu concret]
+
+[Caption — incepe cu hook-ul]
 
 [Intrebare finala]
 
@@ -53,7 +57,7 @@ Pe baza ideii (data de Andreea sau aleasa de tine), scrie:
 
 ## Dupa livrare
 
-Salveaza postarea in `content_agent/outputs/postari/AAAA-LL-ZZ-titlu-scurt.md` si adauga un rand in `content_agent/outputs/log.md` (tip: postare, categoria din `content_strategy.md`, ideea centrala, calea fisierului). Daca ideea a venit din `plan_continut.md`, marcheaza itemul respectiv "facut" acolo.
+Salveaza postarea in `content_agent/outputs/postari/AAAA-LL-ZZ-titlu-scurt.md` si adauga un rand in `content_agent/outputs/log.md` (tip: postare, categoria din `content_strategy.md`, ideea centrala + tipul de hook, calea fisierului). Daca ideea a venit din `plan_continut.md`, marcheaza itemul respectiv "facut" acolo.
 
 Daca Andreea da feedback de stil/ton despre postarea asta (nu o corectie factuala — aia se aplica direct), adauga un rand in `content_agent/context/preferinte.md`.
 

@@ -24,7 +24,9 @@ inainte sa continui. Caruselul se preteaza bine mai ales la categoriile *(libere
 Un carusel de 5-8 slide-uri:
 
 1. **Slide 1 — coperta/hook**: titlul caruselului, ceva care opreste scroll-ul (ex: "5 mituri despre
-   SPF pe care inca le crezi", "10 lucruri pe care le fac pentru piele curata")
+   SPF pe care inca le crezi", "10 lucruri pe care le fac pentru piele curata"). Alege tipul de hook
+   si respecta regulile din sectiunea "Hook-uri" din `context/tone_of_voice.md`. Caption-ul
+   caruselului incepe si el cu un hook, diferit ca formulare de coperta (nu o repeta cuvant cu cuvant).
 2. **Slide 2-7 — continut**: cate un punct/sfat/mit pe slide, text scurt (titlu + 1-2 propozitii de
    explicatie), nu paragrafe lungi — un carusel se citeste rapid, slide cu slide
 3. **Slide final — inchidere**: un recap scurt sau un indemn la follow/comentariu/salvare
@@ -62,7 +64,7 @@ Pentru fiecare slide, livrezi:
 ```
 CARUSEL: [titlul intern al caruselului]
 
-SLIDE 1 (coperta):
+SLIDE 1 (coperta) — HOOK: [tipul folosit]
 Text: [textul exact]
 Prompt imagine: [prompt complet, in romana]
 
@@ -85,7 +87,7 @@ impartita in mai multe casete (colaj), nu 5-8 imagini separate.
 
 Salveaza caruselul in `content_agent/outputs/carusele/AAAA-LL-ZZ-titlu-scurt.md` si adauga un rand
 in `content_agent/outputs/log.md` (tip: carusel, categoria din `content_strategy.md`, ideea
-centrala, calea fisierului). Daca ideea a venit din `plan_continut.md`, marcheaza itemul respectiv
+centrala + tipul de hook, calea fisierului). Daca ideea a venit din `plan_continut.md`, marcheaza itemul respectiv
 "facut" acolo.
 
 Daca Andreea da feedback de stil/vizual despre caruselul asta, adauga un rand in

@@ -19,16 +19,25 @@ sau
 Fa-mi un reel despre [idee].
 ```
 
+sau
+
+```
+Fa-mi stories pentru caruselul cu [idee].
+```
+
+(Stories se fac mereu dintr-un continut deja generat — daca nu spui pentru care, se ia cel mai
+recent din `outputs/log.md`.)
+
 Claude citește fișierele din `context/`, `knowledge/` și `prompts/` direct din repo și rulează
 agentul potrivit pe loc. Nu trebuie să numești fișierul explicit — Claude rutează automat pe baza
-cererii (poza / postare / reel), conform regulii din `/CLAUDE.md` (rădăcina repo-ului). Poți cere
-și mai multe deodată ("vreau tot pachetul pentru ideea X") — atunci rulează toți 3 agenții, în
-ordine: poză → postare → reel.
+cererii (poza / postare / reel / carusel / stories), conform regulii din `/CLAUDE.md` (rădăcina repo-ului). Poți cere
+și mai multe deodată ("vreau tot pachetul pentru ideea X") — atunci rulează agenții ceruți, în
+ordine: poză → postare → reel/carusel → stories.
 
 ## Folosire zilnică
 
 ```
-[Poza / Postare / Reel] despre [idee]. [orice detalii despre produs/experienta, daca e cazul]
+[Poza / Postare / Reel / Carusel / Stories] despre [idee]. [orice detalii despre produs/experienta, daca e cazul]
 ```
 
 Daca nu dai destule detalii pentru un continut credibil (mai ales pentru postare/reel, unde nu se

@@ -10,7 +10,7 @@ scrii ca o prietena care vorbeste despre beauty, vezi `context/tone_of_voice.md`
 
 ## Ce faci
 
-Patru tipuri de continut, fiecare cu propriul agent in `prompts/`:
+Cinci tipuri de continut, fiecare cu propriul agent in `prompts/`:
 
 | Cere Andreea... | Foloseste | Livreaza |
 |---|---|---|
@@ -18,16 +18,18 @@ Patru tipuri de continut, fiecare cu propriul agent in `prompts/`:
 | o postare de Instagram | `prompts/instagram_post_prompt.md` | caption + intrebare + hashtag-uri + prompt de poza complet |
 | un reel cu voiceover pentru ElevenLabs | `prompts/instagram_reels_prompt.md` | script + structura + secventa vizuala (+ generare efectiva prin Chrome) |
 | un carusel educational (liste/sfaturi/mituri) | `prompts/instagram_carousel_prompt.md` | text + prompt de imagine per slide, in romana |
+| Stories pentru un continut deja generat | `prompts/instagram_stories_prompt.md` | 2-3 frame-uri: text + sticker (sondaj/quiz/slider) + fundal 9:16 |
 
 ## Rutare — obligatoriu
 
-Daca cererea Andreei numeste explicit unul dintre cele patru ("prompt de poza", "postare", "reel",
-"carusel"), foloseste direct agentul corespunzator. Daca cere mai multe deodata ("vreau tot pachetul
-pentru X"), ruleaza-le pe toate cele cerute, in ordine: **poza → postare → reel/carusel** (postarea
-se poate referi la poza generata la primul pas). Daca cererea e ambigua (ex: doar "fa-mi ceva pentru
+Daca cererea Andreei numeste explicit unul dintre cele cinci ("prompt de poza", "postare", "reel",
+"carusel", "stories"/"story"), foloseste direct agentul corespunzator. Daca cere mai multe deodata ("vreau tot pachetul
+pentru X"), ruleaza-le pe toate cele cerute, in ordine: **poza → postare → reel/carusel → stories** (postarea
+se poate referi la poza generata la primul pas; stories se fac mereu ultimele, din continutul deja
+generat). Daca cererea e ambigua (ex: doar "fa-mi ceva pentru
 Instagram despre X", fara sa spuna ce tip), **intreab-o** ce vrea, nu ghici si nu amesteca formatele.
 
-## Reguli de continut (obligatoriu, pentru toti cei 3 agenti)
+## Reguli de continut (obligatoriu, pentru toti agentii)
 
 - **Ideea vine din planul aprobat, nu se alege liber la fiecare cerere.** Cand Andreea nu da o idee
   explicita, iei urmatorul item "de facut" din `context/plan_continut.md` — vezi
@@ -68,18 +70,21 @@ content_agent/
 │   ├── instagram_post_prompt.md
 │   ├── instagram_reels_prompt.md
 │   ├── instagram_carousel_prompt.md
+│   ├── instagram_stories_prompt.md
 │   └── README.md
 └── outputs/                ← continutul final, salvat aici
     ├── log.md              ← evidenta cross-sesiune (nu repeta categorie/unghi)
     ├── poze/
     ├── postari/
     ├── carusele/
-    └── reels/
+    ├── reels/
+    └── stories/
 ```
 
 ## Roadmap real (ce urmeaza, nu construit inca)
 
-1. ✅ Cei 4 agenti — prompt-uri complete.
+1. ✅ Cei 5 agenti — prompt-uri complete (inclusiv Stories si reguli comune de hook-uri in
+   `context/tone_of_voice.md`).
 2. ✅ `context/brand.md`, `context/audience.md` — completate cu profilul contului.
 3. 🚧 `knowledge/produse_incercate.md`, `knowledge/examples/` — goale, se completeaza pe masura ce
    apar produse/postari reale.
