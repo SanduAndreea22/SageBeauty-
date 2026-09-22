@@ -39,6 +39,14 @@ inventeaza experiente), Claude te intreaba inainte sa scrie.
 Daca schimbi produse incercate sau reguli de ton, editezi fisierul din `content_agent/context/` sau
 `content_agent/knowledge/` aici, in repo — repo-ul ramane sursa de adevar.
 
+## Ce e automatizat prin Chrome
+
+- **Generare efectiva in ElevenLabs** — dupa ce Agentul 3 livreaza scriptul de voiceover si il
+  confirmi, Claude poate deschide ElevenLabs in Chrome-ul tau real (esti deja logata acolo) si
+  genera efectiv audio/video — vezi sectiunea dedicata din `instagram_reels_prompt.md`. Te intreaba
+  intotdeauna inainte sa apese butonul final de generare (consuma credite) si inainte sa descarce
+  fisierul.
+
 ## Ce nu e construit inca
 
 - **Postare directa pe Instagram** — agentii genereaza doar continutul, nu publica nimic automat.
@@ -46,4 +54,3 @@ Daca schimbi produse incercate sau reguli de ton, editezi fisierul din `content_
   se decide ulterior.
 - **Generare efectiva de imagine** — Agentul 1 produce doar promptul text; imaginea se genereaza
   manual, intr-un instrument de generare AI (Midjourney, Ideogram, DALL·E etc.).
-- **Voce efectiva** — Agentul 3 produce doar scriptul; vocea se genereaza manual, in ElevenLabs.

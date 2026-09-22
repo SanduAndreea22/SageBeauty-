@@ -73,5 +73,7 @@ content_agent/
 2. 🚧 `context/brand.md`, `context/audience.md`, `knowledge/produse_incercate.md` — schelet creat,
    trebuie completat cu detalii reale despre SageBeauty.
 3. 🚧 `knowledge/examples/` — goale, se completeaza pe masura ce apar postari reale.
-4. 🚧 Generare efectiva de imagine / voce — nu construita, ramane manuala (vezi `prompts/README.md`).
-5. 🚧 Publicare directa pe Instagram — nu construita.
+4. ✅ Generare efectiva de voce/video in ElevenLabs — prin Chrome (`mcp__claude-in-chrome__*`),
+   vezi sectiunea dedicata din `prompts/instagram_reels_prompt.md`.
+5. 🚧 Generare efectiva de imagine — nu construita, ramane manuala (vezi `prompts/README.md`).
+6. 🚧 Publicare directa pe Instagram — nu construita.

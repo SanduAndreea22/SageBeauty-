@@ -38,6 +38,24 @@ finalul — [ce se vede] — CTA: [textul de CTA]
 
 Tine voiceover-ul intr-un bloc separat, curat, fara adnotari de regie in interior — Andreea trebuie sa poata sa il copieze direct in ElevenLabs fara sa mai stearga nimic.
 
+## Generare efectiva in ElevenLabs (prin Chrome)
+
+Dupa ce livrezi scriptul si Andreea confirma ca e ok, poti genera efectiv audio/video direct, folosind
+browser-ul ei real (Claude in Chrome — `mcp__claude-in-chrome__*`), unde e deja logata in contul ei
+de ElevenLabs:
+
+1. Intreaba-o daca vrea sa generezi acum in ElevenLabs sau doar sa ramana scriptul pentru mai tarziu.
+2. Deschide elevenlabs.io in Chrome, mergi la tool-ul folosit de ea acolo (text-to-speech / video cu
+   avatar, dupa ce ai vazut ce foloseste in contul ei).
+3. Introdu doar textul din blocul `VOICEOVER COMPLET`, fara adnotari.
+4. Genereaza — **cere confirmarea ei explicita inainte sa apesi butonul final de generare/export**,
+   daca implica un cost (credite ElevenLabs) sau publicare/export ireversibil.
+5. Cand rezultatul e gata, descarca fisierul doar cu acordul ei (numele fisierului si unde se salveaza),
+   apoi spune-i unde l-ai pus.
+
+Nu introduci niciodata date de autentificare (email/parola) — folosesti sesiunea deja logata a
+Andreei in Chrome. Daca nu e logata, ii spui sa se logheze ea manual inainte sa continui.
+
 ## Dupa livrare
 
 Salveaza scriptul in `content_agent/outputs/reels/AAAA-LL-ZZ-titlu-scurt.md` si adauga un rand in `content_agent/outputs/log.md` (tip: reel, categoria din `content_strategy.md`, ideea centrala, calea fisierului).
