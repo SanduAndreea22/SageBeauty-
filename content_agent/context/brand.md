@@ -12,7 +12,7 @@
 - **Instrumente folosite:**
   - Poze: generare AI cu ChatGPT / DALL·E.
   - Reels: avatar si voce generate cu ElevenLabs, avatarul e creat pe baza fetei mele — nu filmez fizic produsul/mainile/fata pentru reels, tot procesul e prin avatarul digital.
-- **Glow Diary:** link permanent in bio catre glowdiary.pythonanywhere.com. Il mentionez explicit intr-o postare doar cand aceea se leaga direct de o recenzie completa de acolo — nu la fiecare postare.
+- **Glow Diary:** https://glowdiary.pythonanywhere.com — site propriu cu recenzii complete de produse, scrise de Andreea. Link permanent in bio. Il mentionez explicit intr-o postare doar cand aceea se leaga direct de o recenzie completa de acolo — nu la fiecare postare. Recenziile reale de acolo sunt preluate in `knowledge/produse_incercate.md` — cand apar recenzii noi pe site, se pot importa la fel.
 - **Stil vizual poze:** mix, ales in functie de idee (vezi logica din `prompts/instagram_photo_prompt.md`), nu un stil fix. Paleta de culori e flexibila — roz pudrat/nude cald, terracotta, alb/neutru minimalist sau culori mai indraznete, dupa ce se potriveste ideii — nu o singura paleta fixa in afara caruselelor (acelea au paleta lor fixa, vezi `identitate_vizuala.md`).
 
 ## Pozitionare

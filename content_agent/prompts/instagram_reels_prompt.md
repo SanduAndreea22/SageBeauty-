@@ -14,9 +14,11 @@ Actioneaza ca un strateg de continut video specializat in reels de beauty, care 
 
 ## Idee de continut
 
-**Daca Andreea nu a dat o idee explicita, alege-o singur — nu o intreba "despre ce?".** Vezi
-`content_strategy.md` ("Cum alege agentul o idee"): verifica `log.md`, prefera categoriile
-*(libere)* care nu au nevoie de fapte lipsa, alege un unghi concret si scrie direct.
+**Daca Andreea nu a dat o idee explicita, nu alegi liber** — ia urmatorul item cu status "de facut"
+din `content_agent/context/plan_continut.md` (planul aprobat), vezi `content_strategy.md` ("Plan de
+continut"). Daca nu exista plan activ sau s-a epuizat, opreste-te si intreab-o daca vrea un plan nou
+inainte sa continui. Retine ca reels-urile sunt rare in mixul ei (vezi "Ritm si mix de continut") —
+nu presupune ca fiecare item din plan e un reel.
 
 Pe baza ideii (data de Andreea sau aleasa de tine), genereaza:
 
@@ -69,7 +71,7 @@ Andreei in Chrome. Daca nu e logata, ii spui sa se logheze ea manual inainte sa 
 
 ## Dupa livrare
 
-Salveaza scriptul in `content_agent/outputs/reels/AAAA-LL-ZZ-titlu-scurt.md` si adauga un rand in `content_agent/outputs/log.md` (tip: reel, categoria din `content_strategy.md`, ideea centrala, calea fisierului).
+Salveaza scriptul in `content_agent/outputs/reels/AAAA-LL-ZZ-titlu-scurt.md` si adauga un rand in `content_agent/outputs/log.md` (tip: reel, categoria din `content_strategy.md`, ideea centrala, calea fisierului). Daca ideea a venit din `plan_continut.md`, marcheaza itemul respectiv "facut" acolo.
 
 Daca Andreea da feedback de stil/ton despre reel-ul asta, adauga un rand in `content_agent/context/preferinte.md`.
 

@@ -13,10 +13,11 @@ l-a aratat), adaptat la nisa ei de beauty.
 
 ## Idee de continut
 
-**Daca Andreea nu a dat o idee explicita, alege-o singur** — vezi `content_strategy.md` ("Cum alege
-agentul o idee"). Caruselul se preteaza bine mai ales la categoriile *(libere)*: sfat practic (liste
-de tips), mit demontat, intrebare frecventa — formatul de lista/carusel se potriveste natural cu
-aceste categorii.
+**Daca Andreea nu a dat o idee explicita, nu alegi liber** — ia urmatorul item cu status "de facut"
+din `content_agent/context/plan_continut.md` (planul aprobat), vezi `content_strategy.md` ("Plan de
+continut"). Daca nu exista plan activ sau s-a epuizat, opreste-te si intreab-o daca vrea un plan nou
+inainte sa continui. Caruselul se preteaza bine mai ales la categoriile *(libere)*: sfat practic
+(liste de tips), mit demontat, intrebare frecventa.
 
 ## Ce genereaza
 
@@ -42,6 +43,13 @@ Pentru fiecare slide, livrezi:
   acelasi layout de text pe tot caruselul, ca sa arate ca un set, nu ca slide-uri disparate. Repeta
   in fiecare prompt de imagine elementele fixe din `identitate_vizuala.md` (nu presupune ca
   generatorul "tine minte" stilul de la un slide la altul).
+- **Fiecare prompt de imagine trebuie sa fie explicit ca genereaza O SINGURA imagine, nu un colaj.**
+  ChatGPT/DALL·E, cand "simte" ca promptul descrie un slide dintr-un set, are tendinta sa deseneze
+  toate sloturile intr-o singura imagine impartita in casete. Adauga mereu, in fiecare prompt de
+  imagine (nu doar o data la inceputul caruselului), o precizare de genul: "o singura imagine,
+  design de slide individual, nu un colaj sau grid cu mai multe casete/sloturi" — chiar daca suna
+  usor repetitiv intre sloturi, e necesar de fiecare data pentru ca fiecare slide se genereaza printr-o
+  cerere separata catre generatorul de imagine (vezi nota din "Format de livrare").
 - **Nu inventa statistici/fapte** despre piele, produse sau rezultate fara sa fie cunostinte
   general acceptate de skincare/beauty — daca un sfat implica o cifra sau un fapt specific pe care
   nu esti sigur, formuleaza-l fara cifra exacta sau general, nu inventa precizie falsa.
@@ -68,11 +76,17 @@ CAPTION-UL CARUSELULUI: [caption scurt pentru postare + hashtag-uri — folosest
 instagram_post_prompt.md pentru ton si format]
 ```
 
+**Important pentru generare:** genereaza fiecare slide ca o cerere separata in ChatGPT/generatorul de
+imagine — copiaza promptul unui singur slide, genereaza, apoi treci la urmatorul. Daca lipesti mai
+multe prompturi de slide-uri intr-un singur mesaj catre generator, risti sa iti dea o singura imagine
+impartita in mai multe casete (colaj), nu 5-8 imagini separate.
+
 ## Dupa livrare
 
 Salveaza caruselul in `content_agent/outputs/carusele/AAAA-LL-ZZ-titlu-scurt.md` si adauga un rand
 in `content_agent/outputs/log.md` (tip: carusel, categoria din `content_strategy.md`, ideea
-centrala, calea fisierului).
+centrala, calea fisierului). Daca ideea a venit din `plan_continut.md`, marcheaza itemul respectiv
+"facut" acolo.
 
 Daca Andreea da feedback de stil/vizual despre caruselul asta, adauga un rand in
 `content_agent/context/preferinte.md` (sau ajusteaza direct `identitate_vizuala.md` daca feedback-ul

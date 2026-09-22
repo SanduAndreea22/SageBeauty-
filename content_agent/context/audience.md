@@ -2,6 +2,12 @@
 
 > Cine urmareste/ar trebui sa urmareasca contul de Instagram. Agentii de postare si reels citesc acest fisier ca sa stie cui vorbesc — nu presupun un public generic "toata lumea". SageBeauty nu vinde nimic, deci audienta e formata din urmaritori/comunitate, nu din potentiali clienti.
 
+> **Nota:** contul s-a mutat recent pe nisa beauty — statisticile curente de urmaritori din Instagram
+> Insights reflecta inca audienta veche, de dinainte de pivot (la data notei: majoritar barbati, nu
+> relevanti pentru continutul nou). Nu recalibra profilul de mai jos dupa acele cifre — ele arata
+> cine urmareste deja contul, nu cine se cauta sa fie atras acum. Profilul ramane tinta pentru
+> continut, nu o reflectare a urmaritorilor actuali.
+
 ## Public principal
 
 - **Varsta / etapa de viata:** in special femei 25-34 ani, interesate mai ales de skincare (dar si de makeup — nu exclusiv).

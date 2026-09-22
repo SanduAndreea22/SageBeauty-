@@ -2,7 +2,10 @@
 
 Memorie de feedback per-continut, diferita de reguli fixe (acelea sunt in `tone_of_voice.md` si `content_strategy.md`). Aici se adauga observatii concrete date de Andreea despre o poza/postare/reel anume, ca sa nu se repete aceeasi corectie de fiecare data.
 
-Momentan gol — se completeaza pe masura ce Andreea da feedback de stil (nu corectii factuale, alea se aplica direct in continut).
+- [2026-09-22] [poza] — Andreea a semnalat ca aproape toate pozele iesisera cu imbracaminte roz si machiaj nude (copiat din exemplul de referinta din `instagram_photo_prompt.md`) — pe viitor, culoarea imbracamintei si stilul de machiaj trebuie variate real de la o poza la alta, motivate de idee, nu implicite. **Exceptie:** cand ideea e despre un produs/look anume (ex: un luciu de buze), machiajul trebuie sa reflecte acel produs (Andreea vrea sa apara cu el vizibil), nu sa varieze arbitrar — variatia se aplica elementelor care nu sunt subiectul postarii. Regula intarita direct in `instagram_photo_prompt.md`.
+- [2026-09-22] [poza] — Andreea a semnalat ca formatul era 9:16 (Stories/Reels) in loc de 4:5 (feed) — corectat direct in `instagram_photo_prompt.md` (regula fixa si exemplu).
+- [2026-09-22] [poza] — Andreea vrea ca poza sa nu para generata de AI — fata cat mai aproape de realitate (nu aspect plastic/supra-neted/airbrushed). Pe viitor, fiecare prompt trebuie sa includa explicit cerinta de textura reala a pielii (pori vizibili, mici imperfectiuni naturale, asimetrie usoara) si sa evite descrieri gen "piele perfecta/impecabila" fara nuanta de realism. Regula intarita direct in `instagram_photo_prompt.md`.
+- [2026-09-22] [poza/text scurt] — Andreea a corectat formularea "Cred ca cel mai bun machiaj e cel care..." (suna ca o afirmatie generala/regula) in "Pentru mine, cel mai frumos machiaj e cel care..." (suna ca preferinta personala, nu ca o regula universala). Pe viitor, cand textul scurt exprima o parere/preferinta a Andreei, se formuleaza explicit ca a ei ("pentru mine", "eu cred", "mie imi place") si nu ca o afirmatie generala/absoluta ("cel mai bun X e...", "adevarul e ca..."). A folosit si un emoji discret (🤍) — un singur emoji simplu e ok cat timp nu devine excesiv (regula de baza din `tone_of_voice.md` ramane "fara emoji excesive", nu "fara emoji deloc").
 
 ## Format unei intrari
 

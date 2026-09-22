@@ -1,5 +1,32 @@
 # Strategie de conținut — SageBeauty
 
+## Stare actuala (pornire de la zero pe beauty)
+
+Contul e proaspat mutat pe nisa beauty — 855 urmaritori / 106 urmariri, dar engagement-ul e foarte
+mic (maxim ~20 aprecieri pe postare, comentarii aproape inexistente). Discrepanta (multi urmaritori,
+aproape zero reactii) confirma ca baza actuala de urmaritori e din perioada dinainte de pivot si nu
+e interesata de beauty (vezi `audience.md` — 84.8% barbati in statisticile vechi) — plus contul e din
+2019, deci o parte din urmaritorii vechi sunt probabil conturi inactive de ani buni, nu doar
+nepotriviti ca nisa. E starea de
+pornire, nu un semn ca ceva nu functioneaza in continut — nu se schimba tonul/strategia doar pe baza
+cifrelor mici de acum. Se actualizeaza aici pe masura ce cresc cifrele reale.
+
+**Semn bun (dar de pe Facebook, nu Instagram):** reach-ul de pe Facebook (contul e cross-postat,
+vezi si "Aprecieri si reactii" defalcate Instagram/Facebook mai sus) arata demografia tinta corecta —
+25-34 ani 56.8%, 18-24 ani 35.1% (impreuna ~92%). Ramane un semn incurajator ca noul continut ajunge
+la varsta potrivita macar pe unul din canale.
+
+**Pe Instagram insa, situatia reala e alta:** la o postare verificata, 100% din vizualizari au venit
+de la urmaritori, 0% de la non-urmaritori (85 vizualizari, 14 spectatori, 3 interactiuni). Deci
+algoritmul Instagram inca nu impinge continutul catre public nou — reach-ul e limitat strict la baza
+veche de urmaritori (care, cum am stabilit mai sus, nu e interesata de beauty). De retinut: pe Instagram, Reels-urile primesc de obicei mult mai mult reach catre non-urmaritori
+(prin Explore/Reels tab) decat pozele/caruselele statice, deci reels-urile rare incetinesc cresterea
+fata de un mix cu mai multe reels. **Motivul real:** Andreea nu se simte inca confortabil sa apara
+in reels (rusine fata de cum arata/avatarul creat pe fata ei) — nu e doar o preferinta de format, e
+un lucru personal. **Nu se readuce in discutie ca tradeoff de crestere / nu se sugereaza sa faca mai
+multe reels** — ramane strict optiunea ei, cand si daca vrea, fara presiune. Carusele + poze raman
+formatele de baza pe termen nedeterminat.
+
 ## Ritm si mix de continut
 
 - **Ritm:** 4-5 postari pe saptamana, 3-4 Stories pe saptamana.
@@ -10,12 +37,32 @@
 - Cand Andreea cere explicit un reel, se scrie normal, dupa `instagram_reels_prompt.md` — durata
   implicita ~30-45 secunde (nu 15-30s), avatar si voce generate cu ElevenLabs (vezi `brand.md`).
 
-## Regula de baza: agentul alege singur, nu Andreea
+## Plan de continut — sursa de idei implicita
 
-**Cand Andreea nu da o idee explicita ("vreau o postare", fara alte detalii), agentul NU o intreaba
-"despre ce?" — alege singur o idee, ca la etapa de Content Strategist/Idea Generator.** Andreea a
-construit agentul ca sa nu mai stea ea sa gaseasca teme. Intrebarea catre ea e ultima solutie, nu
-pasul 1 — vezi mai jos cand chiar e necesara.
+**Ideile nu se mai aleg ad-hoc la fiecare cerere individuala — vin dintr-un plan aprobat de Andreea
+in avans.** Fisierul `content_agent/context/plan_continut.md` tine planul curent (status draft/aprobat
+si un tabel de itemi in ordine, cu status de facut/facut).
+
+Cand Andreea cere continut (poza/postare/carusel/reel) **fara sa dea o idee explicita**:
+
+1. Deschide `plan_continut.md`.
+2. Daca exista un plan cu status **aprobat** si cu cel putin un item **de facut** → ia **urmatorul**
+   item in ordine (primul "de facut" din tabel), foloseste tipul/categoria/ideea lui exact cum sunt
+   scrise acolo, genereaza continutul, apoi marcheaza-l "facut" in `plan_continut.md` (vezi "Dupa
+   livrare" din promptul agentului respectiv).
+3. Daca planul nu exista inca, e inca **draft** (neaprobat), sau toti itemii sunt "facuti" (planul
+   s-a epuizat) → **nu alege liber pe cont propriu**. Spune-i clar Andreei situatia (nu exista plan
+   activ / planul s-a epuizat) si intreab-o daca vrea sa generezi un plan nou inainte sa continui.
+   Daca zice da, genereaza un draft de plan (vezi "Cum genereaza agentul un plan nou" mai jos), arata-l
+   pentru aprobare si opreste-te acolo — nu genera inca postarea efectiva in acelasi raspuns.
+
+Cand Andreea cere explicit un plan ("fa-mi un plan de postari", "plan pe luna asta") — genereaza-l
+direct dupa mecanismul de mai jos, salveaza-l ca **draft** in `plan_continut.md` si arata-l pentru
+aprobare. Planul devine sursa de idei abia dupa ce Andreea confirma explicit ("aprob", "merge asa",
+etc.) — atunci ii schimbi statusul in **aprobat**.
+
+**Idee data explicit de Andreea in cerere** ("vreau o postare despre X") nu atinge planul — o
+folosesti direct, fara sa consumi un item din el (vezi "Cand Andreea da o tema explicita" mai jos).
 
 ## Rotatie de teme (categorii de continut)
 
@@ -29,12 +76,16 @@ sau daca poate fi generata liber, din cunostinte generale de beauty:
 - **Review sincer de produs** *(are nevoie de fapte)* — necesita o intrare reala din `knowledge/produse_incercate.md`. Daca fisierul e gol sau nu are o intrare potrivita, **agentul sare peste aceasta categorie automat** cand alege singur — nu o foloseste ca sa nu inventeze o experienta. O foloseste doar daca Andreea cere explicit un review si ii da detaliile pe loc.
 - **Rutina / culise** *(are nevoie de fapte)* — la fel, doar daca exista detalii reale (in `produse_incercate.md` sau date direct de Andreea). Altfel se sare.
 
-## Cum alege agentul o idee (cand Andreea nu da una)
+## Cum genereaza agentul un plan nou
 
-1. Verifica `content_agent/outputs/log.md` — exclude categoriile/unghiurile folosite in ultimele 2-3 continuturi de acelasi tip.
-2. Din categoriile ramase, prefera implicit cele marcate *(liber)* — nu au nevoie de fapte pe care Andreea nu le-a dat.
-3. Alege un unghi concret in acea categorie (nu genericul categoriei — un tips anume, un mit anume) si scrie continutul direct, fara sa mai intrebe.
-4. Categoriile *(au nevoie de fapte)* se folosesc doar cand exista date reale disponibile (in `produse_incercate.md`) sau cand Andreea a dat deja detaliile in cerere.
+Foloseste acest mecanism doar cand generezi/reinnoiesti planul din `plan_continut.md` (nu la fiecare
+cerere individuala de continut — vezi sectiunea de mai sus):
+
+1. Verifica `content_agent/outputs/log.md` si istoricul din `plan_continut.md` — exclude categoriile/unghiurile folosite recent, ca sa nu se repete.
+2. Prefera implicit categoriile marcate *(liber)* — nu au nevoie de fapte pe care Andreea nu le-a dat.
+3. Pentru fiecare item, alege un unghi concret in acea categorie (nu genericul categoriei — un tips anume, un mit anume), si un tip de continut (poza/postare/carusel/reel) respectand mixul din "Ritm si mix de continut" (carusele + poze predominant, reels rar).
+4. Categoriile *(au nevoie de fapte)* se folosesc doar cand exista date reale disponibile (in `produse_incercate.md`) — altfel se sar la generarea planului.
+5. Un plan tipic acopera aproximativ o saptamana-doua din ritmul stabilit (4-5 postari/saptamana) — nu genera zeci de itemi deodata, ca sa ramana usor de revizuit si aprobat.
 
 ## Regula de nerepetare
 
