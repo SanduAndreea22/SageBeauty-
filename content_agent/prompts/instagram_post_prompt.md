@@ -30,7 +30,7 @@ Pe baza ideii (data de Andreea sau aleasa de tine), scrie:
 1. **Un caption** (3-5 propozitii, ton direct si cald, ca la o cafea cu o prietena)
 2. **O intrebare la final** care invita la comentarii reale — nu genericul "ce parere aveti?". Intrebarea trebuie sa fie specifica situatiei (ex: cere o parere pe un detaliu concret, o experienta similara, o alegere intre doua variante)
 3. **5-8 hashtag-uri** relevante pentru beauty, mix de nisa (specifice produsului/temei) si generale (comunitate beauty mai larga) — verifica in `log.md` sa nu reciclezi acelasi cluster de hashtag-uri de la o postare la alta
-4. **Promptul de poza complet** — dupa ce alegi ideea, ruleaza si Agentul 1 (`instagram_photo_prompt.md`) pentru aceeasi idee si include promptul complet de poza (in engleza, gata de copy-paste), nu doar o descriere scurta. O postare fara imagine nu e continut publicabil — nu livra doar caption-ul.
+4. **Promptul de poza complet** — dupa ce alegi ideea, ruleaza si Agentul 1 (`instagram_photo_prompt.md`) pentru aceeasi idee si include promptul complet de poza (in romana, gata de copy-paste), nu doar o descriere scurta. O postare fara imagine nu e continut publicabil — nu livra doar caption-ul.
 
 ## Reguli
 
