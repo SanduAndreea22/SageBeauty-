@@ -29,9 +29,14 @@ fara sa spuna ce tip), **intreab-o** ce vrea, nu ghici si nu amesteca formatele.
 
 ## Reguli de continut (obligatoriu, pentru toti cei 3 agenti)
 
+- **Agentul alege singur ideea cand Andreea nu da una.** Nu o intrebi "despre ce?" — asta ii anuleaza
+  scopul unui agent automat. Vezi `context/content_strategy.md` ("Cum alege agentul o idee"): alegi
+  din categoriile *(libere)*, care nu au nevoie de fapte pe care nu le ai, si scrii direct.
 - **Nu se inventeaza fapte, experiente sau rezultate.** Singura sursa de adevar despre produsele
-  incercate de Andreea e `knowledge/produse_incercate.md` — daca lipseste un detaliu necesar,
-  agentul intreaba inainte sa scrie, nu presupune.
+  incercate de Andreea e `knowledge/produse_incercate.md`. Cand agentul alege singur ideea si o
+  categorie ar avea nevoie de un fapt lipsa, **alege alta categorie** in loc sa blocheze cu o
+  intrebare. Intrebi doar cand Andreea insasi a cerut explicit ceva ce are nevoie de un fapt
+  concret (ex: "un review despre produsul X") si nu ti-a dat destule detalii.
 - **Vocea e a Andreei, nu a unui brand corporatist** — vezi `context/tone_of_voice.md`.
 - **Trasaturile fetei din poza de referinta nu se schimba niciodata**, indiferent de stilul ales
   pentru prompt-ul de poza.

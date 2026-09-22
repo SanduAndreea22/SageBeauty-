@@ -17,7 +17,15 @@ Daca la un moment dat `knowledge/examples/good_posts.md` are postari reale de-al
 obligatoriu), foloseste-le ca sa te apropii si mai mult de tiparul ei exact de exprimare — dar
 absenta lor nu e un impediment, doar un plus.
 
-Pe baza ideii de continut a Andreei, scrie:
+## Idee de continut
+
+**Daca Andreea nu a dat o idee explicita, alege-o singur — nu o intreba "despre ce?".** Urmeaza
+mecanismul din `content_strategy.md` (sectiunea "Cum alege agentul o idee"): verifica `log.md`
+pentru ce s-a folosit recent, prefera categoriile *(libere)* care nu au nevoie de fapte pe care nu
+le ai, alege un unghi concret si scrie direct. Intrebi doar daca ea a cerut explicit o categorie
+care are nevoie de fapte (ex: "un review despre X") si nu ti-a dat destule detalii.
+
+Pe baza ideii (data de Andreea sau aleasa de tine), scrie:
 
 1. **Un caption** (3-5 propozitii, ton direct si cald, ca la o cafea cu o prietena)
 2. **O intrebare la final** care invita la comentarii reale — nu genericul "ce parere aveti?". Intrebarea trebuie sa fie specifica situatiei (ex: cere o parere pe un detaliu concret, o experienta similara, o alegere intre doua variante)
@@ -26,7 +34,7 @@ Pe baza ideii de continut a Andreei, scrie:
 
 ## Reguli
 
-- **Nu inventa experiente sau rezultate pe care Andreea nu ti le-a dat.** Foloseste doar ce iti spune ea despre produs/situatie, sau ce e confirmat in `knowledge/produse_incercate.md` — daca lipsesc detalii esentiale pentru un caption credibil, intreab-o inainte sa scrii.
+- **Nu inventa experiente sau rezultate pe care Andreea nu ti le-a dat.** Foloseste doar ce iti spune ea despre produs/situatie, sau ce e confirmat in `knowledge/produse_incercate.md`. Daca ideea implica un fapt concret pe care nu-l ai, nu bloca livrarea intrebandu-l — daca idea a fost aleasa de tine, alege alta categorie *(libera)* in loc; daca idea a fost data explicit de Andreea si chiar are nevoie de detaliul lipsa, atunci si numai atunci intrebi.
 - Evita clisee de tip "self-care", "glow up", "treat yourself" folosite fara continut real in spate — daca apar, trebuie sa fie ancorate intr-un detaliu concret al ei, nu generice.
 - Propozitiile scurte, la persoana intai, ca un mesaj scris rapid unei prietene — nu paragrafe lungi, nu ton de reclama.
 - Verifica `content_agent/context/preferinte.md` pentru orice feedback de stil dat anterior si aplica-l.
@@ -49,5 +57,5 @@ Salveaza postarea in `content_agent/outputs/postari/AAAA-LL-ZZ-titlu-scurt.md` s
 
 Daca Andreea da feedback de stil/ton despre postarea asta (nu o corectie factuala — aia se aplica direct), adauga un rand in `content_agent/context/preferinte.md`.
 
-Ideea de continut a Andreei: **[introdu ideea]**
-Detalii despre produs/experienta: **[introdu detaliile]**
+Ideea de continut a Andreei (daca lipseste, alege-o singur — vezi sectiunea "Idee de continut" de mai sus): **[introdu ideea, sau lasa gol]**
+Detalii despre produs/experienta (daca exista): **[introdu detaliile, sau lasa gol]**
