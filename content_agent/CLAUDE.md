@@ -63,7 +63,8 @@ content_agent/
 │   ├── identitate_vizuala.md ← ✅ reguli vizuale pentru tot feed-ul (director de creatie)
 │   └── preferinte.md      ← feedback de stil per-continut, se completeaza in timp
 ├── knowledge/               ← fapte verificabile, nu se inventeaza
-│   ├── produse_incercate.md ← [DE COMPLETAT] produse reale folosite de Andreea
+│   ├── produse_incercate.md ← produse reale folosite de Andreea (skincare + 16 makeup notate)
+│   ├── analiza_ten.md     ← analiza profesionala a tenului ei (ten gras, deshidratat)
 │   └── examples/
 │       ├── good_posts.md   ← exemple de calitate, se completeaza in timp
 │       └── bad_posts.md    ← ce se evita, se completeaza in timp

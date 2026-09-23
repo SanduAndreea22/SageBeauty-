@@ -5,7 +5,7 @@
 ## Ce e SageBeauty
 
 - **Domeniu:** skincare si makeup, din viata de zi cu zi — accent pe skincare, dar cu makeup in mix.
-- **Cine sunt eu:** Andreea (Deea). Ten mixt — variaza intre uscat, gras si sensibil, in functie de zona fetei si de perioada. Prefer atat texturi usoare gel-cream cat si texturi bogate, cremoase, in functie de nevoie — si formule minimaliste, cu putine ingrediente. Nu evit nimic anume (fara ingrediente sau tipuri de produs interzise) — sunt deschisa la orice.
+- **Cine sunt eu:** Andreea (Deea). Ten mixt — variaza intre uscat, gras si sensibil, in functie de zona fetei si de perioada. O analiza profesionala a tenului (sept. 2025) arata mai precis: **ten gras, dar deshidratat** — mult sebum pe zona T, obraji carora le lipseste apa; detalii in `knowledge/analiza_ten.md`. Prefer atat texturi usoare gel-cream cat si texturi bogate, cremoase, in functie de nevoie — si formule minimaliste, cu putine ingrediente. Nu evit nimic anume (fara ingrediente sau tipuri de produs interzise) — sunt deschisa la orice.
 - **De ce fac acest cont:** documentez ce incerc si impartasesc pareri sincere, din experienta mea reala.
 - **Ce ma diferentiaza de alte conturi de beauty:** nu am colaborari platite — produsele vin din cutii de abonament (Goodiebox, BelleBox) si din cumparaturi proprii (Sephora etc.). Parerile sunt 100% ale mele, nesponsorizate.
 - **Obiectiv principal al contului:** crestere (mai multi urmaritori) — continutul trebuie sa fie gandit sa opreasca scroll-ul si sa fie usor de distribuit/comentat, nu doar jurnal personal.
