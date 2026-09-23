@@ -38,3 +38,5 @@ subtire, pamatuf cu pudra); coperta si ultimul slide sunt Andreea in aceeasi zi 
 acelasi pulover) — spun o poveste; firul e clar: coperta anunta "5 greseli", slide-urile sunt
 greselile, rezumatul "Ca sa tina pana seara", intrebarea finala cere numarul greselii. Detaliile de
 fundal (cana, biletel) i-au placut — dau viata cadrului.
+Primul semnal real (2026-09-23, TikTok): o urmaritoare l-a **salvat** in aceeasi seara — exact
+reactia pentru care e gandit slide-ul de rezumat "Ca sa tina pana seara".
