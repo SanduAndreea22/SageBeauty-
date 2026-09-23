@@ -58,6 +58,11 @@ poate respecta, ce anume si de ce (ex: "nu am parerea ta despre X → am lasat [
 - [ ] Reel 15-30s, doar avatar, text pe ecran pe fiecare cadru, voiceover curat fara adnotari.
 - [ ] Stories: 2-3 frame-uri, pornesc de la un continut existent, max 1 emoji pe frame, fundal 9:16.
 
+## 5b. Varianta TikTok (carusel / postare)
+
+- [ ] Exista sectiunea "Varianta TikTok": titlu = hook scurt, caption 1-2 propozitii, 3-5 hashtag-uri,
+      tip de sunet (nu un titlu de melodie inventat). Imaginile sunt aceleasi.
+
 ## 6. Plan si evidenta
 
 - [ ] Ideea vine din `context/plan_continut.md` (sau a dat-o Andreea explicit).

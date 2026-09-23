@@ -99,6 +99,12 @@ Text pe imagine: [...] — pozitie: [...]
 CAPTION: [3-5 propozitii, incepe cu hook, se termina cu o intrebare specifica, 2-3 emoji maxim]
 
 HASHTAG-URI: [max 5 — limita Instagram; alege cele mai specifice temei, nu generale]
+
+VARIANTA TIKTOK (aceleasi imagini, photo mode):
+Titlu: [hook-ul, max ~60 caractere, poate avea 1 emoji]
+Caption: [1-2 propozitii scurte + aceeasi intrebare de final]
+Hashtag-uri: [3-5, specifice temei]
+Sunet: [tipul de sunet de ales din biblioteca TikTok — ex: "calm, in trend, volum mic"; nu un titlu anume inventat]
 ```
 
 **Important pentru generare:** genereaza fiecare slide ca o cerere separata in generatorul de imagine

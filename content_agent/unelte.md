@@ -12,7 +12,7 @@
 | Poze cu produsele ei reale | telefonul ei (`[POZA MEA: ...]`) | Andreea | agentul da descrierea exacta a cadrului |
 | Voce + avatar pentru reels | ElevenLabs, prin Chrome (`mcp__claude-in-chrome__*`) | agentul, cu acordul ei la fiecare generare | vezi `prompts/instagram_reels_prompt.md`; consuma credite |
 | Publicare Instagram (feed, Stories) | aplicatia Instagram | Andreea | manual; max 5 hashtag-uri |
-| Publicare TikTok | aplicatia TikTok (photo mode pentru carusele) | Andreea | sunet din biblioteca, titlu = hook |
+| Publicare TikTok | aplicatia TikTok (photo mode — carusele si poze single, fara video) | Andreea | aceleasi imagini ca pe Instagram; agentul livreaza "Varianta TikTok" (titlu, caption scurt, 3-5 hashtag-uri, tip de sunet). Pe TikTok ajunge la public nou: primul carusel 94% non-urmaritori, 91% femei |
 | Salvare si istoric | `outputs/`, `outputs/log.md`, git (push pe `main`) | agentul | |
 
 ## Ce NU poate face agentul

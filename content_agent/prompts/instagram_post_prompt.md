@@ -57,6 +57,12 @@ HOOK: [tipul folosit — identificare/curiozitate/mit contrazis/adresare directa
 [hashtag-uri, separate prin spatiu]
 
 [Idee de vizual]
+
+VARIANTA TIKTOK (aceleasi imagini, photo mode):
+Titlu: [hook-ul, max ~60 caractere, poate avea 1 emoji]
+Caption: [1-2 propozitii scurte + aceeasi intrebare de final]
+Hashtag-uri: [3-5, specifice temei]
+Sunet: [tipul de sunet de ales din biblioteca TikTok — ex: "calm, in trend, volum mic"; nu un titlu anume inventat]
 ```
 
 ## Inainte de livrare — verificare (obligatoriu)

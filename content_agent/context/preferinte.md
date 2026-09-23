@@ -12,6 +12,7 @@ Memorie de feedback per-continut, diferita de reguli fixe (acelea sunt in `tone_
 - [2026-09-23] [carusel] — Andreea a pastrat intentionat citatele in engleza de pe cana/biletel/carti de pe coperta ("imi plac"). Nu se mai cer scoase; textele mici de fundal sunt ok cat timp nu concureaza cu textul slide-ului.
 - [2026-09-23] [toate] — Andreea: Instagram permite maximum 5 hashtag-uri pe postare. Inlocuieste decizia anterioara de 8-12; aplicat in toti agentii si in `tone_of_voice.md`.
 - [2026-09-23] [toate] — Andreea: "nu conteaza ca inventezi daca eu aprob". Formularile personale propuse de agent sunt ok, cu conditia sa fie marcate `[DE APROBAT]` in verificare; ea decide. Fraza "pentru mine conteaza cel mai mult pasul 3" din caruselul publicat ramane (aprobata de ea).
+- [2026-09-23] [carusel/postare] — Andreea: vrea sa posteze acelasi continut si pe TikTok (fara video cu ea). Agentii de carusel si postare livreaza de acum si "Varianta TikTok".
 
 ## Format unei intrari
 
