@@ -70,8 +70,9 @@ De retinut pentru continut: trei branduri, trei sisteme diferite de denumire a n
 
 ## Rutina curenta (daca vrei sa fie mentionata in continut)
 
-- **Dimineata:** practic nu are rutina — nu are timp (spus de Andreea, 2026-09-23). Nu se scrie
-  continut ca si cum ar avea o rutina de dimineata in mai multi pasi.
+- **Dimineata:** are de obicei **~30 de minute** dimineata (Andreea, 2026-09-24) — pana acum nu avea
+  rutina de skincare dimineata (2026-09-23). Lucreaza 8 ore pe zi; rutina trebuie sa fie scurta si
+  realista. Nu se scrie continut ca si cum ar avea deja o rutina de dimineata stabila.
 - **Seara (confirmat 2026-09-23):** Glow Recipe Watermelon Glow PHA+BHA Toner, apoi crema Tatcha
   The Dewy Skin Cream.
 - Andreea **vrea sa-si faca o rutina, dar nu-i iese** (spus 2026-09-23) — subiect real, relatable,
