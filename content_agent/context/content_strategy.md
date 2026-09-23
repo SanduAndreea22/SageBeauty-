@@ -87,6 +87,16 @@ slide-uri** (22m20s timp total / 303 = ~4,4 s pe vizualizare), deci rezumatul (s
 (slide 8) aproape nu sunt vazute → 0 comentarii. Recomandare (aprobat de Andreea 2026-09-24, aplicat in `instagram_carousel_prompt.md` si `verificare.md`): slide-ul 2
 trebuie sa fie util singur + sa aiba motiv de swipe, iar intrebarea apare devreme, nu doar la final.
 
+**Acelasi carusel pe Instagram (+ republicat automat pe Facebook), 2026-09-24 — acelasi raport:**
+150 vizualizari (Instagram 135, Facebook 15), 24 spectatori, 4 aprecieri (IG 2, FB 2), 0 comentarii,
+0 salvari, 4 vizite in profil, 0 urmaritori noi; surse: Flux 73,8%, Povesti 18%, Profil 5,7%;
+interactiuni pe slide: coperta 2, slide-urile 2-4: 0. Graficul IG se aplatizeaza dupa prima ora
+(~110 → ~130 la 2h), TikTok creste liniar. Calcul: 150 / 24 = ~6,25 vizualizari per persoana —
+Instagram numara probabil vizualizarile altfel (ipoteza), deci nu se compara direct cu TikTok.
+Concluzie: pe Instagram postarea ramane la cercul existent; public nou vine de pe TikTok. Interactiunea
+slaba (0 comentarii, 0 urmaritori noi) e pe ambele platforme → problema e a caruselului, nu a platformei;
+recomandarea de mai sus ramane valabila. (% urmaritori si sex/varsta pe Instagram nu s-au vazut.)
+
 ## Rotatie de teme (categorii de continut)
 
 Fiecare categorie e marcata daca are nevoie de fapte concrete de la Andreea (produs/rezultat real)
