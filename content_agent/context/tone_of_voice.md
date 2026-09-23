@@ -10,7 +10,8 @@ Regulile de aici vin direct din brief-ul initial al Andreei pentru agentii de co
 - Detalii concrete din experienta reala — nu generalitati vagi.
 - Fara aforisme fortate, fara fraze taiate artificial pe fiecare rand ca sa para "impact".
 - Fara cliseee de tip "self-care", "glow up", "treat yourself" folosite fara continut real in spate. Daca apar, trebuie ancorate intr-un detaliu concret, nu generice.
-- Fara emoji excesive, fara ton de reclama.
+- Maximum 2-3 emoji pe caption (decizia Andreei, 2026-09-23), fara ton de reclama.
+- Un singur mesaj principal pe postare, si fiecare postare ofera ceva concret: un sfat, o comparatie, un rezultat vizibil.
 
 ## Ce sa NU sune niciodata
 
@@ -20,7 +21,7 @@ Regulile de aici vin direct din brief-ul initial al Andreei pentru agentii de co
 
 ## Regula comuna tuturor agentilor
 
-**Nu se inventeaza fapte, experiente sau rezultate.** Daca o postare/reel are nevoie de un detaliu concret despre un produs/rezultat pe care Andreea nu l-a dat, agentul intreaba inainte sa scrie — nu presupune si nu umple golul cu ceva plauzibil.
+**Nu se inventeaza fapte, experiente, pareri sau rezultate.** Daca o postare/reel are nevoie de un detaliu concret despre un produs/rezultat pe care Andreea nu l-a dat, agentul intreaba inainte sa scrie — sau, cand e doar parerea ei despre un produs, lasa `[PAREREA MEA: ce trebuie completat]` in text. Nu presupune si nu umple golul cu ceva plauzibil.
 
 ## Note pe tip de continut
 

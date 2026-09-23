@@ -45,9 +45,10 @@ Pentru fiecare frame, livrezi:
 - **Textul exact** de pe ecran (scurt — se citeste in 3-5 secunde)
 - **Sticker-ul** (tip + textul intrebarii + variantele de raspuns, exact cum se completeaza in Instagram)
 - **Fundalul**: fie "distribuie postarea din feed" (fara imagine noua), fie un **prompt de imagine**
-  in romana pentru un fundal simplu, **format 9:16 vertical** (Stories), respectand paleta din
-  `identitate_vizuala.md`, cu spatiu liber mare in centru pentru text si sticker — fara text scris
-  in imagine (textul si sticker-ul se pun direct in Instagram). O singura imagine, nu colaj.
+  in romana, **format 9:16 vertical** (Stories), cu un element vizual real (piele de aproape,
+  produs pe blat, textura, mana care aplica — vezi `identitate_vizuala.md`, nu fundal gol), lumina
+  naturala calda, cu spatiu liber mare in centru pentru text si sticker — fara text scris in imagine
+  (textul si sticker-ul se pun direct in Instagram). O singura imagine, nu colaj.
 
 ## Reguli
 

@@ -1,34 +1,50 @@
-# Identitate vizuală — carusele educaționale
+# Identitate vizuală — SageBeauty
 
-> Stil implicit pentru cardurile de carusel (Agentul 4). Structura (mix poze + carduri educationale,
-> layout curat cu o iconita pe slide) e inspirata dintr-o referinta aratata de Andreea, dar paleta si
-> stilul de mai jos sunt gandite specific pentru nisa de beauty, nu copiate de acolo.
-> [DE AJUSTAT de Andreea] — schimba culorile/iconitele daca vrei altceva; agentul le respecta pe cele de aici.
+> Reguli vizuale pentru **tot** continutul de feed (carusele, postari cu poza) — din brief-ul de
+> director de creatie dat de Andreea pe 2026-09-23. Inlocuieste stilul vechi de carusel (iconite
+> line-art pe fundal plat), pe care Andreea l-a gasit "nu asa wow": curat, dar plat, nu oprea
+> scroll-ul. [DE AJUSTAT de Andreea] — agentul respecta ce e scris aici.
 
-## Paletă de culori
+## Regula de baza
 
-- **Fundal:** roz pudrat foarte deschis / nude cald (ex: #F7E8E2 / #F2DFD3) — culori asociate cu
-  skincare/makeup, nu bej corporate
-- **Text principal:** maro-roscat inchis sau antracit cald, contrast bun pe fundal
-- **Accent:** roz mai intens sau terracotta cald, folosit punctual (iconita, o linie, un cerc)
+**Fara slide-uri/poze cu doar iconite si text pe fundal simplu.** Fiecare imagine are un element
+vizual real: fata, piele, produs, textura sau o mana care aplica ceva.
 
-## Stil iconițe/ilustrații
+## Reguli vizuale (obligatorii)
 
-- Ilustratii simple, stil line-art sau flat minimalist, o singura culoare de accent
-- Iconite legate tematic de beauty si de continutul specific al slide-ului — ex: o sticluta de ser,
-  o pensula de machiaj, o picatura, o oglinda, o frunza (pentru ingrediente naturale) — nu iconite
-  generice fara legatura (mar, munte etc.)
-- Fara fotografii in cardurile educationale — doar ilustratie/text
+1. **Aproape, nu de departe.** Pielea si produsul se vad de aproape: textura fondului de ten,
+   stralucirea, porii, rezultatul pe ten. Macro si prim-planuri, nu cadre largi goale.
+2. **Arati, nu doar spui.** Problema si solutia se vad in imagine — ex: fond de ten crapat/cu pete
+   pe zona T vs fond care arata proaspat. Textul confirma ce se vede, nu il inlocuieste.
+3. **Compozitie diferita pe fiecare slide.** Rotesti intre: prim-plan pe fata, macro pe textura,
+   produs pe masa/blat (flat lay sau unghi 45°), comparatie in doua parti (split), mana in actiune
+   (aplica, intinde, tapoteaza). Nu repeti acelasi aranjament de doua ori la rand in acelasi set.
+4. **Textul ocupa maximum o treime din imagine si sta peste ea**, nu in locul ei — intr-o zona
+   linistita a pozei (fundal, umar, blat), cu contrast suficient (umbra fina sau banda
+   semitransparenta in culoarea paletei, nu casete opace mari).
+5. **Lumina naturala, culori calde, aspect de viata reala — nu de reclama.** Lumina de fereastra,
+   ora de aur, baie/masa de machiaj reala. Fara studio steril, fara produse plutind in aer.
+6. **Realism:** piele cu textura reala (pori, mici imperfectiuni, asimetrie usoara), nu
+   aspect plastic/airbrushed de AI — aceeasi regula ca in `prompts/instagram_photo_prompt.md`.
+7. **Trasaturile fetei din poza de referinta nu se schimba niciodata.**
 
-## Tipografie (descriere pentru prompt, nu font exact)
+## Paletă — ce leaga postarile in feed
 
-- Titluri: font sans-serif curat, ingrosat, dimensiune mare, lizibil de la prima privire
-- Text corp: acelasi sans-serif, mai subtire, dimensiune mai mica
-- Text centrat sau aliniat consistent (aceeasi regula pe tot caruselul)
+Paleta nu mai e "fundalul cardului" — e **tonul general al imaginilor si culoarea textului
+suprapus**, pastrate la fel pe toate slide-urile ca postarea sa se recunoasca in feed:
 
-## Ton vizual general
+- **Ton general al imaginii:** cald — nude, roz pudrat, piersica, lumina aurie; fundaluri reale in
+  aceste nuante (prosop, blat, perete, lenjerie) acolo unde se poate
+- **Text suprapus:** alb cald/crem sau maro-roscat inchis, in functie de ce contrasteaza pe zona
+  respectiva a pozei
+- **Accent:** terracotta cald — pentru cifre, sublinieri, eticheta "gresit"/"corect", sageti fine
+- Tipografie: sans-serif curat, titlu ingrosat mare, text de explicatie mai subtire; aceeasi pe tot setul
 
-Curat, minimalist, cald — nu aglomerat, mult spatiu liber in jurul textului, un singur element
-vizual per slide (iconita), nu mai multe. Trebuie sa se simta clar "beauty/skincare", nu
-"business/marketing" — daca o iconita sau o culoare ar avea la fel de bine sens intr-un carusel
-despre productivitate sau finante, nu e suficient de specifica pentru SageBeauty.
+## Poze reale vs generate AI (decizia Andreei, 2026-09-23: mix)
+
+- **Fata, look-uri, piele pe fata** → generate AI pe baza pozei ei de referinta.
+- **Produse reale ale Andreei** (din Goodiebox, BelleBox, Sephora etc., vezi
+  `knowledge/produse_incercate.md`) → le fotografiaza ea. Se marcheaza in livrare cu
+  `[POZA MEA: descrierea exacta a pozei de facut — cadru, unghi, lumina, ce e pe blat]`.
+- Produse generice (un fond de ten oarecare, o pensula) → AI, **fara brand/eticheta lizibila**, ca
+  sa nu sugereze un produs anume pe care nu l-a testat.

@@ -22,13 +22,16 @@ nu presupune ca fiecare item din plan e un reel.
 
 Pe baza ideii (data de Andreea sau aleasa de tine), genereaza:
 
-1. **Un script scurt de voiceover** (~30-45 secunde implicit — vezi ritmul din `content_strategy.md`; ton natural, ca vorbit nu ca citit)
+1. **Un script scurt de voiceover** (**15-30 secunde** — vezi `content_strategy.md`; ton natural, ca vorbit nu ca citit)
 2. **Structura reel-ului**: hook (primele 2 secunde), continut, CTA final
-3. **Ce cadre/poze ar trebui sa insoteasca voiceover-ul** (secventa vizuala)
+3. **Scenariul cadru cu cadru**: pentru fiecare cadru — ce se vede, ce se spune, ce text apare pe ecran
 
 ## Reguli
 
-- **Hook-ul trebuie sa opreasca scroll-ul in primele 2 secunde** — foloseste curiozitate sau o afirmatie directa, nu introduceri lungi ("Salut, azi va arat...").
+- **Hook-ul trebuie sa opreasca scroll-ul in primele 2 secunde** — ideal rezultatul final sau concluzia spusa direct (ex: avatarul cu look-ul final + "Asa arata fondul de ten la 5 seara."), nu introduceri lungi ("Salut, azi va arat...").
+- **Doar avatarul ElevenLabs** (decizia Andreei, 2026-09-23) — fara filmare reala si fara cadre separate de maini/produs. Variatia vizuala vine din: incadrare diferita (prim-plan / plan mediu), fundal diferit intre segmente, text pe ecran care se schimba.
+- **Text pe ecran mereu**, pe fiecare cadru — multi se uita fara sunet. Scurt, 3-6 cuvinte, sincronizat cu ce se spune.
+- Cadre scurte (2-5 secunde), ritm alert.
 - Scriptul de voiceover trebuie sa sune natural cand e citit cu voce tare, cu pauze si ritm de vorbire reala — nu ca un text scris pentru citit din ochi. Propozitii scurte, fara constructii stufoase.
 - Nu inventa rezultate/experiente care nu au fost date de Andreea — foloseste doar ce e confirmat in `knowledge/produse_incercate.md` sau spus explicit de ea. Daca idea a fost aleasa de tine si are nevoie de un fapt lipsa, alege alta categorie *(libera)* in loc sa blochezi livrarea cu o intrebare; intrebi doar daca Andreea a cerut explicit o categorie care are nevoie de fapte si nu ti-a dat destule detalii.
 - Secventa vizuala trebuie sa fie realizabila cu poze/clipuri simple (nu cere productie complexa) — se coreleaza cu ce a fost generat de Agentul 1 (prompt de poza), daca exista deja o poza pentru aceasta idee.
@@ -41,12 +44,16 @@ HOOK (0-2s):
 [textul hook-ului]
 
 VOICEOVER COMPLET (gata de copy-paste in ElevenLabs):
-[scriptul integral, ~30-45s, fara adnotari — doar textul vorbit]
+[scriptul integral, 15-30s, fara adnotari — doar textul vorbit]
 
-STRUCTURA / SECVENTA VIZUALA:
-0-2s — [ce se vede] — [ce se aude/hook]
+SCENARIU CADRU CU CADRU:
+0-2s — Se vede: [incadrare avatar + fundal] — Se spune: [hook] — Text pe ecran: [...]
+2-Xs — Se vede: [...] — Se spune: [...] — Text pe ecran: [...]
 ...
-finalul — [ce se vede] — CTA: [textul de CTA]
+final — Se vede: [...] — Se spune: [CTA] — Text pe ecran: [...]
+
+CAPTION: [3-5 propozitii, incepe cu hook, se termina cu o intrebare, 2-3 emoji maxim]
+HASHTAG-URI: [8-12]
 ```
 
 Tine voiceover-ul intr-un bloc separat, curat, fara adnotari de regie in interior — Andreea trebuie sa poata sa il copieze direct in ElevenLabs fara sa mai stearga nimic.

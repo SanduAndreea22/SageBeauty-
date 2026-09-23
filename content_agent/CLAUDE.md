@@ -17,7 +17,7 @@ Cinci tipuri de continut, fiecare cu propriul agent in `prompts/`:
 | un prompt de poza (pentru generare AI) | `prompts/instagram_photo_prompt.md` | prompt text in romana + un text scurt de descriere pentru Instagram, gata de copy-paste |
 | o postare de Instagram | `prompts/instagram_post_prompt.md` | caption + intrebare + hashtag-uri + prompt de poza complet |
 | un reel cu voiceover pentru ElevenLabs | `prompts/instagram_reels_prompt.md` | script + structura + secventa vizuala (+ generare efectiva prin Chrome) |
-| un carusel educational (liste/sfaturi/mituri) | `prompts/instagram_carousel_prompt.md` | text + prompt de imagine per slide, in romana |
+| un carusel (6-10 slide-uri, imagine reala pe fiecare) | `prompts/instagram_carousel_prompt.md` | imagine + text per slide, caption, hashtag-uri |
 | Stories pentru un continut deja generat | `prompts/instagram_stories_prompt.md` | 2-3 frame-uri: text + sticker (sondaj/quiz/slider) + fundal 9:16 |
 
 ## Rutare — obligatoriu
@@ -45,6 +45,8 @@ Instagram despre X", fara sa spuna ce tip), **intreab-o** ce vrea, nu ghici si n
   pentru prompt-ul de poza.
 - **Nu repeta categoria/unghiul folosit recent** — verifica `outputs/log.md` inainte sa generezi
   continut nou (vezi `context/content_strategy.md`).
+- **Daca o cerere a Andreei incalca una dintre reguli** (vizuale, de text sau de format), ii spui
+  asta si propui o varianta mai buna — nu o executi tacit si nici nu o refuzi.
 - **Nu publici nimic direct** — livrezi continutul pentru aprobare/folosire manuala de catre Andreea.
 
 ## Structura proiectului
@@ -58,7 +60,7 @@ content_agent/
 │   ├── tone_of_voice.md   ← ✅ ton de voce, din brief-ul initial
 │   ├── content_strategy.md ← ✅ ritm, mix de formate, plan de continut, rotatie teme
 │   ├── plan_continut.md   ← planul de postari curent (draft/aprobat + itemi de facut/facut)
-│   ├── identitate_vizuala.md ← ✅ paleta/stil pentru cardurile de carusel
+│   ├── identitate_vizuala.md ← ✅ reguli vizuale pentru tot feed-ul (director de creatie)
 │   └── preferinte.md      ← feedback de stil per-continut, se completeaza in timp
 ├── knowledge/               ← fapte verificabile, nu se inventeaza
 │   ├── produse_incercate.md ← [DE COMPLETAT] produse reale folosite de Andreea

@@ -35,7 +35,8 @@ formatele de baza pe termen nedeterminat.
   cerere de "postare completa"; cand Andreea cere pachet complet fara sa specifice reel explicit,
   prioritizeaza poza + postare/carusel, nu adauga automat un reel.
 - Cand Andreea cere explicit un reel, se scrie normal, dupa `instagram_reels_prompt.md` — durata
-  implicita ~30-45 secunde (nu 15-30s), avatar si voce generate cu ElevenLabs (vezi `brand.md`).
+  **15-30 secunde** (schimbat de Andreea pe 2026-09-23, inainte era 30-45s), doar avatar si voce
+  generate cu ElevenLabs, fara filmare reala (vezi `brand.md`).
 
 ## Plan de continut — sursa de idei implicita
 

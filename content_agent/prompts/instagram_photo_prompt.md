@@ -49,9 +49,14 @@ Genereaza promptul complet de poza (**in romana**, ca in exemplul Andreei — nu
 fara sa ceara ea explicit), respectand mereu:
 
 - nu schimba trasaturile fetei din poza de referinta
+- daca subiectul e un produs real al Andreei (din `knowledge/produse_incercate.md`), livrezi in loc
+  de prompt AI `[POZA MEA: descrierea exacta a pozei de facut]` — ea il fotografiaza
 - rezolutie 4K, aspect ratio 4:5 (format de postare pe feed Instagram — nu 9:16, care e pentru Stories/Reels)
 - stil ultrarealist, foarte detaliat
 - minim de elemente in fundal
+- regulile vizuale din `content_agent/context/identitate_vizuala.md` (aproape, nu de departe; lumina
+  naturala si culori calde, aspect de viata reala, nu de reclama; tonul paletei contului). Stilul
+  editorial de mai jos ramane valabil pentru look-uri, dar fara aer steril de studio.
 - **poza nu trebuie sa para generata de AI** — fata cat mai aproape de realitate. Include mereu explicit
   textura reala a pielii (pori vizibili, mici imperfectiuni naturale, asimetrie usoara a fetei),
   evita descrieri de tip "piele perfecta/impecabila" fara nuanta de realism si evita aspectul

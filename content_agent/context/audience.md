@@ -10,7 +10,7 @@
 
 ## Public principal
 
-- **Varsta / etapa de viata:** in special femei 25-34 ani, interesate mai ales de skincare (dar si de makeup — nu exclusiv).
+- **Varsta / etapa de viata:** femei 18-34 ani (extins de Andreea pe 2026-09-23 de la 25-34), interesate de skincare si makeup. Partea mai tanara (18-25) e obisnuita cu continut vizual foarte bogat — de aici regulile vizuale din `identitate_vizuala.md`.
 - **Ce cauta de fapt urmarind contul:** pareri sincere despre produse, continut relatable, ce merita si ce nu merita cumparat — nu inspiratie generica.
 - **Nivel de cunostinte despre beauty:** presupune un public familiarizat cu nisa (stie termeni de baza — ser, SPF, exfoliere), nu incepatoare absolute; nu e nevoie de explicatii de la zero, dar nici jargon excesiv de tehnic.
 
