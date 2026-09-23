@@ -111,7 +111,7 @@ continut). Repari tot ce pica, apoi livrezi cu linia `Verificare: ✅ ...` la fi
 
 ## Dupa livrare
 
-Salveaza promptul in `content_agent/outputs/poze/AAAA-LL-ZZ-titlu-scurt.md` si adauga un rand in `content_agent/outputs/log.md` (tip: poza, categoria din `content_strategy.md`, ideea centrala, calea fisierului). Daca ideea a venit din `plan_continut.md`, marcheaza itemul respectiv "facut" acolo.
+Salveaza promptul in `content_agent/outputs/poze/AAAA-LL-ZZ-titlu-scurt.md` si adauga un rand in `content_agent/outputs/log.md` (Status: draft; tip: poza, categoria din `content_strategy.md`, ideea centrala, calea fisierului). Daca ideea a venit din `plan_continut.md`, marcheaza itemul respectiv "facut" acolo.
 
 **Pasul urmator (Next):** incheie livrarea cu o singura propunere concreta de pas urmator — de
 exemplu Stories pentru acest continut, urmatorul item din plan, sau intrebarea pentru un fapt care

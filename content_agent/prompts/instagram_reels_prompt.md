@@ -83,7 +83,7 @@ continut). Repari tot ce pica, apoi livrezi cu linia `Verificare: ✅ ...` la fi
 
 ## Dupa livrare
 
-Salveaza scriptul in `content_agent/outputs/reels/AAAA-LL-ZZ-titlu-scurt.md` si adauga un rand in `content_agent/outputs/log.md` (tip: reel, categoria din `content_strategy.md`, ideea centrala, calea fisierului). Daca ideea a venit din `plan_continut.md`, marcheaza itemul respectiv "facut" acolo.
+Salveaza scriptul in `content_agent/outputs/reels/AAAA-LL-ZZ-titlu-scurt.md` si adauga un rand in `content_agent/outputs/log.md` (Status: draft; tip: reel, categoria din `content_strategy.md`, ideea centrala, calea fisierului). Daca ideea a venit din `plan_continut.md`, marcheaza itemul respectiv "facut" acolo.
 
 Daca Andreea da feedback de stil/ton despre reel-ul asta, adauga un rand in `content_agent/context/preferinte.md`.
 

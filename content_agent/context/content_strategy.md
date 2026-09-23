@@ -71,7 +71,8 @@ Pe TikTok-ul Andreei, cele mai vazute doua postari sunt de makeup, cu produsele 
 "Ia si tu 150 lei sa iti iei make up" (1.120 vizualizari) si "Dau note produselor de makeup primite
 in BelleBox" (907) — peste travel/fotbal/motivatie (~200-550). Formatul **"dau note" (produs real +
 nota 1-10 + parere sincera)** e candidat puternic pentru planurile viitoare (categoria *Review
-sincer*, cu fapte din `knowledge/produse_incercate.md`).
+sincer*, cu fapte din `knowledge/produse_incercate.md`). **Aprobat de Andreea (2026-09-23): planul
+urmator include cel putin un item "dau note"** — produse si note doar din `produse_incercate.md`.
 
 ## Rotatie de teme (categorii de continut)
 

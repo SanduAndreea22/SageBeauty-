@@ -91,7 +91,7 @@ continut). Repari tot ce pica, apoi livrezi cu linia `Verificare: ✅ ...` la fi
 ## Dupa livrare
 
 Salveaza setul in `content_agent/outputs/stories/AAAA-LL-ZZ-titlu-scurt.md` si adauga un rand in
-`content_agent/outputs/log.md` (tip: stories, aceeasi categorie ca si continutul sursa, ideea
+`content_agent/outputs/log.md` (Status: draft; tip: stories, aceeasi categorie ca si continutul sursa, ideea
 centrala + tipul de sticker, calea fisierului). Stories **nu** marcheaza itemi din
 `plan_continut.md` — planul acopera doar postarile din feed.
 

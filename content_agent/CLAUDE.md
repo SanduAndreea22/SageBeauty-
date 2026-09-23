@@ -69,6 +69,9 @@ ei. Numele fisierelor sunt ale noastre, nu cele din curs; harta de mai jos arata
 concrete de reguli (ce a mers, ce a trebuit corectat de mai multe ori). Le aplici doar dupa ce le
 aproba. Orice corectie repetata de doua ori devine punct nou in `verificare.md`.
 
+Prima revizie (2026-09-23), aprobata: sursa obligatorie pentru frazele la persoana I; coloana Status
+(draft/publicat) in log + reverificarea draft-urilor la schimbarea regulilor; "dau note" in planul urmator.
+
 ## Structura proiectului
 
 ```

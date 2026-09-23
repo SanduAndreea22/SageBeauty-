@@ -112,7 +112,7 @@ continut). Repari tot ce pica, apoi livrezi cu linia `Verificare: ✅ ...` la fi
 ## Dupa livrare
 
 Salveaza caruselul in `content_agent/outputs/carusele/AAAA-LL-ZZ-titlu-scurt.md` si adauga un rand
-in `content_agent/outputs/log.md` (tip: carusel, categoria din `content_strategy.md`, ideea
+in `content_agent/outputs/log.md` (Status: draft; tip: carusel, categoria din `content_strategy.md`, ideea
 centrala + tipul de hook, calea fisierului). Daca ideea a venit din `plan_continut.md`, marcheaza
 itemul respectiv "facut" acolo.
 

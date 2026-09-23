@@ -66,7 +66,7 @@ continut). Repari tot ce pica, apoi livrezi cu linia `Verificare: ✅ ...` la fi
 
 ## Dupa livrare
 
-Salveaza postarea in `content_agent/outputs/postari/AAAA-LL-ZZ-titlu-scurt.md` si adauga un rand in `content_agent/outputs/log.md` (tip: postare, categoria din `content_strategy.md`, ideea centrala + tipul de hook, calea fisierului). Daca ideea a venit din `plan_continut.md`, marcheaza itemul respectiv "facut" acolo.
+Salveaza postarea in `content_agent/outputs/postari/AAAA-LL-ZZ-titlu-scurt.md` si adauga un rand in `content_agent/outputs/log.md` (Status: draft; tip: postare, categoria din `content_strategy.md`, ideea centrala + tipul de hook, calea fisierului). Daca ideea a venit din `plan_continut.md`, marcheaza itemul respectiv "facut" acolo.
 
 Daca Andreea da feedback de stil/ton despre postarea asta (nu o corectie factuala — aia se aplica direct), adauga un rand in `content_agent/context/preferinte.md`.
 

@@ -5,7 +5,7 @@
 > "mici probleme". Fiecare regula de aici vine dintr-o greseala reala prinsa de Andreea (data intre
 > paranteze), ca sa n-o mai prinda ea a doua oara.
 
-La final, in livrare, scrii o singura linie: `Verificare: ✅ toate punctele` — sau, daca ceva nu se
+La final, in livrare, scrii lista frazelor la persoana I cu sursa fiecareia, apoi linia `Verificare: ✅ toate punctele` — sau, daca ceva nu se
 poate respecta, ce anume si de ce (ex: "nu am parerea ta despre X → am lasat [PAREREA MEA]").
 
 ## 1. Adevar (pentru orice tip de continut)
@@ -16,6 +16,11 @@ poate respecta, ce anume si de ce (ex: "nu am parerea ta despre X → am lasat [
 - [ ] Unde lipseste parerea ei → `[PAREREA MEA: ...]`, nu o fraza completata.
 - [ ] Nicio statistica sau cifra falsa despre piele/produse; sfaturile sunt cunostinte general acceptate.
 - [ ] Parerile ei sunt formulate ca ale ei ("pentru mine"), nu ca adevar universal.
+- [ ] **Sursa pentru fiecare fraza la persoana I.** Listeaza in verificare fiecare fraza cu "eu /
+      pentru mine / imi / am / folosesc / m-a" si sursa ei (ex: "nu m-a iritat → produse_incercate.md,
+      Glow Recipe"; "am ten mixt → brand.md"). **Fara sursa → fraza iese din text** sau devine
+      `[PAREREA MEA: ...]`. *(Next improvement 2026-09-23: de 3 ori o afirmatie despre Andreea a fost
+      inventata — exfolierea zilnica, "fara exceptii" la rutina, "cel mai mult conteaza pasul 3".)*
 
 ## 2. Text
 
@@ -55,4 +60,7 @@ poate respecta, ce anume si de ce (ex: "nu am parerea ta despre X → am lasat [
 ## 6. Plan si evidenta
 
 - [ ] Ideea vine din `context/plan_continut.md` (sau a dat-o Andreea explicit).
-- [ ] Dupa livrare: salvat in `outputs/`, rand in `outputs/log.md`, item marcat "facut" in plan.
+- [ ] Dupa livrare: salvat in `outputs/`, rand in `outputs/log.md` cu **Status: draft**, item marcat "facut" in plan.
+- [ ] **Cand se schimba o regula** (in orice fisier din `context/` sau aici), treci prin aceasta lista
+      toate randurile din log cu Status **draft** si repara-le — continutul nepublicat nu ramane pe
+      reguli vechi. Cand Andreea spune ca a postat ceva, Status devine **publicat**.
