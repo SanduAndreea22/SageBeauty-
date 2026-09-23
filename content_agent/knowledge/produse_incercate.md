@@ -79,8 +79,8 @@ De retinut pentru continut: trei branduri, trei sisteme diferite de denumire a n
 
 ## Experiente reale in afara tabelelor
 
-- **Demachiant GOSH:** "e super bun" (Andreea, 2026-09-23). Tipul exact (ulei / balsam / apa
-  micelara) si numele gamei nu sunt confirmate inca. Il foloseste ca prim pas de demachiere.
+- **Apa micelara GOSH:** "e super buna" (Andreea, 2026-09-23). Numele exact al gamei nu e
+  confirmat. O foloseste ca prim pas de demachiere seara.
 
 - **Retinol:** l-a incercat. Desi la inceput se recomanda o data pe saptamana, ea l-a folosit de
   3 ori pe saptamana (spus de Andreea, 2026-09-23). Produsul exact si rezultatul NU sunt confirmate
