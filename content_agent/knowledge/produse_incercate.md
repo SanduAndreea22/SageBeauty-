@@ -79,6 +79,12 @@ De retinut pentru continut: trei branduri, trei sisteme diferite de denumire a n
 
 ## Experiente reale in afara tabelelor
 
+- **Primer MUP:** il are si il aplica pe toata fata (Andreea, 2026-09-24) — adica face chiar
+  "greseala 3" din caruselul cu fondul de ten ("acelasi primer peste tot"). Detaliu sincer, bun
+  pentru continut relatable ("si eu fac asta").
+- **Rare Beauty fara primer:** uneori foloseste doar fondul Rare Beauty, fara primer — "nu se strange
+  si e ok" (Andreea, 2026-09-24).
+
 - **Apa micelara GOSH:** "e super buna" (Andreea, 2026-09-23). Numele exact al gamei nu e
   confirmat. O foloseste ca prim pas de demachiere seara.
 
