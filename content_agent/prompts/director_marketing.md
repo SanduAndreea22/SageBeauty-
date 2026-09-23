@@ -57,6 +57,7 @@ Tip de hook recomandat: [din tone_of_voice.md, diferit de ultimele 2 din log]
 Fapte reale de folosit (cu sursa): [ex: "3 fonduri, 3 nuante: LN1 / 2 / 2 NBW → produse_incercate.md"]
 Intrebarea de final: [ce vrem sa ne raspunda publicul]
 De evitat: [din bad_posts.md / preferinte.md, relevant pentru item]
+Imagine: prompt pentru ChatGPT (Andreea nu face poze)
 Platforme: Instagram + TikTok
 ```
 

@@ -54,8 +54,8 @@ se inteleaga singure.
   mana in actiune) — nu acelasi tip de doua ori la rand.
 - **Descrierea imaginii**, gata de copy-paste intr-un generator AI (in romana) — ce se vede exact,
   unghi, lumina, culori, unde ramane spatiu liber pentru text. La acelasi nivel de detaliu ca
-  exemplul din `instagram_photo_prompt.md`. **Sau**, pentru produse reale ale Andreei,
-  `[POZA MEA: descrierea exacta a pozei de facut]` (vezi `identitate_vizuala.md`, "Poze reale vs AI").
+  exemplul din `instagram_photo_prompt.md`. **Mereu prompt pentru ChatGPT — Andreea nu face poze**
+  (vezi `identitate_vizuala.md`, "Toate imaginile = prompturi pentru ChatGPT").
 - **Textul exact de pe imagine** (titlu + max 1-2 randuri) si **unde sta** (ex: treimea de sus,
   peste fundal) — maximum o treime din imagine.
 
@@ -91,7 +91,7 @@ se inteleaga singure.
 CARUSEL: [titlul intern] — MESAJ PRINCIPAL: [o propozitie]
 
 SLIDE 1 (coperta) — HOOK: [tipul folosit] — COMPOZITIE: [tip]
-Imagine: [prompt complet in romana / POZA MEA: ...]
+Imagine: [prompt complet in romana pentru ChatGPT]
 Text pe imagine: [textul exact] — pozitie: [unde]
 
 SLIDE 2 — COMPOZITIE: [tip]

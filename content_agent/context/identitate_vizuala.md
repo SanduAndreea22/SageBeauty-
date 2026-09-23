@@ -44,11 +44,16 @@ suprapus**, pastrate la fel pe toate slide-urile ca postarea sa se recunoasca in
 - **Accent:** terracotta cald — pentru cifre, sublinieri, eticheta "gresit"/"corect", sageti fine
 - Tipografie: sans-serif curat, titlu ingrosat mare, text de explicatie mai subtire; aceeasi pe tot setul
 
-## Poze reale vs generate AI (decizia Andreei, 2026-09-23: mix)
+## Toate imaginile = prompturi pentru ChatGPT (decizia Andreei, 2026-09-24)
 
-- **Fata, look-uri, piele pe fata** → generate AI pe baza pozei ei de referinta.
-- **Produse reale ale Andreei** (din Goodiebox, BelleBox, Sephora etc., vezi
-  `knowledge/produse_incercate.md`) → le fotografiaza ea. Se marcheaza in livrare cu
-  `[POZA MEA: descrierea exacta a pozei de facut — cadru, unghi, lumina, ce e pe blat]`.
+> **Andreea nu face poze. Fiecare imagine se livreaza ca prompt complet pentru ChatGPT, gata de
+> copy-paste — fara exceptie.** ("vreau prompturi pentru ChatGPT pentru poze, nu fac eu nimic".)
+> Inlocuieste decizia din 2026-09-23 ("mix", cu `[POZA MEA]`) — `[POZA MEA]` nu se mai foloseste.
+
+- **Fata, look-uri, piele** → prompt AI; Andreea incarca in ChatGPT poza ei de referinta.
+- **Produse reale ale Andreei** (din `knowledge/produse_incercate.md`) → tot prompt AI, care descrie
+  ambalajul real cat mai exact (forma, culoare, material, numele brandului si al nuantei, daca e
+  subiectul postarii). In livrare adaugi o nota: "incarca si poza produsului in ChatGPT ca referinta"
+  — Andreea are pozele produselor ei (ex: cele 3 fonduri de ten) si ChatGPT le reproduce mai fidel.
 - Produse generice (un fond de ten oarecare, o pensula) → AI, **fara brand/eticheta lizibila**, ca
   sa nu sugereze un produs anume pe care nu l-a testat.

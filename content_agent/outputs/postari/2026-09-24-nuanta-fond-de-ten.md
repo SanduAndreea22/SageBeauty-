@@ -1,8 +1,8 @@
 > Item #3 din `context/plan_continut.md`, dupa brief-ul `outputs/briefuri/2026-09-24-item-3.md`.
 > Decizii pe punctele [DE APROBAT] din brief (pana confirma Andreea): nicio fraza la persoana I despre
 > cum si-a ales nuantele — postarea ramane pe sfaturi generale + cele 3 coduri reale; Makeup DNA nu se
-> mentioneaza. Imaginea principala: [POZA MEA] cu cele 3 fonduri reale; rezerva: prompt AI fara
-> etichete lizibile.
+> mentioneaza. Imagini: doar prompturi pentru ChatGPT (decizia Andreei 2026-09-24) — A: flat lay cu
+> cele 3 fonduri reale; B: portret.
 
 HOOK: detaliu concret
 
@@ -14,11 +14,13 @@ Tu ce cod de nuanță porți și la ce brand? Scrie-l exact cum apare pe ambalaj
 
 #fonddeten #nuantafonddeten #subton #shadematching #machiajromania
 
-IMAGINE (doua variante — A e cea principala):
+IMAGINE (doua variante, amandoua prompturi pentru ChatGPT — A e cea principala):
 
-A) [POZA MEA: flat lay la 45° pe un blat deschis la culoare (lemn deschis sau un prosop piersică/roz pudrat întins sub produse), lângă fereastră, la lumina zilei (difuză, fără soare direct, venind din stânga). Cele trei fonduri de ten reale în rând, în ordinea din hook: YSL Skin Affair Soft Glow Cushion (LN1), Rare Beauty (2), MUP Liquid Waterproof Foundation (2 NBW) — fiecare rotit astfel încât codul nuanței să fie lizibil în poză (dacă la unul codul e pe fundul ambalajului, așază-l ușor înclinat sau pe o parte, cu codul spre cameră). În fața produselor, antebrațul sau încheietura ta (partea interioară), cu trei dungi scurte de fond de ten, câte una din fiecare, în aceeași ordine ca produsele, fiecare pe jumătate estompată — ca să se vadă de aproape cât de apropiate sunt cele trei nuanțe, deși codurile nu seamănă deloc. Cadru strâns, produsele și pielea umplu imaginea, fără alte obiecte. Opțional, text peste zona liniștită de blat (max o treime din imagine), sans-serif alb-crem cu umbră fină: "LN1 · 2 · 2 NBW = același ten"; codurile în terracotta dacă se văd bine.]
+A) Flat lay cu cele 3 fonduri — **incarca in ChatGPT, ca referinta, pozele cu cele 3 fonduri ale tale** (YSL cushion, Rare Beauty, MUP), apoi lipeste:
 
-B) Rezerva — prompt AI (doar daca nu faci poza A; produse generice, fara eticheta lizibila):
+O singură imagine, nu un colaj. Fotografie ultrarealistă de produs, format vertical 4:5, fotografiată de sus la 45° pe un blat de lemn deschis, lângă o fereastră, la lumina zilei difuză venind din stânga, fără soare direct. Pe blat, în rând, de la stânga la dreapta, trei fonduri de ten reale, fidele pozelor de referință: 1) o carcasă rotundă de cushion aurie YSL Skin Affair Soft Glow, așezată ușor înclinată ca să se vadă codul nuanței "LN1"; 2) o sticlă de fond de ten Rare Beauty din sticlă mată, cu capac alb, cu eticheta de nuanță "2" lizibilă; 3) o sticlă de fond de ten MUP Liquid Waterproof Foundation, cu capac negru, cu nuanța "2 NBW" lizibilă. În fața lor, interiorul unei încheieturi de femeie, cu piele reală (pori fini, venișoare subtile, fără retuș), pe care sunt trase trei dungi scurte de fond de ten, câte una din fiecare, în aceeași ordine, fiecare estompată pe jumătate — nuanțele aproape identice, diferențe foarte subtile. Cadru strâns, produsele și pielea umplu imaginea, fără alte obiecte. Tonuri calde, bej, piersică și lemn deschis; aspect de poză făcută acasă, nu de reclamă. În treimea de sus, peste zona liniștită a blatului, text cu font sans-serif îngroșat, alb-crem cu umbră fină: "LN1 · 2 · 2 NBW = același ten", cu codurile în terracotta. Textul ocupă maximum o treime din imagine. Rezoluție 4K.
+
+B) Alternativa — portret cu tine testand nuantele pe maxilar (incarca poza ta de referinta; produse generice, fara eticheta):
 
 PROMPT DE POZA (gata de copy-paste intr-un generator de imagine AI):
 Nu schimba trăsăturile feței. O singură imagine, nu un colaj. Fotografie foarte realistă, nu generată vizibil de AI — pielea are textura naturală a pielii reale (pori vizibili pe obraz și pe bărbie, mici imperfecțiuni și nuanțe naturale de culoare, câteva fire fine de păr pe linia maxilarului, nu finish plastic/airbrushed), cu o ușoară asimetrie naturală a feței. Prim-plan strâns, din trei sferturi, al aceleiași fete ca în imagine, cu capul ușor întors spre fereastră ca să se vadă linia maxilarului: pe maxilar are trei dungi verticale scurte de fond de ten, una lângă alta, fiecare estompată doar pe jumătate — una ușor mai rozalie, una ușor mai gălbuie și una care dispare aproape complet în piele, diferențele sunt subtile, reale, nu contrastante. Restul feței fără fond de ten, piele naturală, sprâncene periate, buze cu un balsam transparent. Cu o mână ține la nivelul bărbiei trei sticluțe mici de fond de ten din sticlă mată, fără etichetă și fără niciun text sau logo lizibil, cu lichid în trei nuanțe apropiate de bej. Expresie concentrată, ușor amuzată, se privește într-o oglindă din afara cadrului, verificând dungile. Poartă un tricou simplu din bumbac striat, albastru-marin, cu decolteu rotund, textura țesăturii vizibilă. Părul prins la spate într-o clamă, câteva șuvițe libere, cu fire individuale vizibile. Lumină naturală de zi, difuză, de la o fereastră din stânga, fără soare direct, care arată culorile reale ale pielii; fundal: pervaz alb și perdea subțire, estompate, tonuri calde de bej și piersică. Aspect de poză făcută acasă, nu de reclamă. Stil ultrarealist, foarte detaliat. Rezoluție 4K, minimum de elemente în fundal. 4:5.
