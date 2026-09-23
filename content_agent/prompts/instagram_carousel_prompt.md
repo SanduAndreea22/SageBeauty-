@@ -37,6 +37,13 @@ celalalt ca idee separata.
 5. **Ultimul slide — intrebare pentru comentarii, cu imagine**, nu doar text (ex: prim-plan cu fata
    ei, privire complice spre camera).
 
+**Firul caruselului (obligatoriu):** coperta anunta explicit ce urmeaza si cate sunt ("5 greseli",
+"3 mituri") ca slide-urile numerotate sa aiba sens; toate slide-urile folosesc acelasi cuvant pentru
+punctele lor (greseli / pasi / mituri — nu amestecat); rezumatul are un titlu; intrebarea finala
+numeste exact lucrul la care raspunzi ("Tu pe care greseala o faci? Scrie-mi numarul, 1-5"), nu
+pronume vagi ("Care dintre ele e a ta?"). Test: citeste doar coperta + ultimul slide — trebuie sa
+se inteleaga singure.
+
 ## Ce livrezi pentru fiecare slide
 
 - **Tip de compozitie** (prim-plan fata / macro textura / produs pe blat / split gresit-corect /
