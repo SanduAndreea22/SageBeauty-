@@ -80,6 +80,10 @@ De retinut pentru continut: trei branduri, trei sisteme diferite de denumire a n
 
 ## Experiente reale in afara tabelelor
 
+- **SPF (2026-09-24):** Supergoop Glowscreen s-a terminat. Acum foloseste un SPF **Beauty of Joseon**
+  (produsul exact nu e confirmat) sau un **BB cream cu SPF de la "Nuo"** (asa l-a numit Andreea; brand
+  si produs neconfirmate). Fara parere data inca despre ele.
+
 - **Primer MUP:** il are si il aplica pe toata fata (Andreea, 2026-09-24) — adica face chiar
   "greseala 3" din caruselul cu fondul de ten ("acelasi primer peste tot"). Detaliu sincer, bun
   pentru continut relatable ("si eu fac asta").
