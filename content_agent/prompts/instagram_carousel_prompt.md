@@ -61,6 +61,10 @@ celalalt ca idee separata.
   (ChatGPT l-a redat corect, cu diacritice, la caruselul din 2026-09-23). Daca iese gresit, Andreea
   genereaza imaginea fara text si il adauga in Canva — de aceea prompturile descriu si zona libera.
 - Produsele generate AI apar **fara brand/eticheta lizibila**.
+- **Fara text pe obiectele din fundal** (cani, notite, carti, postere) — generatorul pune singur
+  citate motivationale in engleza ("Good Ideas Better Results", "You Got This") care fac poza sa
+  para stock/AI si se bat cu textul slide-ului. Cere explicit: "niciun text sau inscriptie pe
+  obiectele din fundal". Singurul text din imagine e cel al slide-ului.
 
 ## Reguli de continut
 
