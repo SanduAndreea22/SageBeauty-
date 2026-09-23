@@ -55,7 +55,8 @@ Pentru cine: [segmentul din audience.md si problema lui concreta]
 Mesaj principal: [o propozitie]
 Tip de hook recomandat: [din tone_of_voice.md, diferit de ultimele 2 din log]
 Fapte reale de folosit (cu sursa): [ex: "3 fonduri, 3 nuante: LN1 / 2 / 2 NBW → produse_incercate.md"]
-Intrebarea de final: [ce vrem sa ne raspunda publicul]
+Intrebarea de final: [ce vrem sa ne raspunda publicul — la carusel apare si pe coperta/slide 2]
+Retentie (carusel): [ce raspuns complet da slide-ul 2 + motivul de swipe]
 De evitat: [din bad_posts.md / preferinte.md, relevant pentru item]
 Imagine: prompt pentru ChatGPT (Andreea nu face poze)
 Platforme: Instagram + TikTok

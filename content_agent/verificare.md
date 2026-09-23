@@ -38,6 +38,9 @@ poate respecta, ce anume si de ce (ex: "nu am parerea ta despre X → am lasat [
 - [ ] **Firul:** coperta anunta ce urmeaza si cate sunt ("5 greseli"); acelasi cuvant pe tot setul;
       rezumatul are titlu; intrebarea finala numeste exact la ce raspunzi. Test: coperta + ultimul
       slide se inteleg singure. *(2026-09-23: "Care dintre ele e a ta?" — neclar.)*
+- [ ] **Retentie (2026-09-24):** slide-ul 2 da un raspuns util complet + un motiv de swipe; intrebarea
+      pentru comentarii apare si pe coperta sau pe slide-ul 2. *(Raport: 2.1 / 8 slide-uri vazute pe
+      TikTok, 0 comentarii.)*
 - [ ] Fiecare slide are o imagine reala (fata, piele, produs, textura, mana) — niciun slide cu
       iconita pe fundal plat. *(2026-09-23: v1 "nu e asa wow".)*
 - [ ] Compozitii diferite, nu acelasi tip de doua ori la rand; minimum un slide gresit vs corect.

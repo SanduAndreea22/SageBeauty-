@@ -41,6 +41,14 @@ celalalt ca idee separata.
 5. **Ultimul slide — intrebare pentru comentarii, cu imagine**, nu doar text (ex: prim-plan cu fata
    ei, privire complice spre camera).
 
+**Retentie — pentru cine se opreste la slide-ul 2 (aprobat de Andreea 2026-09-24, din raportul
+`outputs/rapoarte/2026-09-24.md`: pe TikTok se vad in medie 2.1 / 8 slide-uri, 0 comentarii):**
+- Slide-ul 2 da deja un raspuns util complet, nu doar "punctul 1 din N" — cine se opreste aici
+  pleaca totusi cu ceva.
+- Tot pe slide-ul 2 exista un motiv clar de swipe (ex: "greseala pe care o fac cele mai multe e la
+  slide 4 →"), adevarat si livrat mai departe in carusel.
+- Intrebarea pentru comentarii apare **si pe coperta sau pe slide-ul 2** (scurt), nu doar pe ultimul slide.
+
 **Firul caruselului (obligatoriu):** coperta anunta explicit ce urmeaza si cate sunt ("5 greseli",
 "3 mituri") ca slide-urile numerotate sa aiba sens; toate slide-urile folosesc acelasi cuvant pentru
 punctele lor (greseli / pasi / mituri — nu amestecat); rezumatul are un titlu; intrebarea finala

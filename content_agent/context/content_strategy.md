@@ -84,7 +84,7 @@ Candidat pentru decizia Andreei: cross-postare sistematica a fiecarui carusel si
 303 vizualizari, 10 like, 0 comentarii, 0 distribuiri, 1 salvare, 0 urmaritori noi; 86% femei, 81%
 intre 18-34 ani (public tinta confirmat). **Problema: retentia** — in medie se vad doar **2.1 din 8
 slide-uri** (22m20s timp total / 303 = ~4,4 s pe vizualizare), deci rezumatul (slide 7) si intrebarea
-(slide 8) aproape nu sunt vazute → 0 comentarii. Recomandare (asteapta aprobarea Andreei): slide-ul 2
+(slide 8) aproape nu sunt vazute → 0 comentarii. Recomandare (aprobat de Andreea 2026-09-24, aplicat in `instagram_carousel_prompt.md` si `verificare.md`): slide-ul 2
 trebuie sa fie util singur + sa aiba motiv de swipe, iar intrebarea apare devreme, nu doar la final.
 
 ## Rotatie de teme (categorii de continut)
