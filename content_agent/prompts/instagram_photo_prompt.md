@@ -49,6 +49,8 @@ Genereaza promptul complet de poza (**in romana**, ca in exemplul Andreei — nu
 fara sa ceara ea explicit), respectand mereu:
 
 - nu schimba trasaturile fetei din poza de referinta
+- pentru alegerea machiajului (cand nu e subiectul postarii), porneste de la
+  `content_agent/knowledge/profil_frumusete.md` (ochi albastri, ochi cazuti, fata rotunda, tonuri calde)
 - daca subiectul e un produs real al Andreei (din `knowledge/produse_incercate.md`), livrezi in loc
   de prompt AI `[POZA MEA: descrierea exacta a pozei de facut]` — ea il fotografiaza
 - rezolutie 4K, aspect ratio 4:5 (format de postare pe feed Instagram — nu 9:16, care e pentru Stories/Reels)

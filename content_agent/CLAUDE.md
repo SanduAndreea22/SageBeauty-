@@ -65,6 +65,7 @@ content_agent/
 ├── knowledge/               ← fapte verificabile, nu se inventeaza
 │   ├── produse_incercate.md ← produse reale folosite de Andreea (skincare + 16 makeup notate)
 │   ├── analiza_ten.md     ← analiza profesionala a tenului ei (ten gras, deshidratat)
+│   ├── profil_frumusete.md ← trasaturi + nuante recomandate (Makeup DNA)
 │   └── examples/
 │       ├── good_posts.md   ← exemple de calitate, se completeaza in timp
 │       └── bad_posts.md    ← ce se evita, se completeaza in timp
