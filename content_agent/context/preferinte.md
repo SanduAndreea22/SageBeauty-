@@ -9,6 +9,7 @@ Memorie de feedback per-continut, diferita de reguli fixe (acelea sunt in `tone_
 - [2026-09-23] [carusel] — Andreea a gasit caruselul cu iconite line-art pe fundal plat roz ("fond de ten se topeste") "nu asa wow" — curat, dar plat. A dat un brief complet de director de creatie: imagine reala pe fiecare slide, textura de aproape, gresit vs corect, compozitii variate, text max 1/3 peste imagine. Aplicat in `identitate_vizuala.md` si in toti agentii; tot atunci a decis: public 18-34, reels 15-30s doar cu avatar, 8-12 hashtag-uri, 2-3 emoji, mix poze reale (produse) + AI (fata).
 - [2026-09-23] [poza] — Andreea: poza "no-makeup makeup" (camasa verde-inchis, fundal gri perlat, lumina difuza de studio) "mi-a placut rau". Salvata ca etalon in `knowledge/examples/good_posts.md`; portretele "wow" pastreaza voie la lumina de studio (exceptie in `identitate_vizuala.md`).
 - [2026-09-23] [carusel] — Andreea: coperta nu se lega de slide-urile numerotate si nu a inteles intrebarea finala ("Care dintre ele e a ta?"). Regula "Firul caruselului" adaugata in `instagram_carousel_prompt.md`: coperta anunta ce urmeaza, acelasi cuvant pe tot setul, intrebare finala explicita.
+- [2026-09-23] [carusel] — Andreea a pastrat intentionat citatele in engleza de pe cana/biletel/carti de pe coperta ("imi plac"). Nu se mai cer scoase; textele mici de fundal sunt ok cat timp nu concureaza cu textul slide-ului.
 
 ## Format unei intrari
 
