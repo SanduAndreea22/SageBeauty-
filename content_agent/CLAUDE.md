@@ -115,8 +115,8 @@ content_agent/
 1. ✅ Cei 5 agenti — prompt-uri complete (inclusiv Stories si reguli comune de hook-uri in
    `context/tone_of_voice.md`).
 2. ✅ `context/brand.md`, `context/audience.md` — completate cu profilul contului.
-3. 🚧 `knowledge/produse_incercate.md`, `knowledge/examples/` — goale, se completeaza pe masura ce
-   apar produse/postari reale.
+3. ✅ `knowledge/` — produse (skincare + 16 makeup notate), analiza tenului, profil de frumusete,
+   exemple bune/de evitat. Se completeaza in continuare pe masura ce apar produse/postari reale.
 4. ✅ Plan de continut cu aprobare — vezi `context/plan_continut.md` si `context/content_strategy.md`.
 5. ✅ Generare efectiva de voce/video in ElevenLabs — prin Chrome (`mcp__claude-in-chrome__*`),
    vezi sectiunea dedicata din `prompts/instagram_reels_prompt.md`.
