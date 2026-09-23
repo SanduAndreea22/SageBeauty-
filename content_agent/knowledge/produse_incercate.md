@@ -57,10 +57,33 @@ Ce reiese din note (preferinte reale, utile pentru continut): prefera glow inten
 nu e fana de eyeliner; iubeste produsele de buze hidratante cu nuanta delicata (folosite zilnic);
 sprancenele naturale si fixate sunt o prioritate (doua note de 100/10).
 
+## Fonduri de ten folosite (nuante reale, confirmate de Andreea 2026-09-23, cu poze)
+
+| Produs | Nuanta | Parere |
+|---|---|---|
+| YSL Skin Affair Soft Glow Cushion Foundation | LN1 | — (nedata inca; intreaba daca e nevoie) |
+| Rare Beauty — fond de ten (numele exact al gamei nu apare in poza) | 2 | — (nedata inca) |
+| MUP Liquid Waterproof Foundation, Professional Series | 2 NBW | — (nedata inca). Relevant pentru itemul #4 din plan (mitul "waterproof rezista mereu") — daca se foloseste, intreab-o cum ii tine. |
+
+De retinut pentru continut: trei branduri, trei sisteme diferite de denumire a nuantei (LN1 / 2 /
+2 NBW) pentru acelasi ten deschis-mediu — fapt real, util pentru postarea despre alegerea nuantei.
+
 ## Rutina curenta (daca vrei sa fie mentionata in continut)
 
-[Ce folosesti de obicei, in ordine — util pentru postari/reels de tip "rutina". Lasa gol daca preferi sa nu o expui.]
+- **Dimineata:** practic nu are rutina — nu are timp (spus de Andreea, 2026-09-23). Nu se scrie
+  continut ca si cum ar avea o rutina de dimineata in mai multi pasi.
+- **Seara:** din intrarile de mai sus reies tonerul Glow Recipe (seara) si crema Tatcha (rutina de
+  seara) — rutina completa, in ordine, nu e confirmata inca.
+
+## Experiente reale in afara tabelelor
+
+- **Retinol:** l-a incercat. Desi la inceput se recomanda o data pe saptamana, ea l-a folosit de
+  3 ori pe saptamana (spus de Andreea, 2026-09-23). Produsul exact si rezultatul NU sunt confirmate
+  — nu inventa efecte (iritatie sau rezultate bune); intreab-o daca e nevoie.
 
 ## Ce NU ai incercat / nu poti confirma
 
 [Optional — orice categorie de produse despre care NU ai experienta directa, ca agentii sa stie sa nu construiasca continut ca si cum ai avea.]
+
+> Confidentialitate: Andreea a spus (2026-09-23) ca nu o deranjeaza ca datele din repo (analiza
+> tenului, note, produse) sunt vizibile.
