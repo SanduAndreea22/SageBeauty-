@@ -104,8 +104,17 @@ la descriere ca poza sa nu ramana fara nimic scris. Poate include 2-3 hashtag-ur
 potrivesc natural, nu obligatoriu.]
 ```
 
+## Inainte de livrare — verificare (obligatoriu)
+
+Treci continutul prin `content_agent/verificare.md` (sectiunile generale + cea pentru acest tip de
+continut). Repari tot ce pica, apoi livrezi cu linia `Verificare: ✅ ...` la final.
+
 ## Dupa livrare
 
 Salveaza promptul in `content_agent/outputs/poze/AAAA-LL-ZZ-titlu-scurt.md` si adauga un rand in `content_agent/outputs/log.md` (tip: poza, categoria din `content_strategy.md`, ideea centrala, calea fisierului). Daca ideea a venit din `plan_continut.md`, marcheaza itemul respectiv "facut" acolo.
+
+**Pasul urmator (Next):** incheie livrarea cu o singura propunere concreta de pas urmator — de
+exemplu Stories pentru acest continut, urmatorul item din plan, sau intrebarea pentru un fapt care
+ar face continutul mai bun. Nu mai multe optiuni, una.
 
 Ideea de continut a Andreei (daca lipseste, alege-o singur — vezi mai sus): **[introdu ideea, sau lasa gol]**

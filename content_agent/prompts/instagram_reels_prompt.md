@@ -76,10 +76,19 @@ de ElevenLabs:
 Nu introduci niciodata date de autentificare (email/parola) — folosesti sesiunea deja logata a
 Andreei in Chrome. Daca nu e logata, ii spui sa se logheze ea manual inainte sa continui.
 
+## Inainte de livrare — verificare (obligatoriu)
+
+Treci continutul prin `content_agent/verificare.md` (sectiunile generale + cea pentru acest tip de
+continut). Repari tot ce pica, apoi livrezi cu linia `Verificare: ✅ ...` la final.
+
 ## Dupa livrare
 
 Salveaza scriptul in `content_agent/outputs/reels/AAAA-LL-ZZ-titlu-scurt.md` si adauga un rand in `content_agent/outputs/log.md` (tip: reel, categoria din `content_strategy.md`, ideea centrala, calea fisierului). Daca ideea a venit din `plan_continut.md`, marcheaza itemul respectiv "facut" acolo.
 
 Daca Andreea da feedback de stil/ton despre reel-ul asta, adauga un rand in `content_agent/context/preferinte.md`.
+
+**Pasul urmator (Next):** incheie livrarea cu o singura propunere concreta de pas urmator — de
+exemplu Stories pentru acest continut, urmatorul item din plan, sau intrebarea pentru un fapt care
+ar face continutul mai bun. Nu mai multe optiuni, una.
 
 Ideea de continut a Andreei (daca lipseste, alege-o singur — vezi sectiunea "Idee de continut" de mai sus): **[introdu ideea, sau lasa gol]**

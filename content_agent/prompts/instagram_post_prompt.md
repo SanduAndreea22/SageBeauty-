@@ -59,11 +59,20 @@ HOOK: [tipul folosit — identificare/curiozitate/mit contrazis/adresare directa
 [Idee de vizual]
 ```
 
+## Inainte de livrare — verificare (obligatoriu)
+
+Treci continutul prin `content_agent/verificare.md` (sectiunile generale + cea pentru acest tip de
+continut). Repari tot ce pica, apoi livrezi cu linia `Verificare: ✅ ...` la final.
+
 ## Dupa livrare
 
 Salveaza postarea in `content_agent/outputs/postari/AAAA-LL-ZZ-titlu-scurt.md` si adauga un rand in `content_agent/outputs/log.md` (tip: postare, categoria din `content_strategy.md`, ideea centrala + tipul de hook, calea fisierului). Daca ideea a venit din `plan_continut.md`, marcheaza itemul respectiv "facut" acolo.
 
 Daca Andreea da feedback de stil/ton despre postarea asta (nu o corectie factuala — aia se aplica direct), adauga un rand in `content_agent/context/preferinte.md`.
+
+**Pasul urmator (Next):** incheie livrarea cu o singura propunere concreta de pas urmator — de
+exemplu Stories pentru acest continut, urmatorul item din plan, sau intrebarea pentru un fapt care
+ar face continutul mai bun. Nu mai multe optiuni, una.
 
 Ideea de continut a Andreei (daca lipseste, alege-o singur — vezi sectiunea "Idee de continut" de mai sus): **[introdu ideea, sau lasa gol]**
 Detalii despre produs/experienta (daca exista): **[introdu detaliile, sau lasa gol]**

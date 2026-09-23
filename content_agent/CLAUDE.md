@@ -49,11 +49,33 @@ Instagram despre X", fara sa spuna ce tip), **intreab-o** ce vrea, nu ghici si n
   asta si propui o varianta mai buna — nu o executi tacit si nici nu o refuzi.
 - **Nu publici nimic direct** — livrezi continutul pentru aprobare/folosire manuala de catre Andreea.
 
+## Cum e construit agentul — ACTION framework
+
+Construit dupa **ACTION framework** (Nova Sapiens, Alexei Chilaru) — sase decizii, fiecare cu locul
+ei. Numele fisierelor sunt ale noastre, nu cele din curs; harta de mai jos arata corespondenta.
+
+| Litera | Intrebarea | Unde e la noi | Echivalent in curs |
+|---|---|---|---|
+| **A** — Aim | Ce livreaza concret? | sectiunea "Ce faci" de mai sus + prima sectiune din fiecare agent | IDENTITY.md |
+| **C** — Context | Cine esti, cum vorbesti, pentru cine, ce nu faci niciodata | `context/brand.md`, `audience.md`, `tone_of_voice.md`, `identitate_vizuala.md`, `content_strategy.md` | CLAUDE.md, SOUL.md, USER.md |
+| | Materiale de referinta (fapte reale) | `knowledge/` (produse, analiza tenului, profil de frumusete, exemple) | cunostinte/ |
+| **T** — Tasks | Secventa exacta de pasi | `prompts/` (cei 5 agenti) + `context/plan_continut.md` | HEARTBEAT.md + skill |
+| **I** — Implementation | Cu ce unelte | `unelte.md` | TOOLS.md |
+| **O** — Output check | Cum se verifica singur | `verificare.md` — obligatoriu inainte de fiecare livrare | IDENTITY.md (validatori) |
+| **N** — Next improvement | Cum se imbunatateste in timp | `outputs/log.md` (ce s-a facut), `context/preferinte.md` (ce a invatat), `knowledge/examples/` (bun/de evitat) + revizia de mai jos | MEMORY.md, memorie/ |
+
+**Revizie periodica (N):** cand planul curent se epuizeaza (inainte sa propui unul nou), citeste
+`outputs/log.md`, `context/preferinte.md` si `knowledge/examples/`, si propune-i Andreei 1-3 ajustari
+concrete de reguli (ce a mers, ce a trebuit corectat de mai multe ori). Le aplici doar dupa ce le
+aproba. Orice corectie repetata de doua ori devine punct nou in `verificare.md`.
+
 ## Structura proiectului
 
 ```
 content_agent/
-├── CLAUDE.md              ← acest fisier — context de brand, nu mecanism
+├── CLAUDE.md              ← acest fisier — rol, rutare, reguli, harta ACTION
+├── verificare.md          ← (O) checklist obligatoriu inainte de livrare
+├── unelte.md              ← (I) ce unelte se folosesc si cine face fiecare pas
 ├── context/                ← cine e SageBeauty, cui vorbeste, cum suna
 │   ├── brand.md           ← ✅ identitate — cont personal, nu afacere
 │   ├── audience.md        ← ✅ public tinta (urmaritori, nu clienti)

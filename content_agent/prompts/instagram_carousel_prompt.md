@@ -104,6 +104,11 @@ HASHTAG-URI: [max 5 — limita Instagram; alege cele mai specifice temei, nu gen
 **Important pentru generare:** genereaza fiecare slide ca o cerere separata in generatorul de imagine
 — un prompt, o imagine, apoi urmatorul. Mai multe prompturi intr-un singur mesaj = risc de colaj.
 
+## Inainte de livrare — verificare (obligatoriu)
+
+Treci continutul prin `content_agent/verificare.md` (sectiunile generale + cea pentru acest tip de
+continut). Repari tot ce pica, apoi livrezi cu linia `Verificare: ✅ ...` la final.
+
 ## Dupa livrare
 
 Salveaza caruselul in `content_agent/outputs/carusele/AAAA-LL-ZZ-titlu-scurt.md` si adauga un rand
@@ -114,5 +119,9 @@ itemul respectiv "facut" acolo.
 Daca Andreea da feedback de stil/vizual despre caruselul asta, adauga un rand in
 `content_agent/context/preferinte.md` (sau ajusteaza direct `identitate_vizuala.md` daca feedback-ul
 e despre stilul general, nu despre un carusel anume).
+
+**Pasul urmator (Next):** incheie livrarea cu o singura propunere concreta de pas urmator — de
+exemplu Stories pentru acest continut, urmatorul item din plan, sau intrebarea pentru un fapt care
+ar face continutul mai bun. Nu mai multe optiuni, una.
 
 Ideea de continut a Andreei (daca lipseste, alege-o singur — vezi mai sus): **[introdu ideea, sau lasa gol]**

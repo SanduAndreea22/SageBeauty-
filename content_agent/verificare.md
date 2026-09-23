@@ -1,0 +1,58 @@
+# Verificare înainte de livrare — SageBeauty (Output Check)
+
+> Litera **O** din ACTION framework. Fiecare agent din `prompts/` trece prin lista asta **inainte**
+> sa-i arate Andreei continutul. Daca un punct pica, repari si verifici din nou — nu livrezi cu
+> "mici probleme". Fiecare regula de aici vine dintr-o greseala reala prinsa de Andreea (data intre
+> paranteze), ca sa n-o mai prinda ea a doua oara.
+
+La final, in livrare, scrii o singura linie: `Verificare: ✅ toate punctele` — sau, daca ceva nu se
+poate respecta, ce anume si de ce (ex: "nu am parerea ta despre X → am lasat [PAREREA MEA]").
+
+## 1. Adevar (pentru orice tip de continut)
+
+- [ ] Fiecare experienta, parere, nota sau rezultat al Andreei exista in `knowledge/` (produse,
+      analiza tenului, profil) sau a fost spus de ea in conversatie. Nimic "plauzibil" adaugat de la
+      tine. *(2026-09-22: "am exfoliat zilnic o vara intreaga" — inventat.)*
+- [ ] Unde lipseste parerea ei → `[PAREREA MEA: ...]`, nu o fraza completata.
+- [ ] Nicio statistica sau cifra falsa despre piele/produse; sfaturile sunt cunostinte general acceptate.
+- [ ] Parerile ei sunt formulate ca ale ei ("pentru mine"), nu ca adevar universal.
+
+## 2. Text
+
+- [ ] Primul rand / coperta e un hook de **o singura propozitie**, dintr-un tip din `tone_of_voice.md`,
+      diferit de ultimele 2 din `outputs/log.md`.
+- [ ] Un singur mesaj principal.
+- [ ] Caption 3-5 propozitii, se termina cu o intrebare **specifica** (nu "ce parere aveti?").
+- [ ] **Maximum 5 hashtag-uri** *(limita Instagram, 2026-09-23)* si **maximum 2-3 emoji**.
+- [ ] Fara clisee goale ("glow up", "self-care", "in lumea de azi"), fara ton de reclama.
+- [ ] Diacritice corecte in tot textul care apare pe imagini.
+
+## 3. Carusel (in plus fata de 1-2)
+
+- [ ] **Firul:** coperta anunta ce urmeaza si cate sunt ("5 greseli"); acelasi cuvant pe tot setul;
+      rezumatul are titlu; intrebarea finala numeste exact la ce raspunzi. Test: coperta + ultimul
+      slide se inteleg singure. *(2026-09-23: "Care dintre ele e a ta?" — neclar.)*
+- [ ] Fiecare slide are o imagine reala (fata, piele, produs, textura, mana) — niciun slide cu
+      iconita pe fundal plat. *(2026-09-23: v1 "nu e asa wow".)*
+- [ ] Compozitii diferite, nu acelasi tip de doua ori la rand; minimum un slide gresit vs corect.
+- [ ] Obiectele-subiect au forme diferite (nu doua "picaturi"). *(2026-09-23.)*
+- [ ] Fiecare prompt de imagine: "o singura imagine, nu colaj", 4:5, realism, "nu schimba
+      trasaturile fetei" cand apare fata.
+
+## 4. Poza / portret
+
+- [ ] 4:5 pentru feed (9:16 doar la Stories/Reels). *(2026-09-22.)*
+- [ ] Textura reala a pielii ceruta explicit — nu "piele impecabila". *(2026-09-22.)*
+- [ ] Haina si machiajul difera de ultimele 2-3 poze din log (exceptie: produsul subiect).
+      *(2026-09-22: roz + nude la fiecare poza.)*
+- [ ] Machiajul porneste de la `knowledge/profil_frumusete.md`, fara eyeliner grafic.
+
+## 5. Reel / Stories
+
+- [ ] Reel 15-30s, doar avatar, text pe ecran pe fiecare cadru, voiceover curat fara adnotari.
+- [ ] Stories: 2-3 frame-uri, pornesc de la un continut existent, max 1 emoji pe frame, fundal 9:16.
+
+## 6. Plan si evidenta
+
+- [ ] Ideea vine din `context/plan_continut.md` (sau a dat-o Andreea explicit).
+- [ ] Dupa livrare: salvat in `outputs/`, rand in `outputs/log.md`, item marcat "facut" in plan.

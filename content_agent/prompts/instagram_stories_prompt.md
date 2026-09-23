@@ -83,6 +83,11 @@ Text pe ecran: [textul exact]
 Fundal: distribuie postarea din feed
 ```
 
+## Inainte de livrare — verificare (obligatoriu)
+
+Treci continutul prin `content_agent/verificare.md` (sectiunile generale + cea pentru acest tip de
+continut). Repari tot ce pica, apoi livrezi cu linia `Verificare: ✅ ...` la final.
+
 ## Dupa livrare
 
 Salveaza setul in `content_agent/outputs/stories/AAAA-LL-ZZ-titlu-scurt.md` si adauga un rand in
@@ -91,5 +96,9 @@ centrala + tipul de sticker, calea fisierului). Stories **nu** marcheaza itemi d
 `plan_continut.md` — planul acopera doar postarile din feed.
 
 Daca Andreea da feedback de stil despre Stories, adauga un rand in `content_agent/context/preferinte.md`.
+
+**Pasul urmator (Next):** incheie livrarea cu o singura propunere concreta de pas urmator — de
+exemplu Stories pentru acest continut, urmatorul item din plan, sau intrebarea pentru un fapt care
+ar face continutul mai bun. Nu mai multe optiuni, una.
 
 Continutul pentru care se fac Stories (daca lipseste, ia cel mai recent din log — vezi mai sus): **[introdu continutul, sau lasa gol]**
