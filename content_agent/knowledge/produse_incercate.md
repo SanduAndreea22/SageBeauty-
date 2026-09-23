@@ -70,7 +70,7 @@ De retinut pentru continut: trei branduri, trei sisteme diferite de denumire a n
 
 ## Rutina curenta (daca vrei sa fie mentionata in continut)
 
-- **Dimineata:** are de obicei **~30 de minute** dimineata (Andreea, 2026-09-24) — pana acum nu avea
+- **Dimineata:** are de obicei ~30 de minute dimineata, dar practic foarte putin timp liber din ele (Andreea, 2026-09-24) — realist: **1-2 minute pentru skincare** — pana acum nu avea
   rutina de skincare dimineata (2026-09-23). Lucreaza 8 ore pe zi; rutina trebuie sa fie scurta si
   realista. Nu se scrie continut ca si cum ar avea deja o rutina de dimineata stabila.
 - **Seara (confirmat 2026-09-23):** Glow Recipe Watermelon Glow PHA+BHA Toner, apoi crema Tatcha
