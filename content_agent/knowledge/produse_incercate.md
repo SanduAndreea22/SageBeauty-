@@ -28,6 +28,35 @@ parerea/experienta pe loc si se adauga in tabelul de mai jos.
 | Watermelon Glow PHA+BHA Pore-Tight Toner | Glow Recipe | Toner | Sephora, 57 lei | Da | Il folosesc de obicei seara — pielea vizibil mai neteda dupa, simt diferenta imediat cand trec mana pe fata. Miros de pepene rosu placut, textura lichida, deloc lipicioasa. Nu m-a iritat deloc desi are acizi, de-aia l-am tinut constant in rutina. Porii par mai fini pe termen lung, nu doar imediat dupa aplicare. Recomandat pt pori vizibili, textura neuniforma, ten cu nevoie de exfoliere. |
 | Glowscreen SPF 30 | Supergoop | SPF / baza de machiaj | Sephora, 61 lei | Da | L-am integrat rapid in rutina de dimineata — se aplica usor, nu lasa deloc urma alba. Textura usoara, aproape gel-crema, se absoarbe fara sa simt ca "sta" pe fata. Efectul de glow e real dar subtil, nu stralucire de ulei — ten care pare odihnit si sanatos. Il recomand cu incredere pt rutina de zi, mai ales cand vrei ca tenul sa para ingrijit fara alt machiaj peste. |
 
+## Makeup notat de Andreea (postarea TikTok "Dau note produselor de makeup primite in BelleBox")
+
+> Sursa: slide-urile postarii ei de pe TikTok (907 vizualizari), trimise pe 2026-09-23. Notele si
+> parerile sunt ale ei, transcrise exact. Formatul "dau note" e unul dintre cele mai performante ale
+> ei — vezi `context/content_strategy.md`.
+
+| Produs | Brand | Categorie | Nota | Parerea mea reala |
+|---|---|---|---|---|
+| Easy Blur Primer | Huda Beauty | Primer | ⚠️ 3/10 in postare — dar pe 2026-09-23 Andreea a spus "primer-ul de la Huda imi place" | Din postare: "Nu rezonez cu produsele pe baza de silicon. Pentru mine, textura si senzatia pe ten nu sunt ceea ce caut la primer." **De clarificat inainte de orice continut:** acum ii place, iar tubul scrie "silicone-free", deci motivul din postare nu se potriveste cu produsul. Nu folosi nota 3/10 si nici motivul pana nu confirma Andreea nota si parerea actuala. |
+| Mini Eyeshadow Palette | Natasha Denona | Paleta farduri | 10/10 | Una dintre paletele mele preferate! Pigmentare excelenta, culori superbe, se blenduieste foarte usor si ofera atat look-uri naturale, cat si mai intense. O folosesc mereu si obtin de fiecare data un rezultat elegant. |
+| Banana Lowlighter | Rodial | Iluminator sub ochi / complexion enhancer | 9.5/10 | Un produs excelent! Lumineaza sub ochi, are o textura foarte cremoasa si se aplica usor. Imi place mult efectul natural, face tenul sa arate mai fresh si odihnit. Unul dintre produsele mele preferate! |
+| Liquid Liner, Burgundy | Anastasia Beverly Hills | Eyeliner | 1/10 | Este un produs bun, are o culoare frumoasa si se aplica usor. Insa nu sunt fana de eyeliner, asa ca nu este pentru mine, desi calitatea este foarte buna. (Nota mica = preferinta personala, nu calitate slaba.) |
+| Brow Wiz, Soft Brown | Anastasia Beverly Hills | Creion sprancene | 6/10 | Este un produs bun, cu o precizie foarte mare si ajuta la definirea sprancenelor. Insa pentru mine nu este indispensabil, prefer alte produse pentru un efect mai natural si rapid. |
+| Lip Butter Balsam, Baby Pink | NL Beauty | Balsam buze | ∞/10 | Acest lip butter este tot ce am nevoie. Hidrateaza extraordinar, lasa buzele moi si catifelate si are o nuanta delicata, exact cum imi place. Il folosesc zilnic si chiar se simte diferenta. |
+| Blush Drops, Apricot Sorbet | Rodial | Blush lichid | 3/10 | Culoarea Apricot Sorbet este foarte frumoasa si intensa, exact cum promite. Totusi, nu rezoneaza cu tenul meu, desi imi place efectul si textura produsului. Probabil se potriveste mai bine altor tonuri de ten. |
+| Brow Powder Duo, Ash Brown | Anastasia Beverly Hills | Pudra sprancene | 100/10 | Initial nu mi-a placut deloc culoarea. Dupa prima aplicare insa... m-am indragostit de ea. Se potriveste mult mai bine decat ma asteptam si imi place enorm cum arata pe sprancene. |
+| Brow Freeze | Anastasia Beverly Hills | Gel fixare sprancene | 100/10 | Cel mai bun produs pentru sprancene pe care l-am incercat pana acum. Fixeaza perfect firele, le mentine in forma toata ziua si ofera un aspect natural, ordonat si ingrijit. Face exact ce promite si chiar mai mult. Un produs pe care il voi cumpara din nou. |
+| Lip Stain | GOSH | Lip stain | 8/10 | Un lip stain foarte bun, cu o culoare intensa si rezistenta buna pe buze. Ofera un efect natural si se aplica usor. Imi place rezultatul si il folosesc cu drag. |
+| Black Lash Conditioner (Soin Cils Noir Le Booster) | Huygens Paris | Tratament gene | 8.7/10 | Un produs foarte bun pentru ingrijirea genelor. Il folosesc constant si chiar se vede diferenta. Genele arata mai sanatoase, mai puternice si mai definite. Usor de aplicat si potrivit pentru utilizare zilnica. |
+| Lip Liner 2 in 1, Caramel Toffee | GOSH | Creion buze + ruj | 9/10 | Imi place foarte mult acest produs. Culoarea Caramel Toffee este perfecta pentru look-uri de zi cu zi, este usor de folosit si foarte practic fiind 2 in 1. Ofera un contur frumos si rezista bine pe buze. |
+| Lipstick, Not Sorry | Kylie Cosmetics | Ruj | 5/10 | Imi place culoarea si textura este cremoasa, insa nu este exact genul meu de nuanta si nu rezista foarte bine pe buze. Este ok, dar nu m-a dat pe spate. |
+| Highlighter, Salted Caramel | Kylie Cosmetics | Iluminator | 2/10 | Este un highlighter fin, cu o textura placuta si un finish difuz, insa pe mine nu ma impresioneaza. Nu ofera acel glow intens pe care il caut, se vede prea subtil pe tenul meu. |
+| Tinted Peach Pink Balm (multi use) | Dr. PAWPAW | Balsam multifunctional | 10/10 | Preferatul meu! Hidrateaza extraordinar, lasa buzele moi si catifelate si ofera o nuanta foarte frumoasa. Il folosesc zilnic si chiar face diferenta. Un produs mic, dar cu un efect mare. |
+| Eye Pencil, Tears of My Ex | NL Beauty | Creion ochi | 8/10 | Imi place foarte mult culoarea, este intensa si usor de aplicat. Rezista bine pe parcursul zilei si completeaza frumos machiajul ochilor. Un creion pe care il folosesc cu drag. |
+
+Ce reiese din note (preferinte reale, utile pentru continut): prefera glow intens, nu subtil;
+nu e fana de eyeliner; iubeste produsele de buze hidratante cu nuanta delicata (folosite zilnic);
+sprancenele naturale si fixate sunt o prioritate (doua note de 100/10).
+
 ## Rutina curenta (daca vrei sa fie mentionata in continut)
 
 [Ce folosesti de obicei, in ordine — util pentru postari/reels de tip "rutina". Lasa gol daca preferi sa nu o expui.]

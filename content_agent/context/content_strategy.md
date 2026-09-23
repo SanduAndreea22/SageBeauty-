@@ -65,6 +65,14 @@ etc.) — atunci ii schimbi statusul in **aprobat**.
 **Idee data explicit de Andreea in cerere** ("vreau o postare despre X") nu atinge planul — o
 folosesti direct, fara sa consumi un item din el (vezi "Cand Andreea da o tema explicita" mai jos).
 
+## Ce a mers deja (date reale de pe TikTok, 2026-09-23)
+
+Pe TikTok-ul Andreei, cele mai vazute doua postari sunt de makeup, cu produsele ei reale: haul
+"Ia si tu 150 lei sa iti iei make up" (1.120 vizualizari) si "Dau note produselor de makeup primite
+in BelleBox" (907) — peste travel/fotbal/motivatie (~200-550). Formatul **"dau note" (produs real +
+nota 1-10 + parere sincera)** e candidat puternic pentru planurile viitoare (categoria *Review
+sincer*, cu fapte din `knowledge/produse_incercate.md`).
+
 ## Rotatie de teme (categorii de continut)
 
 Fiecare categorie e marcata daca are nevoie de fapte concrete de la Andreea (produs/rezultat real)
