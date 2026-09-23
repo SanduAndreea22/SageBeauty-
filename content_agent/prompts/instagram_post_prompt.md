@@ -27,6 +27,10 @@ continut"). Daca nu exista plan activ sau s-a epuizat, opreste-te si intreab-o d
 inainte sa continui — nu alegi pe cont propriu. Daca ea a cerut explicit o categorie care are nevoie
 de fapte (ex: "un review despre X") si nu ti-a dat destule detalii, intrebi acele detalii.
 
+**Brief de la director:** daca itemul din `plan_continut.md` are un brief (coloana "Brief", fisier in
+`outputs/briefuri/`), citeste-l primul si respecta-l — obiectivul, mesajul, hook-ul si faptele de acolo
+au prioritate fata de alegerile tale.
+
 Pe baza ideii (data de Andreea sau aleasa de tine), scrie:
 
 1. **Un caption** (3-5 propozitii, ton direct si cald, ca la o cafea cu o prietena). **Prima

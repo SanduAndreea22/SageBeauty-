@@ -20,6 +20,10 @@ continut"). Daca nu exista plan activ sau s-a epuizat, opreste-te si intreab-o d
 inainte sa continui. Caruselul se preteaza bine mai ales la categoriile *(libere)*: sfat practic,
 mit demontat, intrebare frecventa.
 
+**Brief de la director:** daca itemul din `plan_continut.md` are un brief (coloana "Brief", fisier in
+`outputs/briefuri/`), citeste-l primul si respecta-l — obiectivul, mesajul, hook-ul si faptele de acolo
+au prioritate fata de alegerile tale.
+
 **Un singur mesaj principal pe carusel.** Daca ideea are doua mesaje, alege unul si propune-l pe
 celalalt ca idee separata.
 

@@ -20,6 +20,10 @@ continut"). Daca nu exista plan activ sau s-a epuizat, opreste-te si intreab-o d
 inainte sa continui. Retine ca reels-urile sunt rare in mixul ei (vezi "Ritm si mix de continut") —
 nu presupune ca fiecare item din plan e un reel.
 
+**Brief de la director:** daca itemul din `plan_continut.md` are un brief (coloana "Brief", fisier in
+`outputs/briefuri/`), citeste-l primul si respecta-l — obiectivul, mesajul, hook-ul si faptele de acolo
+au prioritate fata de alegerile tale.
+
 Pe baza ideii (data de Andreea sau aleasa de tine), genereaza:
 
 1. **Un script scurt de voiceover** (**15-30 secunde** — vezi `content_strategy.md`; ton natural, ca vorbit nu ca citit)

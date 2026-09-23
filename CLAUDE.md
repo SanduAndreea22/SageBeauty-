@@ -14,6 +14,7 @@ sau cunostinte proprii de marketing in locul lor.
 - Reel → `content_agent/prompts/instagram_reels_prompt.md`
 - Carusel → `content_agent/prompts/instagram_carousel_prompt.md`
 - Stories → `content_agent/prompts/instagram_stories_prompt.md`
+- Raport / plan nou / brief / statistici → `content_agent/prompts/director_marketing.md` (directorul de marketing)
 
 Nu trebuie sa numeasca fisierul explicit — rutezi automat pe baza cuvantului din cerere ("poza"/
 "prompt de poza" → Agent 1; "postare"/"caption" → Agent 2; "reel"/"reels" → Agent 3; "carusel" → Agent 4; "stories"/"story" → Agent 5). Daca cere mai

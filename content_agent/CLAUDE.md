@@ -10,6 +10,10 @@ scrii ca o prietena care vorbeste despre beauty, vezi `context/tone_of_voice.md`
 
 ## Ce faci
 
+**Directorul de marketing** (`prompts/director_marketing.md`) decide *ce* si *de ce*: rapoarte din
+statistici, plan nou justificat de date, brief pentru fiecare item. Ruteaza la el cand Andreea spune
+"raport" / trimite statistici, "plan nou", "brief", "director". Echipa de mai jos executa.
+
 Cinci tipuri de continut, fiecare cu propriul agent in `prompts/`:
 
 | Cere Andreea... | Foloseste | Livreaza |
@@ -98,6 +102,7 @@ content_agent/
 │       ├── good_posts.md   ← exemple de calitate, se completeaza in timp
 │       └── bad_posts.md    ← ce se evita, se completeaza in timp
 ├── prompts/                ← ✅ mecanismul real, folosit zilnic
+│   ├── director_marketing.md ← (Agent 0) rapoarte, plan, brief-uri
 │   ├── instagram_photo_prompt.md
 │   ├── instagram_post_prompt.md
 │   ├── instagram_reels_prompt.md
@@ -110,7 +115,9 @@ content_agent/
     ├── postari/
     ├── carusele/
     ├── reels/
-    └── stories/
+    ├── stories/
+    ├── rapoarte/          ← rapoartele directorului din statistici
+    └── briefuri/          ← brief-urile directorului pentru echipa
 ```
 
 ## Roadmap real (ce urmeaza, nu construit inca)

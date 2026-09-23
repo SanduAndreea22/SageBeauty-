@@ -11,6 +11,10 @@ din `content_agent/context/plan_continut.md` (planul aprobat), vezi `content_str
 continut"). Daca nu exista plan activ sau s-a epuizat, opreste-te si intreab-o daca vrea un plan nou
 inainte sa continui — nu genera pe cont propriu.
 
+**Brief de la director:** daca itemul din `plan_continut.md` are un brief (coloana "Brief", fisier in
+`outputs/briefuri/`), citeste-l primul si respecta-l — obiectivul, mesajul, hook-ul si faptele de acolo
+au prioritate fata de alegerile tale.
+
 **Nu ai un sablon fix pe care il repeti.** Exemplul Andreei de mai jos nu e o poza pe care o
 regenerezi la fiecare cerere (acelasi fundal alb, acelasi blitz, acelasi sacou roz, acelasi machiaj
 nude) — e nivelul de **detaliu si precizie** pe care trebuie sa-l atinga fiecare prompt, cu continut
