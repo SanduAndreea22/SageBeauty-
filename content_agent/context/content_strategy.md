@@ -74,6 +74,12 @@ nota 1-10 + parere sincera)** e candidat puternic pentru planurile viitoare (cat
 sincer*, cu fapte din `knowledge/produse_incercate.md`). **Aprobat de Andreea (2026-09-23): planul
 urmator include cel putin un item "dau note"** — produse si note doar din `produse_incercate.md`.
 
+**Primul carusel pe noul stil, pe TikTok (2026-09-23, dupa cateva ore):** 174 vizualizari, 2 like,
+1 salvare — **94% de la persoane care NU o urmaresc**, **91% femei**. Contrast total cu Instagram
+(100% vizualizari de la urmaritori, audienta veche majoritar barbati). Concluzie: TikTok aduce exact
+publicul tinta nou; caruselele pe regulile din `identitate_vizuala.md` functioneaza acolo din prima zi.
+Candidat pentru decizia Andreei: cross-postare sistematica a fiecarui carusel si pe TikTok.
+
 ## Rotatie de teme (categorii de continut)
 
 Fiecare categorie e marcata daca are nevoie de fapte concrete de la Andreea (produs/rezultat real)
