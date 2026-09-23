@@ -72,8 +72,10 @@ De retinut pentru continut: trei branduri, trei sisteme diferite de denumire a n
 
 - **Dimineata:** practic nu are rutina — nu are timp (spus de Andreea, 2026-09-23). Nu se scrie
   continut ca si cum ar avea o rutina de dimineata in mai multi pasi.
-- **Seara:** din intrarile de mai sus reies tonerul Glow Recipe (seara) si crema Tatcha (rutina de
-  seara) — rutina completa, in ordine, nu e confirmata inca.
+- **Seara (confirmat 2026-09-23):** Glow Recipe Watermelon Glow PHA+BHA Toner, apoi crema Tatcha
+  The Dewy Skin Cream.
+- Andreea **vrea sa-si faca o rutina, dar nu-i iese** (spus 2026-09-23) — subiect real, relatable,
+  pentru continut viitor de tip "incerc sa-mi fac o rutina" (doar cu ce confirma ea ca a facut).
 
 ## Experiente reale in afara tabelelor
 
