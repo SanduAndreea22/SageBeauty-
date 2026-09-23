@@ -28,3 +28,13 @@ e formulat ca preferinta personala ("Pentru mine..."), cu un singur emoji.
 > 
 > #nomakeupmakeup #naturalmakeup
 
+
+## Carusel "5 greseli care iti topesc fondul de ten" / 2026-09-23 ⭐ etalon pentru carusele
+**Sursa:** contul SageBeauty (publicat pe Instagram 2026-09-23), prompturi in `outputs/carusele/2026-09-23-fond-de-ten-se-topeste.md`
+**De ce e bun:** Andreea: "e prea frumos". Prima versiune (iconite pe fundal plat) a fost respinsa ca
+"nu asa wow"; versiunea asta merge pentru ca: fiecare slide are o imagine reala care arata exact
+sfatul (crema pe pomete, cronometru la 3:00, swatch mat vs rouat pe mana, split prea mult vs strat
+subtire, pamatuf cu pudra); coperta si ultimul slide sunt Andreea in aceeasi zi (pranz vs apus,
+acelasi pulover) — spun o poveste; firul e clar: coperta anunta "5 greseli", slide-urile sunt
+greselile, rezumatul "Ca sa tina pana seara", intrebarea finala cere numarul greselii. Detaliile de
+fundal (cana, biletel) i-au placut — dau viata cadrului.
