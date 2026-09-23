@@ -45,6 +45,10 @@ Pentru fiecare slide, livrezi:
   acelasi layout de text pe tot caruselul, ca sa arate ca un set, nu ca slide-uri disparate. Repeta
   in fiecare prompt de imagine elementele fixe din `identitate_vizuala.md` (nu presupune ca
   generatorul "tine minte" stilul de la un slide la altul).
+- **Iconitele trebuie sa fie clar diferite intre ele ca forma**, nu doar ca obiect — doua obiecte
+  diferite cu aceeasi silueta (ex: picatura de apa si burete de machiaj in forma de picatura) arata
+  identic in line-art si par o greseala. Inainte de livrare, verifica setul: daca doua iconite au
+  aceeasi forma de baza, schimba una cu un obiect cu alta silueta.
 - **Fiecare prompt de imagine trebuie sa fie explicit ca genereaza O SINGURA imagine, nu un colaj.**
   ChatGPT/DALL·E, cand "simte" ca promptul descrie un slide dintr-un set, are tendinta sa deseneze
   toate sloturile intr-o singura imagine impartita in casete. Adauga mereu, in fiecare prompt de
