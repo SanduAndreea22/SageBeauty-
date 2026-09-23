@@ -97,6 +97,13 @@ Concluzie: pe Instagram postarea ramane la cercul existent; public nou vine de p
 slaba (0 comentarii, 0 urmaritori noi) e pe ambele platforme → problema e a caruselului, nu a platformei;
 recomandarea de mai sus ramane valabila. (% urmaritori si sex/varsta pe Instagram nu s-au vazut.)
 
+## Idei venite din comentarii (pentru planul urmator)
+
+- 2026-09-24, TikTok, la caruselul cu fondul de ten (primul comentariu real): o urmaritoare cu ten
+  mixt/gras intreaba ce primer sa foloseasca — fruntea si nasul lucesc dupa cateva ore, iar noul ei
+  primer face fondul "sa se adune". Idee: carusel "De ce se aduna fondul de ten peste primer" (sfat
+  practic). Semnal: intrebarea vine exact din publicul tinta si exact pe tema caruselului.
+
 ## Rotatie de teme (categorii de continut)
 
 Fiecare categorie e marcata daca are nevoie de fapte concrete de la Andreea (produs/rezultat real)
