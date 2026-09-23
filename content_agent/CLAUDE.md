@@ -79,6 +79,18 @@ aproba. Orice corectie repetata de doua ori devine punct nou in `verificare.md`.
 Prima revizie (2026-09-23), aprobata: sursa obligatorie pentru frazele la persoana I; coloana Status
 (draft/publicat) in log + reverificarea draft-urilor la schimbarea regulilor; "dau note" in planul urmator.
 
+## Echipa ca agenti separati (`.claude/agents/`)
+
+Fiecare rol exista si ca subagent Claude Code in `.claude/agents/` (la radacina repo-ului):
+`director-marketing`, `agent-postare`, `agent-carusel`, `agent-poza`, `agent-stories`, `agent-reels`,
+`verificator`. Fiecare fisa trimite la fisierul lui din `prompts/` (sursa unica a regulilor).
+
+Fluxul (sesiunea principala = orchestrator): **director** scrie brief-ul in `outputs/briefuri/` →
+**executantul** scrie continutul in `outputs/` → **verificatorul** (independent, nu a scris continutul)
+raspunde APROBAT/RESPINS → orchestratorul repara ce e cazul, face git si i-l arata Andreei.
+Agentii nu vorbesc direct intre ei — comunica prin fisiere. Itemi independenti (ex: #4 si #5) pot rula
+in paralel. Testat prima data pe itemul #3 (2026-09-24).
+
 ## Structura proiectului
 
 ```

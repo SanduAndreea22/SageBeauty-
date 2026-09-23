@@ -17,7 +17,7 @@ activ abia dupa ce Andreea il aproba explicit (status trece din "draft" in "apro
 |---|---|---|---|---|---|
 | 1 | poza | Look/machiaj/transformare | "No-makeup makeup" — glow natural, lumina naturala, stil editorial | facut | — |
 | 2 | carusel | Intrebare frecventa | "De ce se topeste fondul de ten pana la pranz?" — 5 motive + solutii rapide | facut | — |
-| 3 | postare | Sfat practic | Cum alegi nuanta corecta de fond de ten fara sa mergi la magazin | de facut | — |
+| 3 | postare | Sfat practic | Cum alegi nuanta corecta de fond de ten fara sa mergi la magazin | facut | content_agent/outputs/briefuri/2026-09-24-item-3.md |
 | 4 | carusel | Mit demontat | "Machiajul waterproof rezista mereu la transpiratie si lacrimi" — mit demontat | de facut | — |
 | 5 | poza | Sfat practic | Layout vizual cu produsele + ordinea corecta de aplicare a machiajului | de facut | — |
 
