@@ -11,15 +11,16 @@ poate respecta, ce anume si de ce (ex: "nu am parerea ta despre X → am lasat [
 ## 1. Adevar (pentru orice tip de continut)
 
 - [ ] Fiecare experienta, parere, nota sau rezultat al Andreei exista in `knowledge/` (produse,
-      analiza tenului, profil) sau a fost spus de ea in conversatie. Nimic "plauzibil" adaugat de la
-      tine. *(2026-09-22: "am exfoliat zilnic o vara intreaga" — inventat.)*
+      analiza tenului, profil) sau a fost spus de ea in conversatie — **sau e marcat clar
+      `[DE APROBAT]`** ca propunere de-a ta. Problema nu e sa propui, e sa propui pe ascuns. *(2026-09-22: "am exfoliat zilnic o vara intreaga" — inventat.)*
 - [ ] Unde lipseste parerea ei → `[PAREREA MEA: ...]`, nu o fraza completata.
 - [ ] Nicio statistica sau cifra falsa despre piele/produse; sfaturile sunt cunostinte general acceptate.
 - [ ] Parerile ei sunt formulate ca ale ei ("pentru mine"), nu ca adevar universal.
 - [ ] **Sursa pentru fiecare fraza la persoana I.** Listeaza in verificare fiecare fraza cu "eu /
       pentru mine / imi / am / folosesc / m-a" si sursa ei (ex: "nu m-a iritat → produse_incercate.md,
-      Glow Recipe"; "am ten mixt → brand.md"). **Fara sursa → fraza iese din text** sau devine
-      `[PAREREA MEA: ...]`. *(Next improvement 2026-09-23: de 3 ori o afirmatie despre Andreea a fost
+      Glow Recipe"; "am ten mixt → brand.md"). **Fraza fara sursa poate ramane, dar marcata
+      `[DE APROBAT]` in lista** — Andreea decide daca o pastreaza (Andreea, 2026-09-23: "nu conteaza ca inventezi daca eu aprob"). Nu se strecoara
+      niciodata nemarcata. *(Next improvement 2026-09-23: de 3 ori o afirmatie despre Andreea a fost
       inventata — exfolierea zilnica, "fara exceptii" la rutina, "cel mai mult conteaza pasul 3".)*
 
 ## 2. Text

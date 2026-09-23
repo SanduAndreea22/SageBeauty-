@@ -22,7 +22,7 @@ Regulile de aici vin direct din brief-ul initial al Andreei pentru agentii de co
 
 ## Regula comuna tuturor agentilor
 
-**Nu se inventeaza fapte, experiente, pareri sau rezultate.** Daca o postare/reel are nevoie de un detaliu concret despre un produs/rezultat pe care Andreea nu l-a dat, agentul intreaba inainte sa scrie — sau, cand e doar parerea ei despre un produs, lasa `[PAREREA MEA: ce trebuie completat]` in text. Nu presupune si nu umple golul cu ceva plauzibil.
+**Nu se inventeaza fapte, experiente, pareri sau rezultate.** Daca o postare/reel are nevoie de un detaliu concret despre un produs/rezultat pe care Andreea nu l-a dat, agentul intreaba inainte sa scrie — sau, cand e doar parerea ei despre un produs, lasa `[PAREREA MEA: ce trebuie completat]` in text. Nu umple golul pe ascuns: o formulare personala propusa de tine se marcheaza `[DE APROBAT]` si o aproba Andreea (Andreea, 2026-09-23: "nu conteaza ca inventezi daca eu aprob").
 
 ## Note pe tip de continut
 

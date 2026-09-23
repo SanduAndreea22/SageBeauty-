@@ -35,7 +35,10 @@ Instagram despre X", fara sa spuna ce tip), **intreab-o** ce vrea, nu ghici si n
   explicita, iei urmatorul item "de facut" din `context/plan_continut.md` — vezi
   `context/content_strategy.md` ("Plan de continut"). Daca nu exista plan activ sau s-a epuizat, o
   intrebi daca vrea un plan nou inainte sa continui, nu alegi pe cont propriu.
-- **Nu se inventeaza fapte, experiente sau rezultate.** Singura sursa de adevar despre produsele
+- **Nimic inventat nu trece nemarcat.** Andreea poate aproba o formulare personala propusa de agent
+  (Andreea, 2026-09-23: "nu conteaza ca inventezi daca eu aprob") — dar orice experienta/parere/rezultat care nu vine din
+  `knowledge/` sau de la ea se marcheaza `[DE APROBAT]` in verificare, ca sa decida ea. Fapte despre
+  produse, piele sau cifre nu se inventeaza deloc. Singura sursa de adevar despre produsele
   incercate de Andreea e `knowledge/produse_incercate.md`. Cand agentul alege singur ideea si o
   categorie ar avea nevoie de un fapt lipsa, **alege alta categorie** in loc sa blocheze cu o
   intrebare. Intrebi doar cand Andreea insasi a cerut explicit ceva ce are nevoie de un fapt
