@@ -46,4 +46,4 @@ Am strâns cele 5 greșeli din cauza cărora machiajul cedează până la prânz
 Tu pe care o faci? Scrie-mi numărul greșelii, de la 1 la 5 💬
 
 HASHTAG-URI:
-#fonddeten #machiajdurabil #tenmixt #makeuptips #primer #machiajzilnic #beautyromania #makeupromania #zonaT #sfaturimachiaj #pudratranslucida
+#fonddeten #machiajdurabil #tenmixt #primer #makeupromania

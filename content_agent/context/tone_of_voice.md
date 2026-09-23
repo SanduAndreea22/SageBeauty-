@@ -11,6 +11,7 @@ Regulile de aici vin direct din brief-ul initial al Andreei pentru agentii de co
 - Fara aforisme fortate, fara fraze taiate artificial pe fiecare rand ca sa para "impact".
 - Fara cliseee de tip "self-care", "glow up", "treat yourself" folosite fara continut real in spate. Daca apar, trebuie ancorate intr-un detaliu concret, nu generice.
 - Maximum 2-3 emoji pe caption (decizia Andreei, 2026-09-23), fara ton de reclama.
+- **Maximum 5 hashtag-uri pe postare** — limita Instagram (semnalata de Andreea, 2026-09-23); inlocuieste orice alta cifra din prompturi.
 - Un singur mesaj principal pe postare, si fiecare postare ofera ceva concret: un sfat, o comparatie, un rezultat vizibil.
 
 ## Ce sa NU sune niciodata

@@ -10,7 +10,7 @@ Când exfoliezi prea des, bariera pielii cedează și tenul ajunge roșu și iri
 
 Tu cât de des exfoliezi acum? Și ți-a „protestat” vreodată pielea când ai exagerat? 👀
 
-#exfoliere #barierapielii #skincaretips #ingrijireapielii #skincareromania #tenmixt #acizi #glowrecipe #rutinadeseara #pielesanatoasa
+#exfoliere #barierapielii #glowrecipe #ingrijireapielii #skincareromania
 
 IMAGINE (doua variante, alegi una):
 

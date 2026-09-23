@@ -10,6 +10,7 @@ Memorie de feedback per-continut, diferita de reguli fixe (acelea sunt in `tone_
 - [2026-09-23] [poza] — Andreea: poza "no-makeup makeup" (camasa verde-inchis, fundal gri perlat, lumina difuza de studio) "mi-a placut rau". Salvata ca etalon in `knowledge/examples/good_posts.md`; portretele "wow" pastreaza voie la lumina de studio (exceptie in `identitate_vizuala.md`).
 - [2026-09-23] [carusel] — Andreea: coperta nu se lega de slide-urile numerotate si nu a inteles intrebarea finala ("Care dintre ele e a ta?"). Regula "Firul caruselului" adaugata in `instagram_carousel_prompt.md`: coperta anunta ce urmeaza, acelasi cuvant pe tot setul, intrebare finala explicita.
 - [2026-09-23] [carusel] — Andreea a pastrat intentionat citatele in engleza de pe cana/biletel/carti de pe coperta ("imi plac"). Nu se mai cer scoase; textele mici de fundal sunt ok cat timp nu concureaza cu textul slide-ului.
+- [2026-09-23] [toate] — Andreea: Instagram permite maximum 5 hashtag-uri pe postare. Inlocuieste decizia anterioara de 8-12; aplicat in toti agentii si in `tone_of_voice.md`.
 
 ## Format unei intrari
 

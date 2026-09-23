@@ -98,7 +98,7 @@ Text pe imagine: [...] — pozitie: [...]
 
 CAPTION: [3-5 propozitii, incepe cu hook, se termina cu o intrebare specifica, 2-3 emoji maxim]
 
-HASHTAG-URI: [8-12]
+HASHTAG-URI: [max 5 — limita Instagram; alege cele mai specifice temei, nu generale]
 ```
 
 **Important pentru generare:** genereaza fiecare slide ca o cerere separata in generatorul de imagine

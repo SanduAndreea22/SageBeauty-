@@ -53,7 +53,7 @@ SCENARIU CADRU CU CADRU:
 final — Se vede: [...] — Se spune: [CTA] — Text pe ecran: [...]
 
 CAPTION: [3-5 propozitii, incepe cu hook, se termina cu o intrebare, 2-3 emoji maxim]
-HASHTAG-URI: [8-12]
+HASHTAG-URI: [max 5 — limita Instagram; alege cele mai specifice temei, nu generale]
 ```
 
 Tine voiceover-ul intr-un bloc separat, curat, fara adnotari de regie in interior — Andreea trebuie sa poata sa il copieze direct in ElevenLabs fara sa mai stearga nimic.

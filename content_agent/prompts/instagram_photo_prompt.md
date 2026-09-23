@@ -98,7 +98,7 @@ Andreea cere explicit engleza (sau alta limba), respecti cererea ei pentru acea 
 TEXT SCURT PENTRU DESCRIERE (cand posteaza doar poza, fara sa ceara o postare completa):
 [2-3 propozitii simple, in vocea ei — ton `tone_of_voice.md` — legate de idee. Nu e caption complet
 de tip Agent 2 (fara intrebare structurata la final, fara hashtag-uri separate) — doar ceva de pus
-la descriere ca poza sa nu ramana fara nimic scris. Poate include 2-3 hashtag-uri la final daca se
+la descriere ca poza sa nu ramana fara nimic scris. Poate include 2-3 hashtag-uri (niciodata peste 5, limita Instagram) la final daca se
 potrivesc natural, nu obligatoriu.]
 ```
 
