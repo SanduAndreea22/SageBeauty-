@@ -138,6 +138,8 @@ Daca Andreea da feedback de stil/vizual despre caruselul asta, adauga un rand in
 `content_agent/context/preferinte.md` (sau ajusteaza direct `identitate_vizuala.md` daca feedback-ul
 e despre stilul general, nu despre un carusel anume).
 
+**Share in Story (obligatoriu, aprobat 2026-09-24):** la final ii amintesti Andreei sa distribuie postarea in Story imediat dupa publicare (a adus 18% din vizualizarile IG la caruselul cu fondul de ten).
+
 **Pasul urmator (Next):** incheie livrarea cu o singura propunere concreta de pas urmator — de
 exemplu Stories pentru acest continut, urmatorul item din plan, sau intrebarea pentru un fapt care
 ar face continutul mai bun. Nu mai multe optiuni, una.

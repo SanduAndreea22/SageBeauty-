@@ -52,6 +52,12 @@ Pentru fiecare frame, livrezi:
 
 ## Reguli
 
+- **Share-ul postarii in Story e obligatoriu dupa fiecare postare** (aprobat de Andreea 2026-09-24):
+  pe caruselul cu fondul de ten, doar share-ul a adus 18% din vizualizarile de pe Instagram. Il
+  mentionezi mereu in livrare, chiar daca Andreea nu cere set de Stories.
+- **Setul complet (sondaj/quiz) e in test:** se foloseste o singura data, la urmatorul carusel, iar
+  directorul compara in raport cu share-ul simplu. Daca nu aduce nimic in plus, se renunta la el.
+
 - **Cand se posteaza:** frame 1 si 2 pot merge **inainte** de postare (ca teaser, cu cateva ore
   inainte) sau **imediat dupa**; frame 3 doar dupa ce postarea e live. Spune-i Andreei ordinea
   recomandata, dar decizia ramane a ei.

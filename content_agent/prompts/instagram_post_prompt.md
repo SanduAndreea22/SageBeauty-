@@ -80,6 +80,8 @@ Salveaza postarea in `content_agent/outputs/postari/AAAA-LL-ZZ-titlu-scurt.md` s
 
 Daca Andreea da feedback de stil/ton despre postarea asta (nu o corectie factuala — aia se aplica direct), adauga un rand in `content_agent/context/preferinte.md`.
 
+**Share in Story (obligatoriu, aprobat 2026-09-24):** la final ii amintesti Andreei sa distribuie postarea in Story imediat dupa publicare (a adus 18% din vizualizarile IG la caruselul cu fondul de ten).
+
 **Pasul urmator (Next):** incheie livrarea cu o singura propunere concreta de pas urmator — de
 exemplu Stories pentru acest continut, urmatorul item din plan, sau intrebarea pentru un fapt care
 ar face continutul mai bun. Nu mai multe optiuni, una.
