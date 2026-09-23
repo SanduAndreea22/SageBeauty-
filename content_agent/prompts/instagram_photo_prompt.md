@@ -56,7 +56,9 @@ fara sa ceara ea explicit), respectand mereu:
 - minim de elemente in fundal
 - regulile vizuale din `content_agent/context/identitate_vizuala.md` (aproape, nu de departe; lumina
   naturala si culori calde, aspect de viata reala, nu de reclama; tonul paletei contului). Stilul
-  editorial de mai jos ramane valabil pentru look-uri, dar fara aer steril de studio.
+  editorial ramane valabil pentru portretele "wow" cu Andreea — **etalonul e poza "no-makeup
+  makeup" din `knowledge/examples/good_posts.md`**: citeste-o inainte sa scrii un portret si
+  atinge acelasi nivel de realism si detaliu (fara sa copiezi haina, fundalul sau machiajul).
 - **poza nu trebuie sa para generata de AI** — fata cat mai aproape de realitate. Include mereu explicit
   textura reala a pielii (pori vizibili, mici imperfectiuni naturale, asimetrie usoara a fetei),
   evita descrieri de tip "piele perfecta/impecabila" fara nuanta de realism si evita aspectul

@@ -23,7 +23,11 @@ vizual real: fata, piele, produs, textura sau o mana care aplica ceva.
    linistita a pozei (fundal, umar, blat), cu contrast suficient (umbra fina sau banda
    semitransparenta in culoarea paletei, nu casete opace mari).
 5. **Lumina naturala, culori calde, aspect de viata reala — nu de reclama.** Lumina de fereastra,
-   ora de aur, baie/masa de machiaj reala. Fara studio steril, fara produse plutind in aer.
+   ora de aur, baie/masa de machiaj reala. Fara produse plutind in aer.
+   **Exceptie — portretele "wow" cu Andreea** (look-uri, coperte, poze de sine statatoare): au voie
+   la lumina difuza de studio si fundal simplu (gri perlat etc.), ca in poza "no-makeup makeup" din
+   `knowledge/examples/good_posts.md` — etalonul pe care Andreea l-a placut cel mai mult. Conditia
+   e aceeasi: realism total al pielii, nu aspect de reclama retusata.
 6. **Realism:** piele cu textura reala (pori, mici imperfectiuni, asimetrie usoara), nu
    aspect plastic/airbrushed de AI — aceeasi regula ca in `prompts/instagram_photo_prompt.md`.
 7. **Trasaturile fetei din poza de referinta nu se schimba niciodata.**
