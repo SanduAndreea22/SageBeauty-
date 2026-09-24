@@ -63,7 +63,7 @@ sprancenele naturale si fixate sunt o prioritate (doua note de 100/10).
 |---|---|---|
 | YSL Skin Affair Soft Glow Cushion Foundation | LN1 | — (nedata inca; intreaba daca e nevoie) |
 | Rare Beauty — fond de ten (numele exact al gamei nu apare in poza) | 2 | Textura mai groasa decat MUP (Andreea, 2026-09-23). Parere generala nedata inca. |
-| MUP Liquid Waterproof Foundation, Professional Series | 2 NBW | Textura mai subtire decat Rare Beauty (Andreea, 2026-09-23). Parere generala nedata inca. Relevant pentru itemul #4 din plan (mitul "waterproof rezista mereu") — daca se foloseste, intreab-o cum ii tine. |
+| MUP Liquid Waterproof Foundation, Professional Series | 2 NBW | Textura mai subtire decat Rare Beauty (2026-09-23). **Parerea ei (2026-09-25):** cand e cald, dupa ~jumatate de zi apare sebumul; cand e frig ii rezista. **L-ar recumpara.** Il poarta doar cand are nevoie de ceva mai lejer. Relevant pentru itemul #4 din plan (mitul "waterproof rezista mereu") — daca se foloseste, intreab-o cum ii tine. |
 
 De retinut pentru continut: trei branduri, trei sisteme diferite de denumire a nuantei (LN1 / 2 /
 2 NBW) pentru acelasi ten deschis-mediu — fapt real, util pentru postarea despre alegerea nuantei.
@@ -79,6 +79,9 @@ De retinut pentru continut: trei branduri, trei sisteme diferite de denumire a n
   pentru continut viitor de tip "incerc sa-mi fac o rutina" (doar cu ce confirma ea ca a facut).
 
 ## Experiente reale in afara tabelelor
+
+- **Niciun fond de ten nu i-a crapat pana acum** (Andreea, 2026-09-25). Problema ei reala e sebumul
+  pe zona T la caldura, nu fondul crapat — imaginile care o arata pe ea nu o arata cu fondul crapat.
 
 - **SPF (2026-09-24):** Supergoop Glowscreen s-a terminat. Acum foloseste un SPF **Beauty of Joseon**
   (produsul exact nu e confirmat) sau un **BB cream cu SPF de la "Nuo"** (asa l-a numit Andreea; brand
