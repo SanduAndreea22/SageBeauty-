@@ -6,6 +6,9 @@
 > sfaturi de tratament prezentate ca diagnostic — SageBeauty nu e cont medical.
 > Produsele recomandate in raport sunt ale clinicii/aparatului — nu se promoveaza.
 
+> **Aprobat de Andreea (2026-09-25):** cifrele (ex: sebum 432 vs medie 190) si citatul "make up does
+> not stay on long" pot aparea public in continut.
+
 ## Rezumatul, pe intelesul tuturor
 
 **Ten gras, dar deshidratat** ("Oily skin / Lack of moisture") — adica produce mult sebum, dar ii
