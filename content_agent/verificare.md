@@ -76,6 +76,11 @@ poate respecta, ce anume si de ce (ex: "nu am parerea ta despre X → am lasat [
 - [ ] Exista "Varianta Threads": 1-2 propozitii conversationale + o intrebare directa, max 1 emoji,
       fara lista de hashtag-uri; aceleasi reguli de adevar (fraze la persoana I cu sursa).
 
+## 5d. Dupa publicare (amintire pentru Andreea)
+
+- [ ] In livrare, la final: "Verifica dupa postare ca descrierea a aparut pe fiecare platforma."
+      *(2026-09-25: caruselul cu fondul de ten a stat pe Instagram fara descriere.)*
+
 ## 6. Plan si evidenta
 
 - [ ] Ideea vine din `context/plan_continut.md` (sau a dat-o Andreea explicit).
