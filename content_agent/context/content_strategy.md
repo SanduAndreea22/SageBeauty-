@@ -78,6 +78,11 @@ urmator include cel putin un item "dau note"** — produse si note doar din `pro
 1 salvare — **94% de la persoane care NU o urmaresc**, **91% femei**. Contrast total cu Instagram
 (100% vizualizari de la urmaritori, audienta veche majoritar barbati). Concluzie: TikTok aduce exact
 publicul tinta nou; caruselele pe regulile din `identitate_vizuala.md` functioneaza acolo din prima zi.
+
+**Val 2 pe TikTok (acelasi carusel, dupa ~2 zile):** 1.366 vizualizari (de la 541), un al doilea
+varf mai mare decat primul, 45% din Republica Moldova. Salvarile doar 3 → 4, retentia 2.1 / 8.
+Concluzie: TikTok poate reimpinge un carusel dupa 1-2 zile — **rezultatele se judeca la ~48h, nu la
+cateva ore**; distributia e buna, retentia ramane de rezolvat (vezi `outputs/rapoarte/2026-09-24.md`).
 Candidat pentru decizia Andreei: cross-postare sistematica a fiecarui carusel si pe TikTok.
 
 **Acelasi carusel, a doua zi (TikTok Studio, 2026-09-24 — raport `outputs/rapoarte/2026-09-24.md`):**
