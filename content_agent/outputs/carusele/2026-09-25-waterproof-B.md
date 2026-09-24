@@ -34,8 +34,8 @@ Text pe imagine: 2. Pe ten gras, uleiul vine din tine / Mi-am făcut o analiză 
 SLIDE 4 — COMPOZITIE: produs pe blat (45°) — produsul real al Andreei
 > Notă pentru Andreea: **încarcă poza sticlei tale MUP în ChatGPT ca referință**, apoi lipește promptul. Forma și culoarea ambalajului le ia din poza ta, promptul nu le descrie.
 
-Imagine: O singură imagine, nu un colaj sau grid cu mai multe casete. Fotografie ultrarealistă de produs, format vertical 4:5, unghi de sus la 45°, pe marginea unei chiuvete din piatră crem, într-o baie reală, dimineața: sticla de fond de ten MUP Liquid Waterproof Foundation din poza de referință, reprodusă fidel (formă, culoare, material, capac exact ca în referință), așezată drept, cu fața spre cameră. Pe ambalaj apar doar "MUP" și "2 NBW"; pe ambalaj nu apare niciun alt cod, număr sau text în afara celor scrise aici. Lângă sticlă, ușor estompate: o clamă de păr, un inel lăsat pe blat, un prosop piersică împăturit. Nu apare nicio față și nicio piele cu fond aplicat. Lumină naturală caldă de fereastră, din dreapta, umbre moi, reflexe fine pe sticlă. Tonuri calde, crem, nude și piersică; aspect de viață reală, nu de reclamă, fără produse plutind în aer. În treimea de sus, peste faianța estompată, scrie cu font sans-serif îngroșat, maro-roșcat închis: "Și fondul meu e waterproof", iar dedesubt, mai subțire: "MUP, 2 NBW. Când e frig, îmi rezistă. Când e cald, după jumătate de zi apare sebumul." Tot textul ocupă maximum o treime din imagine. Rezoluție 4K.
-Text pe imagine: Și fondul meu e waterproof / MUP, 2 NBW. Când e frig, îmi rezistă. Când e cald, după jumătate de zi apare sebumul. — pozitie: treimea de sus
+Imagine: O singură imagine, nu un colaj sau grid cu mai multe casete. Fotografie ultrarealistă de produs, format vertical 4:5, unghi de sus la 45°, pe marginea unei chiuvete din piatră crem, într-o baie reală, dimineața: sticla de fond de ten MUP Liquid Waterproof Foundation din poza de referință, reprodusă fidel (formă, culoare, material, capac exact ca în referință), așezată drept, cu fața spre cameră. Pe ambalaj apar doar "MUP" și "2 NBW"; pe ambalaj nu apare niciun alt cod, număr sau text în afara celor scrise aici. Lângă sticlă, ușor estompate: o clamă de păr, un inel lăsat pe blat, un prosop piersică împăturit. Nu apare nicio față și nicio piele cu fond aplicat. Lumină naturală caldă de fereastră, din dreapta, umbre moi, reflexe fine pe sticlă. Tonuri calde, crem, nude și piersică; aspect de viață reală, nu de reclamă, fără produse plutind în aer. În treimea de sus, peste faianța estompată, scrie cu font sans-serif îngroșat, maro-roșcat închis: "Și eu am un fond waterproof", iar dedesubt, mai subțire: "MUP, 2 NBW. Când e frig, îmi rezistă. Când e cald, după jumătate de zi apare sebumul." Tot textul ocupă maximum o treime din imagine. Rezoluție 4K.
+Text pe imagine: Și eu am un fond waterproof / MUP, 2 NBW. Când e frig, îmi rezistă. Când e cald, după jumătate de zi apare sebumul. — pozitie: treimea de sus
 *(Slide-ul ăsta e dovada din viața ei pentru mesaj: la frig ține, la căldură cedează din cauza sebumului, nu a apei. Am scos „textură subțire” de pe slide ca să rămână lizibil în 2-3 secunde.)*
 
 SLIDE 5 — GRESIT vs CORECT — COMPOZITIE: split
@@ -55,7 +55,7 @@ Text pe imagine: Tu porți fond waterproof? / Scrie-mi cât îți ține: «pân�
 ---
 
 CAPTION — HOOK: adresare directă
-Pentru fetele cu ten gras care se bazează pe fond waterproof: eticheta promite rezistență la apă, nu la ulei 💧 Și fondul meu e waterproof (MUP, 2 NBW) și l-aș recumpăra, dar realist: când e frig îmi rezistă, iar când e cald, după jumătate de zi apare sebumul. Nici nu e o surpriză, în analiza tenului meu scrie clar „make up does not stay on long”, pentru că fac mult sebum pe zona T. Tu porți fond waterproof? Scrie-mi cât îți ține: «până la prânz» sau «până seara» 👇
+Pentru fetele cu ten gras care se bazează pe fond waterproof: eticheta promite rezistență la apă, nu la ulei 💧 Și eu am un fond waterproof (MUP, 2 NBW) și l-aș recumpăra, dar realist: când e frig îmi rezistă, iar când e cald, după jumătate de zi apare sebumul. Nici nu e o surpriză: în analiza tenului meu scrie clar „make up does not stay on long”, pentru că fac mult sebum pe zona T. Tu porți fond waterproof? Scrie-mi cât îți ține: «până la prânz» sau «până seara» 👇
 
 HASHTAG-URI: #fonddetenwaterproof #tengras #machiajtengras #waterproofmakeup #makeupromania
 
@@ -82,7 +82,7 @@ Fraze la persoana I (și afirmații despre Andreea), cu sursa:
 - Slide 3: "Mi-am făcut o analiză a tenului" → `analiza_ten.md` (formularea e permisă explicit acolo și în brief, fără ton medical, fără nume de clinică).
 - Slide 3: "sebum 432, media pentru vârsta mea e 190" + etichetele "frunte 519", "nas 424" → `analiza_ten.md`, cifre exacte („medie vârstă: 190”). Aprobate public de Andreea: `analiza_ten.md`, nota din 2026-09-25.
 - Slide 3 + caption: "make up does not stay on long" → `analiza_ten.md`, „Ce confirmă raportul”. Aprobat public, aceeași notă din 2026-09-25.
-- Slide 4 + caption: "Și fondul meu e waterproof" / "MUP, 2 NBW" → `produse_incercate.md`, „Fonduri de ten folosite”.
+- Slide 4 + caption: "Și eu am un fond waterproof" / "MUP, 2 NBW" → `produse_incercate.md`, „Fonduri de ten folosite”.
 - Slide 4 + caption: "Când e frig, îmi rezistă. Când e cald, după jumătate de zi apare sebumul." → `produse_incercate.md`, rândul MUP, „Părerea ei (2026-09-25)” (Andreea: „Cand e cald, dupa jumatate de zi apare sebumul. Cand e frig imi rezista.”).
 - Caption: "l-aș recumpăra" → `produse_incercate.md`, rândul MUP („L-ar recumpara”, 2026-09-25).
 - Caption: "fac mult sebum pe zona T" → `analiza_ten.md` (sebum 432 vs 190; fruntea 519, nasul 424).

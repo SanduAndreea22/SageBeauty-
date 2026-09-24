@@ -63,7 +63,7 @@ sprancenele naturale si fixate sunt o prioritate (doua note de 100/10).
 |---|---|---|
 | YSL Skin Affair Soft Glow Cushion Foundation | LN1 | — (nedata inca; intreaba daca e nevoie) |
 | Rare Beauty — fond de ten (numele exact al gamei nu apare in poza) | 2 | Textura mai groasa decat MUP (Andreea, 2026-09-23). Parere generala nedata inca. |
-| MUP Liquid Waterproof Foundation, Professional Series | 2 NBW | Textura mai subtire decat Rare Beauty (2026-09-23). **Parerea ei (2026-09-25):** cand e cald, dupa ~jumatate de zi apare sebumul; cand e frig ii rezista. **L-ar recumpara.** Il poarta doar cand are nevoie de ceva mai lejer. Relevant pentru itemul #4 din plan (mitul "waterproof rezista mereu") — daca se foloseste, intreab-o cum ii tine. |
+| MUP Liquid Waterproof Foundation, Professional Series | 2 NBW | Textura mai subtire decat Rare Beauty (2026-09-23). **Parerea ei (2026-09-25):** cand e cald, dupa ~jumatate de zi apare sebumul; cand e frig ii rezista. **L-ar recumpara.** Il poarta doar cand are nevoie de ceva mai lejer. |
 
 De retinut pentru continut: trei branduri, trei sisteme diferite de denumire a nuantei (LN1 / 2 /
 2 NBW) pentru acelasi ten deschis-mediu — fapt real, util pentru postarea despre alegerea nuantei.
