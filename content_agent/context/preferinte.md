@@ -17,6 +17,7 @@ Memorie de feedback per-continut, diferita de reguli fixe (acelea sunt in `tone_
 - [2026-09-24] [carusel] — Andreea a aprobat recomandarea directorului (raport 2026-09-24): slide-ul 2 da un raspuns util complet + motiv de swipe; intrebarea pentru comentarii apare si pe coperta/slide 2. Aplicat in agentul de carusel, verificare si brief-ul directorului.
 - [2026-09-24] [stories] — Andreea a aprobat: share-ul postarii in Story e obligatoriu dupa fiecare postare (a adus 18% din vizualizarile IG); setul cu sondaj/quiz se testeaza o data la urmatorul carusel, apoi se decide pe date.
 - [2026-09-25] [toate] — Andreea: "sa nu uiti ca e contul meu personal unde postez". Postarile personale non-beauty sunt ale ei; ritmul e tinta, nu presiune. Notat in `brand.md`.
+- [2026-09-25] [carusel/postare] — Andreea are si Threads; a aprobat "Varianta Threads" la fiecare postare/carusel (text conversational + intrebare, poza optionala).
 
 ## Format unei intrari
 

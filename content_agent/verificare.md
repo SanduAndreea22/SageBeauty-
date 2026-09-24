@@ -71,6 +71,11 @@ poate respecta, ce anume si de ce (ex: "nu am parerea ta despre X → am lasat [
 - [ ] Exista sectiunea "Varianta TikTok": titlu = hook scurt, caption 1-2 propozitii, 3-5 hashtag-uri,
       tip de sunet (nu un titlu de melodie inventat). Imaginile sunt aceleasi.
 
+## 5c. Varianta Threads (carusel / postare) — din 2026-09-25
+
+- [ ] Exista "Varianta Threads": 1-2 propozitii conversationale + o intrebare directa, max 1 emoji,
+      fara lista de hashtag-uri; aceleasi reguli de adevar (fraze la persoana I cu sursa).
+
 ## 6. Plan si evidenta
 
 - [ ] Ideea vine din `context/plan_continut.md` (sau a dat-o Andreea explicit).

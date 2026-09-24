@@ -67,6 +67,11 @@ Titlu: [hook-ul, max ~60 caractere, poate avea 1 emoji]
 Caption: [1-2 propozitii scurte + aceeasi intrebare de final]
 Hashtag-uri: [3-5, specifice temei]
 Sunet: [tipul de sunet de ales din biblioteca TikTok — ex: "calm, in trend, volum mic"; nu un titlu anume inventat]
+
+VARIANTA THREADS (text, poza optionala):
+Text: [1-2 propozitii conversationale, ton de prietena, pornind de la mesajul postarii + o intrebare
+directa la care se raspunde usor; fara hashtag-uri sau maxim 1; max 1 emoji]
+Imagine: [optional — prima imagine din postare/carusel sau fara imagine]
 ```
 
 ## Inainte de livrare — verificare (obligatoriu)
