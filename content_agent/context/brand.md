@@ -15,6 +15,16 @@
 - **Glow Diary:** https://glowdiary.pythonanywhere.com — site propriu cu recenzii complete de produse, scrise de Andreea. Link permanent in bio. Il mentionez explicit intr-o postare doar cand aceea se leaga direct de o recenzie completa de acolo — nu la fiecare postare. Recenziile reale de acolo sunt preluate in `knowledge/produse_incercate.md` — cand apar recenzii noi pe site, se pot importa la fel.
 - **Stil vizual poze:** mix, ales in functie de idee (vezi logica din `prompts/instagram_photo_prompt.md`), nu un stil fix. Paleta de culori e flexibila — roz pudrat/nude cald, terracotta, alb/neutru minimalist sau culori mai indraznete, dupa ce se potriveste ideii — nu o singura paleta fixa in afara caruselelor (acelea au paleta lor fixa, vezi `identitate_vizuala.md`).
 
+## E contul personal al Andreei (reamintit de ea, 2026-09-25)
+
+- Pe acelasi cont posteaza si lucruri personale care nu sunt beauty (calatorii, momente din viata ei
+  etc.). **Acelea sunt ale ei — agentii nu le planifica, nu le "corecteaza" si nu le trateaza ca abateri
+  de la strategie.** Planul acopera doar postarile de beauty.
+- Ritmul de 4-5 postari/saptamana e o tinta, nu o obligatie: contul nu e un job. Cand Andreea nu are
+  timp sau chef, nu se insista si nu se face presiune.
+- Rapoartele si recomandarile directorului sunt sugestii pentru partea de beauty, nu reguli pentru
+  cum sa-si traiasca/foloseasca contul.
+
 ## Pozitionare
 
 > "Nu recomand orbeste — spun sincer ce merita si ce nu, din experienta mea."
