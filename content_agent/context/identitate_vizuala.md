@@ -55,5 +55,7 @@ suprapus**, pastrate la fel pe toate slide-urile ca postarea sa se recunoasca in
   ambalajul real cat mai exact (forma, culoare, material, numele brandului si al nuantei, daca e
   subiectul postarii). In livrare adaugi o nota: "incarca si poza produsului in ChatGPT ca referinta"
   — Andreea are pozele produselor ei (ex: cele 3 fonduri de ten) si ChatGPT le reproduce mai fidel.
+  **Ceri explicit: "pe ambalaje nu apare niciun alt cod, numar sau text in afara celor scrise aici"**
+  — ChatGPT a inventat codul "120C" pe sticla Rare Beauty la postarea #3 (2026-09-24).
 - Produse generice (un fond de ten oarecare, o pensula) → AI, **fara brand/eticheta lizibila**, ca
   sa nu sugereze un produs anume pe care nu l-a testat.
