@@ -72,3 +72,91 @@ comasează propoziția 4 (rezolvă și punctul 1). Sfatul „tamponezi, nu freci
 - **Comentarii (8)**: întrebarea e pe copertă și la final și are răspuns din 2-3 cuvinte, cu variantele date. Contra: e mai greu pentru cine nu poartă fond waterproof.
 - **Public nou TikTok (7)**: adresarea directă „ten gras” + „fond waterproof” în titlu e bună. Cifrele reale de sebum dau credibilitate. `#mascarawaterproof` aduce publicul greșit.
 - Nota depinde de răspunsul Andreei la slide-ul 4. Dacă nu vrea să răspundă, B coboară la ~6/10 („analiză + mit”, fără miez).
+
+---
+
+## Runda 2 (2026-09-25): reverificare completă a fișierului rescris
+
+Surse noi verificate:
+- `produse_incercate.md`, rândul MUP (2026-09-25): „cand e cald, dupa ~jumatate de zi apare sebumul; cand e frig ii rezista. L-ar recumpara. Il poarta doar cand are nevoie de ceva mai lejer”
+- `produse_incercate.md`: „Niciun fond de ten nu i-a crapat pana acum” (2026-09-25)
+- `analiza_ten.md`: nota de aprobare publică a cifrelor și a citatului (2026-09-25)
+
+### Verdict: APROBAT
+
+### Punctele picate în runda 1: rezolvate
+1. Fraza cu lacrimile a fost scoasă din caption. Nuanța cu lacrimile nu mai apare nicăieri.
+2. Caption-ul are acum exact 5 propoziții:
+   1. hook 💧
+   2. „Și fondul meu e waterproof (MUP, 2 NBW) și l-aș recumpăra, dar realist: …”
+   3. „Nici nu e o surpriză, … pe zona T.”
+   4. „Tu porți fond waterproof?”
+   5. „Scrie-mi cât îți ține: … 👇”
+
+   Nu mai există placeholder care să-l lungească.
+
+### Reverificare completă (tot fișierul)
+- **Adevăr**:
+  - Nu mai există niciun `[PAREREA MEA]` sau `[DE APROBAT]` deschis.
+  - Fiecare frază despre Andreea are sursă (tabelul de mai jos).
+  - Cifrele sunt exacte și aprobate public: 432, medie 190 („pentru vârsta mea” e acum corect), frunte 519, nas 424.
+  - Textul de pe slide-ul 4 reproduce fidel răspunsul ei. Interpretarea „cedează din cauza sebumului” apare doar în nota pentru Andreea, nu pe imagine.
+- **Imagini**:
+  - Nicio imagine n-o arată pe Andreea cu fond crăpat sau cedat. Slide-ul 1 are o sticlă generică întoarsă, slide-ul 3 zona T fără machiaj (coerent cu analiza), iar slide-ul 7 cere explicit „fără accent pe machiaj după ore”.
+  - Split-ul (5) folosește piele nerecognoscibilă și fond generic, „șters în dungi”, nu crăpat.
+  - Slide-ul 4 arată doar sticla MUP. Pe ea scrie doar „MUP” + „2 NBW”, cu interdicție explicită pentru alt cod, iar forma o dă referința.
+- **Text**:
+  - Hook de adresare directă, o singură propoziție, alt tip decât ultimele două din log.
+  - Un singur mesaj principal.
+  - Caption: 5 propoziții, 2 emoji, întrebare specifică la care se răspunde din 2-3 cuvinte.
+  - Hashtag-uri: 5 pe IG, 5 pe TikTok, fără mascara.
+  - Fără clișee. „l-aș recumpăra” e echilibrat de „dar realist”, deci nu sună a reclamă.
+  - Diacriticele sunt corecte pe tot textul de pe imagini (slide-urile 1-7, verificate rând cu rând).
+- **Carusel / fir / retenție**:
+  - 7 slide-uri. Coperta anunță „3 lucruri pe care eticheta nu ți le spune”, numerotarea 1-3 e pe slide-urile 2, 3, 5 și în rezumat, iar rezumatul are titlu.
+  - Întrebarea finală e exactă. Coperta + slide-ul 7 se înțeleg singure.
+  - Slide-ul 2 e complet și mai aerisit, cu trei rânduri scurte.
+  - Swipe-ul spre analiză e adevărat și livrat pe slide 3.
+  - Întrebarea apare și pe copertă.
+- **Prompturi**:
+  - Toate cer „o singură imagine, nu colaj”; split-ul are excepția cu „nimic în plus”.
+  - Toate sunt 4:5, cu realism explicit (pori, imperfecțiuni, fără airbrushed) și lumină naturală caldă.
+  - „Nu schimba trăsăturile feței” apare la 1, 3 și 7.
+  - Textul slide-ului e cerut între ghilimele, cu poziție și max 1/3.
+  - Nu există `[POZA MEA]`.
+- **Vizual**:
+  - Compozițiile nu se repetă la rând.
+  - Picăturile de apă au rămas doar pe slide-ul 2.
+  - Helanca maro-ciocolată nu apare în log.
+  - Machiajul vine din `profil_frumusete.md`, fără eyeliner.
+- **Nerepetare** față de 09-23: nu apar primer, hidratare, strat subțire sau pudră ca sfat. Există un singur slide de „ce ajută”.
+- **5b TikTok**: titlu-hook de ~55 de caractere, caption scurt + aceeași întrebare, 5 hashtag-uri, tip de sunet.
+- **6 Plan/log**: itemul #4 e „de facut”, iar brief-ul există. Faptul că nu e marcat e normal (A/B nealeasă).
+- Share-ul în Story, testul setului complet de Stories și un singur pas următor sunt prezente.
+
+### Fraze la persoana I, cu sursă (runda 2)
+| Fraza | Unde | Sursă |
+|---|---|---|
+| „Ce scrie în analiza mea despre machiaj → slide 3” | slide 2 | `analiza_ten.md`, livrat pe slide 3 |
+| „Mi-am făcut o analiză a tenului” | slide 3 | `analiza_ten.md` (formulare permisă) |
+| „sebum 432, media pentru vârsta mea e 190”, „frunte 519”, „nas 424” | slide 3 | `analiza_ten.md`, exact. Aprobat public 2026-09-25 |
+| „make up does not stay on long” | slide 3, caption | `analiza_ten.md`. Aprobat public 2026-09-25 |
+| „Și fondul meu e waterproof” / „MUP, 2 NBW” | slide 4, caption | `produse_incercate.md`, Fonduri de ten (vezi obs. 1) |
+| „Când e frig, îmi rezistă. Când e cald, după jumătate de zi apare sebumul.” | slide 4, caption | `produse_incercate.md`, rândul MUP, 2026-09-25 |
+| „l-aș recumpăra” | caption | `produse_incercate.md`, „L-ar recumpara”, 2026-09-25 |
+| „fac mult sebum pe zona T” | caption | `analiza_ten.md` (519 / 424 vs 190) |
+| „Nici nu e o surpriză” | caption | legătură între două fapte cu sursă, nu adaugă o experiență nouă |
+
+Nicio frază fără sursă.
+
+### Observații minore (runda 2, nu blochează)
+1. „Și fondul meu e waterproof” + „l-aș recumpăra”, după un hook despre fetele care „se bazează pe fond waterproof”, pot lăsa impresia că e fondul ei de zi cu zi. Sursa spune că îl poartă „doar cand are nevoie de ceva mai lejer” și că mai are YSL și Rare Beauty. Nu e fals, dar formularea „Și eu am un fond waterproof” ar fi mai exactă.
+2. În caption, virgula din „Nici nu e o surpriză, în analiza tenului meu scrie clar…” leagă două propoziții independente. Mai curat: „Nici nu e o surpriză: în analiza tenului meu scrie clar…”.
+3. Pe slide-ul 2, dunga e în jumătatea de jos, iar linia de swipe e în colțul dreapta-jos, adică exact peste disc și dungă. Există riscul de suprapunere sau contrast slab. Ar fi mai sigur ca swipe-ul să stea tot în treimea de sus, sub „Ce ajută”.
+
+Notă pentru orchestrator (housekeeping, nu ține de carusel): în `produse_incercate.md`, rândul MUP încă spune „daca se foloseste, intreab-o cum ii tine”. Răspunsul există acum, deci nota e învechită.
+
+### Nota finală: 9/10
+- **Retenție 9**: slide-ul 2 e util singur, aerisit, iar swipe-ul spre citatul real e un cârlig adevărat. 7 slide-uri.
+- **Comentarii 8**: întrebarea e pe copertă și la final, cu două variante de răspuns scurte. Experiența ei (frig ține / cald apare sebumul) invită la comparație. Cine nu poartă fond waterproof e puțin exclus.
+- **Public nou TikTok 9**: „fond waterproof” + „ten gras” în titlu, hashtag-uri pe temă, cifre reale și o experiență sinceră, fără ton de reclamă.
