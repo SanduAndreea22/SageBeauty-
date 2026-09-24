@@ -57,3 +57,60 @@ Nemarcarea in plan/log e intentionata si nu se considera greseala.
 ## Nota pentru obiectivele brief-ului: 7/10
 
 Structura de retentie e corecta (raspuns complet + swipe adevarat + intrebare devreme), la fel intrebarea dintr-un cuvant si hook-ul bun pentru public nou, cu cuvinte cautate. Nota scade din cauza densitatii textului pe slide-ul 2 (lucreaza impotriva obiectivului 1), a copertei aproape identice cu cea din 09-23 si a afirmatiei absolute despre transpiratie, care poate aduce comentarii de corectie in loc de raspunsuri "fond"/"mascara".
+
+---
+
+# Runda 2 (2026-09-25)
+
+Am reverificat tot fisierul rescris. Surse: `verificare.md` (sect. 1, 2, 3, 4, 5b, 6), brief-ul (campuri comune + UNGHI A), `knowledge/produse_incercate.md` (randul MUP din 2026-09-25 si "Niciun fond de ten nu i-a crapat"), caruselul din 09-23 si varianta B.
+
+## Rezultat: RESPINS (1 punct picat, se repara intr-un minut)
+
+### Cele 4 puncte din runda 1: toate rezolvate
+
+1. Repetarea vizuala e rezolvata. Zona T lucioasa apare doar pe coperta, cu fondul intact, ceea ce corespunde faptului "niciun fond nu i-a crapat". Slide-ul 3 e acum hartia matifianta in contra-lumina, fara fata. Coperta (terasa, limonada, maiou galben-mustar) si slide-ul 7 (camasa de poplin, barbia in palma) nu mai copiaza formulele de la 09-23.
+2. Calificarea "pe ten gras" apare pe slide 3, in rezumat si pe TikTok. "Atât." a disparut. Rezumatul nu mai contrazice "✓ apă".
+3. Textul e aerisit: slide 2 are circa 15 cuvinte, slide 5 circa 9, rezumatul 3 randuri scurte. Se citesc in 2-3 secunde.
+4. Caption-ul: "se poate rupe pe nas" a disparut. Fraza personala are acum sursa (vezi mai jos).
+Observatiile minore sunt si ele rezolvate: lumina e naturala pe toate slide-urile, split-ul are "Imaginea întreagă e în format vertical 4:5", iar slide-ul 4 foloseste un ochi generic, fara poza de referinta.
+
+### Punct picat
+
+1. **Unghiul A preia experienta de baza din unghiul B, contrar brief-ului A.**
+   - Caption: "Am ten gras pe zona T și, când e cald, după vreo jumătate de zi îmi apare sebumul acolo, chiar și cu fond waterproof ☀️"
+   - Regula: brief, UNGHI A, "Fapte reale despre Andreea: nu sunt necesare. Optional, o singura fraza: 'am ten gras pe zona T'. **Fara alte experiente personale.**" Faptul adaugat (sebumul dupa jumatate de zi la cald, cu fondul waterproof) e miezul variantei B. B il foloseste pe slide-ul 4 ("Când e cald, după jumătate de zi apare sebumul") si in caption. Asa, A si B nu mai sunt doua unghiuri distincte, iar comparatia directorului (criteriile 2 si 4) se estompeaza. Faptul are sursa, deci nu e o problema de adevar, ci de brief/nerepetare.
+   - Autorul spune ca fraza a fost adaugata "la indicatia orchestratorului", dar brief-ul A nu a fost modificat. O indicatie care nu apare in brief nu schimba regula.
+   - Reparare, una din doua:
+     - (a) scoti clauza: "Am ten gras pe zona T, deci știu cum e." Sau renunti la fraza personala; autorul confirma ca caption-ul ramane valid.
+     - (b) directorul modifica explicit brief-ul A si noteaza ca A preia faptul MUP. In cazul asta punctul devine observatie, iar caruselul trece.
+
+### Fraze la persoana I / despre Andreea, cu sursa
+
+- "Am ten gras pe zona T" → `analiza_ten.md` (sebum 432; fruntea 519, nasul 424) + `brand.md`. OK.
+- "când e cald, după vreo jumătate de zi îmi apare sebumul acolo, chiar și cu fond waterproof" → `produse_incercate.md`, randul MUP, "Parerea ei (2026-09-25)". Sursa e corecta, dar incalca brief-ul A (vezi punctul picat).
+- Coperta, cu Andreea la caldura, zona T lucioasa si fondul intact → `produse_incercate.md` (MUP la cald + "Niciun fond de ten nu i-a crapat"). OK.
+- Slide 7, cu zona T mata si fondul intact: nu afirma nimic. Slide 4 foloseste un ochi generic.
+- Textele de pe slide-uri si TikTok: nicio fraza la persoana I.
+- [DE APROBAT]: niciuna necesara.
+
+### Ce trece (numarat de mine)
+
+- 7 slide-uri, cu firul "3 lucruri de care nu te apără", numerotate 1-3 pe slide-urile 3-5. Rezumatul are titlu. Coperta si slide-ul 7 se inteleg singure.
+- Retentie: slide-ul 2 e complet (ce este, ce nu, ce ajuta). "Dovada, la slide 5 →" e adevarat si livrat. Intrebarea apare pe coperta.
+- Caption: 5 propozitii, 2 emoji (☀️ 👇), 5 hashtag-uri. Hook-ul (mit contrazis) e diferit de ultimele doua. Nu are clisee.
+- TikTok: titlu, 1 propozitie + intrebarea, 5 hashtag-uri, tip de sunet.
+- Prompturile, pe toate 7 slide-urile: "o singură imagine" (split-ul cu formula de exceptie), 4:5, realism, lumina naturala calda. "Nu schimba trăsăturile feței" apare pe 1 si 7. Produsele n-au eticheta. Nu apare [POZA MEA]. Diacriticele sunt corecte.
+- Fapte: fara cifre sau chimie. Nuanta cu lacrimile e cinstita. Produsele waterproof nu sunt demonizate.
+- Nerepetare fata de 09-23: textul si coperta sunt noi. Haine noi fata de log.
+- Plan/log nemarcate: intentionat, corect.
+- Fata de B: hook diferit (mit contrazis vs adresare directa), mesaj principal diferit, intrebare diferita. Singura suprapunere e fraza din caption de mai sus.
+
+### Observatii minore (nu blocheaza)
+
+1. Lucrul 1 ("Căldura, pe ten gras": "Transpirația vine la pachet cu sebum. Iar sebumul nu e apă.") si lucrul 3 ("Sebumul") ajung la aceeasi cauza, sebumul, iar imaginea de pe slide-ul 3 arata tot sebum. Cititorul poate simti ca sunt 2 lucruri, nu 3. Slide-ul 3 ar merita un accent propriu (caldura/transpiratia pe ten).
+2. Slide 4: "Lacrimile, de obicei, nu. Mâna care freacă ochii, da." e eliptic, fara verb. Mai clar: "Lacrimile de obicei n-o întind. Mâna care freacă, da."
+3. Rezumatul (slide 6) e iar un flat lay pe "tavă din travertin crem", cu spatiul liber in dreapta, exact ca rezumatul publicat pe 09-23. Merita schimbata suprafata (lenjerie, blat de lemn, marmura).
+
+## Nota finala pentru obiectivele brief-ului: 8/10
+
+Retentia e acum bine servita: slide-ul 2 e scurt si complet, cu un swipe adevarat, iar intrebarea apare devreme. Intrebarea dintr-un cuvant e buna pentru comentarii. Hook-ul si cuvintele cautate sunt bune pentru public nou. Nota scade din cauza suprapunerii cu B in caption si a firului usor dublat (sebum de doua ori).
