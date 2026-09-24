@@ -56,3 +56,13 @@ Unghiul cu mascara si lacrimi din A. Ramane ca idee pentru un carusel viitor, se
 
 **Pasul urmator:** alegi B? Daca da, orchestratorul marcheaza itemul #4 si trece la setul complet de
 Stories (agentul 5), cu quiz-ul "Waterproof rezista la orice?" (Mit / Adevar).
+
+## Decizia Andreei (2026-09-25): publica AMBELE variante — test A/B real
+
+- Se publica in zile diferite, la aceeasi ora, pe Instagram + TikTok, ca sa fie comparabile.
+- Ordine propusa: B primul (recomandarea directorului), A la 2 zile distanta.
+- Stories: la B setul complet (sondaj/quiz), la A doar share simplu — testul de Stories se face in
+  acelasi timp cu testul A/B.
+- Raport: directorul compara la ~2h si ~21h (vizualizari, slide-uri vazute, comentarii, salvari,
+  urmaritori noi) — castigatorul devine unghiul implicit pentru urmatoarele carusele de tip mit.
+
