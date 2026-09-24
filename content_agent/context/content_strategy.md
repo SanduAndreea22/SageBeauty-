@@ -97,6 +97,12 @@ Concluzie: pe Instagram postarea ramane la cercul existent; public nou vine de p
 slaba (0 comentarii, 0 urmaritori noi) e pe ambele platforme → problema e a caruselului, nu a platformei;
 recomandarea de mai sus ramane valabila. (% urmaritori si sex/varsta pe Instagram nu s-au vazut.)
 
+**Caruselul fondul de ten la ~21h pe TikTok (2026-09-25):** 541 vizualizari, 3 salvari, 4 comentarii,
+**2 urmaritori noi** (primii din pivot), 99% non-urmaritori, 87% femei, 88% Romania, 95% din "Pentru
+tine". Varful vine in primele ~3 ore, apoi se opreste — postarile pe TikTok traiesc cateva ore, deci
+ritmul constant conteaza mai mult decat o postare "perfecta". Vs Instagram la ~21h: 48 de persoane,
+0 urmaritori noi. TikTok = canalul de crestere confirmat.
+
 ## Idei venite din comentarii (pentru planul urmator)
 
 - 2026-09-24, TikTok, la caruselul cu fondul de ten (primul comentariu real): o urmaritoare cu ten
