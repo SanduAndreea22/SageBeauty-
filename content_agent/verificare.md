@@ -85,6 +85,9 @@ poate respecta, ce anume si de ce (ex: "nu am parerea ta despre X → am lasat [
 
 ## 6. Plan si evidenta
 
+- [ ] **Verificatorul independent ruleaza inainte ca Andreea sa vada continutul** — si cand orchestratorul
+      scrie singur, fara brief. *(2026-09-25: poza #5 si Stories B livrate fara verificator → review RESPINS dupa livrare.)*
+
 - [ ] Ideea vine din `context/plan_continut.md` (sau a dat-o Andreea explicit).
 - [ ] Dupa livrare: salvat in `outputs/`, rand in `outputs/log.md` cu **Status: draft**, item marcat "facut" in plan.
 - [ ] **Cand se schimba o regula** (in orice fisier din `context/` sau aici), treci prin aceasta lista

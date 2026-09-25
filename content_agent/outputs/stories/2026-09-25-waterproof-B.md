@@ -4,8 +4,8 @@ STORIES PENTRU: Fond waterproof pe ten gras — ce nu-ți spune eticheta — `ou
 Ordine recomandata: postarea e deja live pe Instagram → toate 3 frame-urile acum, unul dupa altul (1 → 2 → 3).
 Testul: setul complet (quiz + sondaj + share) la B vs share simplu la celelalte postari — directorul compara sursa "Povesti" + raspunsurile la stickere.
 
-FRAME 1 — HOOK: mit contrazis
-Text pe ecran: Test rapid 👀
+FRAME 1 — HOOK: curiozitate
+Text pe ecran: Eticheta nu-ți spune tot 👀
 Sticker: Quiz — "Fondul waterproof rezistă la orice?" — variante: "Da, de-asta e waterproof" / "Nu, doar la apă" (corect: "Nu, doar la apă" — din carusel, slide 2)
 Fundal: prompt imagine 9:16 (încarci poza sticlei tale MUP ca referință):
 "Folosește sticla de fond de ten din poza de referință, reprodusă fidel (formă, culoare, capac, logo exact ca în poză); pe ambalaj nu apare niciun alt cod, număr sau text în afara celor din poza de referință. O singură imagine, nu un colaj. Fotografie ultrarealistă, format vertical 9:16: sticla stă pe marginea unei chiuvete din piatră crem, dimineața, iar câteva picături de apă stau pe sticlă și pe blat. Lângă ea, estompat, un prosop piersică și o clamă de păr. Lumină naturală caldă de fereastră, din lateral, umbre moi, tonuri crem, piersică și terracotta; aspect de viață reală, nu de reclamă. Sticla ocupă treimea de jos a imaginii; centrul și partea de sus rămân zonă liniștită, estompată, pentru text și sticker. Fără niciun text scris în imagine. Rezoluție 4K."
@@ -22,10 +22,19 @@ Text pe ecran: Slide-ul 3 e analiza tenului meu 👀
 Fundal: distribuie postarea din feed (caruselul waterproof B)
 (Sursa: slide-ul 3 al caruselului = analiza Focuskin, aprobată public.)
 
-## Verificare
+## Verificare (runda 2, dupa review)
+
+Fraze la persoana I, cu sursa:
+- Frame 2 "La mine, când e cald, după jumătate de zi apare sebumul" → `produse_incercate.md`, MUP, parerea din 2026-09-25.
+- Frame 3 "Slide-ul 3 e analiza tenului meu" → `analiza_ten.md` (aprobat public 2026-09-25).
+
+- Hook frame 1: curiozitate (tone_of_voice), o propozitie, livrat in carusel.
+- Observatie pentru director: sondajul repeta intrebarea pentru comentarii din carusel — poate muta raspunsuri din comentarii in Story; de tinut cont in comparatie.
 - Adevar: frame 2 si 3 — fraze la persoana I cu sursa (MUP → produse_incercate.md; analiza → analiza_ten.md). Quiz-ul are raspuns sigur, din continutul sursa.
 - Nu da tot raspunsul: quiz-ul spune doar "doar la apă"; ce nu-ti spune eticheta ramane in carusel.
 - Max 1 emoji pe frame; fara "Nu rata!"; 9:16; fundaluri cu element real, spatiu liber pentru sticker, fara text in imagine.
 - Produse reale: doar sticla MUP (poza de referinta), fara coduri inventate.
 - Sticker variat fata de setul anterior (nepostat): quiz + sondaj, dar pe alte intrebari.
 Verificare: ✅ toate punctele.
+
+**Pasul urmator:** screenshot IG la ~21h (sursa "Povesti" + rezultatele quiz/sondaj) → directorul compara cu share-ul simplu.

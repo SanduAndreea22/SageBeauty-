@@ -1,52 +1,57 @@
-# Poza — Ordinea mea de machiaj (item #5 din plan)
+# Poza — Ordinea machiajului meu (item #5 din plan)
 
 > Item #5 din `context/plan_continut.md`: "Layout vizual cu produsele + ordinea corecta de aplicare".
-> Stil: **autentic / lifestyle** (rutina reala, produsele ei). Fara fata — flat lay cu produsele ei
-> reale (regula din 2026-09-25). Ordinea: ordinea ei (`produse_incercate.md`, "Rutina de machiaj de
-> zi cu zi"), cu doua corecturi clasice: **pudra de sprancene inainte de gel** si **pudra de fixare inainte de pudrele de contur/blush/iluminator**.
-> **Confirmat (2026-09-25):** conturul, blush-ul si iluminatorul ei sunt **pudre** → pudra de fixare
-> trece pe locul 5, inaintea lor (a doua corectura fata de ordinea ei).
+> Stil: **autentic / lifestyle**, flat lay cu produsele ei reale (regula 2026-09-25), fara fata.
+> Ordinea = **ordinea ei** (`produse_incercate.md`, "Rutina de machiaj de zi cu zi"), cu **o singura
+> corectura**: contur/blush/iluminator sunt pudre (confirmat 2026-09-25) → pudra de fixare trece
+> inaintea lor. Sprancenele raman ca la ea (gel → pudra) — ambele ordini sunt acceptate.
+> **Runda 2 (dupa review RESPINS):** scos "pe dos" la sprancene, scoase pensula si buretele, hook
+> din lista (identificare), descriere 3 propozitii, adaugat pasul urmator.
+>
+> **DESCHIS — de la Andreea, inainte de generare:** numele produselor pentru pudra de fixare,
+> contur, blush, iluminator, ruj si luciu (regula: produs neidentificat → intrebi).
 
-Nota pentru Andreea: **incarca in ChatGPT pozele produselor tale** — cel mai simplu, o singura poza cu
-toate cele 11 produse puse pe masa (sau cate o poza pe produs, daca le ai deja). Produsele pe pasi:
-1 primer MUP · 2 fond (MUP 2 NBW) · 3 ABH Brow Powder Duo · 4 ABH Brow Freeze · 5 pudra de fixare · 6 contur (pudra) ·
-7 blush (pudra) · 8 iluminator (pudra) · 9 GOSH Lip Liner Caramel Toffee · 10 ruj · 11 luciu.
+Produsele pe pasi (incarci pozele lor in ChatGPT ca referinta):
+1 primer MUP · 2 fond MUP 2 NBW · 3 ABH Brow Freeze (gel) · 4 ABH Brow Powder Duo Ash Brown ·
+5 pudra de fixare [DE CONFIRMAT] · 6 contur [DE CONFIRMAT] · 7 blush [DE CONFIRMAT] ·
+8 iluminator [DE CONFIRMAT] · 9 GOSH Lip Liner 2 in 1 Caramel Toffee · 10 ruj [DE CONFIRMAT] ·
+11 luciu [DE CONFIRMAT]
 
 PROMPT DE POZA (gata de copy-paste in ChatGPT):
-Folosește produsele din pozele de referință atașate, reproduse fidel (formă, culoare, capac, material, logo exact ca în poze); pe ambalaje nu apare niciun alt cod, număr sau text în afara celor din pozele de referință și nu adăuga niciun alt produs. O singură imagine, nu un colaj sau grid cu mai multe casete. Fotografie ultrarealistă de sus (flat lay), format vertical 4:5, dimineața, pe o măsuță de machiaj din lemn deschis, lângă o fereastră: cele 11 produse sunt așezate într-un șir care șerpuiește ușor, de sus în jos, în ordinea aplicării, cu puțin spațiu între ele. Lângă fiecare produs, pe lemn, e o cifră mică, rotundă, terracotta, cu fundal crem: 1 primerul, 2 fondul de ten, 3 pudra de sprâncene, 4 gelul de sprâncene, 5 pudra de fixare, 6 conturul, 7 blush-ul, 8 iluminatorul, 9 creionul de buze, 10 rujul, 11 luciul. Printre produse, natural, câteva obiecte reale de dimineață: o cană de cafea pe jumătate băută, o clamă de păr, o pensulă de pudră și un burete de machiaj ușor folosit, cu urmă de fond. Lumină naturală caldă de dimineață, dinspre fereastra din stânga, cu umbre moi și lungi pe lemn și reflexe fine pe ambalaje. Tonuri calde: lemn deschis, crem, piersică și terracotta; aspect de viață reală, nu de reclamă, fără produse plutind în aer. În treimea de sus, pe o zonă liberă de lemn, scrie cu font sans-serif îngroșat, maro-roșcat închis: "Ordinea mea de machiaj", iar dedesubt, mai subțire: "de la 1 la 11 · tu ce pas sari? 👇". Scrie cu diacritice corecte. Textul ocupă maximum o treime din imagine și nu acoperă produsele. Rezoluție 4K.
+Folosește produsele din pozele de referință atașate, reproduse fidel (formă, culoare, capac, material, logo exact ca în poze); pe ambalaje nu apare niciun alt cod, număr sau text în afara celor din pozele de referință și nu adăuga niciun alt produs. O singură imagine, nu un colaj sau grid cu mai multe casete. Fotografie ultrarealistă de sus (flat lay), cadru strâns, format vertical 4:5, dimineața, pe o măsuță de machiaj din lemn deschis: cele 11 produse sunt așezate apropiat, într-un șir care șerpuiește de sus în jos, în ordinea aplicării, și umplu cea mai mare parte a cadrului. Lângă fiecare produs e o cifră mică, rotundă, terracotta, cu fundal crem: 1 primerul, 2 fondul de ten, 3 gelul de sprâncene, 4 pudra de sprâncene, 5 pudra de fixare, 6 conturul, 7 blush-ul, 8 iluminatorul, 9 creionul de buze, 10 rujul, 11 luciul. Singurul alt obiect: o clamă de păr, la margine. Lumină naturală caldă de dimineață, dinspre stânga, cu umbre moi pe lemn și reflexe fine pe ambalaje. Tonuri calde: lemn deschis, crem, piersică și terracotta; aspect de viață reală, nu de reclamă, fără produse plutind în aer. În treimea de sus, pe o zonă liberă de lemn, scrie cu font sans-serif îngroșat, maro-roșcat închis: "Dacă blush-ul ți se prinde pe pete, uită-te la ordine.", iar dedesubt, mai subțire: "machiajul meu, de la 1 la 11 · tu ce pas sari? 👇". Scrie cu diacritice corecte. Textul ocupă maximum o treime din imagine și nu acoperă produsele. Rezoluție 4K.
 
-TEXT SCURT PENTRU DESCRIERE:
-Ordinea mea de machiaj, pas cu pas 💄 Am aflat că făceam două lucruri pe dos: gelul de sprâncene înaintea pudrei și blush-ul înaintea pudrei de fixare. Pudrele merg peste pudra de fixare, altfel se prind pe pete. Tu ce pas sari când te grăbești?
+TEXT SCURT PENTRU DESCRIERE — HOOK: identificare
+Dacă blush-ul ți se prinde pe pete, uită-te la ordine 💄 Conturul, blush-ul și iluminatorul meu sunt pudre, deci locul lor e după pudra de fixare, nu înainte. Tu ce pas sari când te grăbești?
 #rutinamachiaj #machiajzilnic #makeupromania
 
 VARIANTA TIKTOK (aceeasi imagine, photo mode):
-Titlu: Ordinea mea de machiaj, de la 1 la 11 💄
-Caption: Două lucruri le făceam pe dos: gelul înaintea pudrei de sprâncene și blush-ul înaintea pudrei de fixare. Tu ce pas sari când te grăbești?
+Titlu: Machiajul meu, de la 1 la 11 💄
+Caption: Pudrele (contur, blush, iluminator) merg după pudra de fixare, altfel se prind pe pete. Tu ce pas sari când te grăbești?
 Hashtag-uri: #rutinamachiaj #machiajzilnic #makeuproutine #makeupromania
 Sunet: calm, de dimineață, în trend pe beauty, volum mic
 
 VARIANTA THREADS:
-Text: Mi-am dat seama că făceam două lucruri pe dos la machiaj: gelul de sprâncene înaintea pudrei și blush-ul înaintea pudrei de fixare 🙈 Voi ce pas sariți când vă grăbiți dimineața?
+Text: Conturul, blush-ul și iluminatorul meu sunt pudre, deci merg după pudra de fixare, nu înainte 💄 Voi ce pas sariți când vă grăbiți dimineața?
 Imagine: aceeași poză (opțional)
 
 ---
 
-## Verificare
+## Verificare (runda 2)
 
 Fraze la persoana I, cu sursa:
-- "Ordinea mea de machiaj" / cei 11 pasi → `produse_incercate.md`, "Rutina de machiaj de zi cu zi" (Andreea, 2026-09-25), cu corectura pudra→gel explicata in text.
-- "Până acum puneam gelul de sprâncene înaintea pudrei" → aceeasi sursa (ordinea ei: gel sprancene → pudra sprancene).
-- "Mi-am dat seama" (Threads) → e reformularea aceluiasi fapt; Andreea a aflat ordinea clasica in conversatia din 2026-09-25.
-- Fapt general: pudra umple golurile, gelul fixeaza — cunostinte general acceptate de machiaj.
+- "machiajul meu, de la 1 la 11" → ordinea ei, `produse_incercate.md` "Rutina de machiaj de zi cu zi" (2026-09-25); singura mutare (pudra de fixare) e explicata in text.
+- "Conturul, blush-ul și iluminatorul meu sunt pudre" → `produse_incercate.md`, confirmat de Andreea 2026-09-25.
+- Fapt general: pudrele se aplica peste pudra de fixare, altfel se prind pe pete pe fondul umed — cunostinte general acceptate.
+- Scoase: "Am aflat…", "Mi-am dat seama…", "pe dos" (fara sursa / prea absolut).
 
 Puncte verificate:
-- Produse reale (regula 2026-09-25): toate din pozele ei de referinta, interdictie de coduri/texte inventate si de produse adaugate; accesoriile (cana, clama, pensula, burete) fara brand.
-- 4:5, lumina naturala calda, aspect de viata reala, "o singura imagine, nu colaj", text max 1/3, diacritice.
-- Fara fata → fara risc de trasaturi schimbate; categorie si compozitie diferite de ultimele postari (flat lay de rutina, nu carusel-sfat).
-- Descriere: 3 propozitii, intrebare specifica, 1 emoji, 3 hashtag-uri (max 5). TikTok 4 hashtag-uri, Threads 1 emoji, fara hashtag-uri.
-- Confirmat: contur/blush/iluminator sunt pudre (Andreea, 2026-09-25) → ordinea 5-8 e corecta.
-- "Am aflat că făceam două lucruri pe dos" → ordinea ei (gel → pudra sprancene; blush inainte de pudra de fixare), aflat in conversatia din 2026-09-25.
+- Hook: identificare, o propozitie, adevarat si livrat (pasul 5 din poza). Diferit de ultimele doua hook-uri din log (adresare directa, mit contrazis).
+- Descriere: 3 propozitii, intrebare specifica, 1 emoji, 3 hashtag-uri.
+- Imagine: 4:5, cadru strans, un singur obiect in plus (clama), text max 1/3, "o singura imagine", fara coduri inventate, fara produse adaugate.
+- Produse reale: 5 din 11 identificate; **6 de confirmat de Andreea** — nu se genereaza pana atunci.
 
-Verificare: ✅ toate punctele.
+Verificare: ✅ toate punctele, cu exceptia produselor [DE CONFIRMAT] (asteapta raspunsul Andreei).
 
 **Share in Story** dupa publicare. Verifica dupa postare ca descrierea a aparut pe fiecare platforma.
+
+**Pasul urmator:** Andreea spune numele celor 6 produse (pudra de fixare, contur, blush, iluminator, ruj, luciu) → generare.
