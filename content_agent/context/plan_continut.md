@@ -19,7 +19,7 @@ activ abia dupa ce Andreea il aproba explicit (status trece din "draft" in "apro
 | 2 | carusel | Intrebare frecventa | "De ce se topeste fondul de ten pana la pranz?" — 5 motive + solutii rapide | facut | — |
 | 3 | postare | Sfat practic | Cum alegi nuanta corecta de fond de ten fara sa mergi la magazin | facut | content_agent/outputs/briefuri/2026-09-24-item-3.md |
 | 4 | carusel | Mit demontat | "Machiajul waterproof rezista mereu la transpiratie si lacrimi" — mit demontat | facut — ambele variante (A + B), decizia Andreei 2026-09-25 | content_agent/outputs/briefuri/2026-09-25-item-4.md (2 unghiuri: A clasic, B experienta Andreei) |
-| 5 | poza | Sfat practic | Layout vizual cu produsele + ordinea corecta de aplicare a machiajului | facut (2026-09-25, `outputs/poze/2026-09-26-ordinea-machiajului.md`) | — |
+| 5 | poza | Sfat practic | Layout vizual cu produsele + ordinea corecta de aplicare a machiajului | facut (2026-09-25, `outputs/poze/2026-09-25-ordinea-machiajului.md`) | — |
 
 ## Istoric planuri anterioare
 
