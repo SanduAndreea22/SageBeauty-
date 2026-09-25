@@ -30,3 +30,20 @@ Carusel: `outputs/carusele/2026-09-25-waterproof-B.md` (7 slide-uri, slide 2 cu 
      greu in 1-2 secunde.
 - De cerut: screenshot la ~21h si ~48h (inclusiv graficul de like-uri pe slide-uri, ca sa vedem daca
   slide 2/3 tin oamenii).
+
+## TikTok — ~5h (screenshot 23:33)
+
+| Indicator | ~2h | ~5h |
+|---|---|---|
+| Vizualizari | 114 | **303** |
+| Like-uri | 3 | 6 (2%) |
+| Comentarii / distribuiri | 0 / 0 | 0 / 0 |
+| Salvari | 1 | 1 |
+| Urmaritori noi | 1 | 1 |
+| Slide-uri vazute | 1.5 / 7 (21%) | **1.9 / 7 (27%)** |
+| Timp total de redare | 4m29s | 22m48s |
+
+- Graficul are **doua varfuri** in primele 5 ore — TikTok a mai testat-o pe un grup, nu s-a oprit.
+- Retentia a urcat la 27%, acum la nivelul caruselului cu fondul de ten (26%) — nu mai e sub el.
+- Rata de like (2%) peste caruselul cu fondul (0,8%), dar sub postarile cu produsele ei reale (3,6-9,3%).
+- 0 comentarii inca, desi intrebarea e pe coperta — de urmarit la ~21h.
