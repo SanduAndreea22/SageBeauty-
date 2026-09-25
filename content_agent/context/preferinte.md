@@ -24,3 +24,4 @@ Memorie de feedback per-continut, diferita de reguli fixe (acelea sunt in `tone_
 ```
 - [data] [tip continut: poza/postare/reel] — [ce a spus Andreea] — [cum se aplica pe viitor]
 ```
+| 2026-09-25 | biografie TikTok | Nu vrea bio centrat pe "ten gras" — nu posteaza doar despre asta. Bio-ul descrie contul personal intreg (beauty + viata ei), nu o singura tema. |
