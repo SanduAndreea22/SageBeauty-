@@ -58,6 +58,8 @@ poate respecta, ce anume si de ce (ex: "nu am parerea ta despre X → am lasat [
 
 - [ ] La produse reale: promptul interzice explicit orice alt cod/text pe ambalaj in afara celor date.
       *(2026-09-24: "120C" inventat de ChatGPT pe Rare Beauty.)*
+- [ ] **Produsele din imagini sunt produsele reale ale Andreei** (din `produse_incercate.md`, cu poza
+      de referinta) — niciun produs cosmetic generic fara brand; lipseste unul → intrebi. *(2026-09-25.)*
 - [ ] **Fiecare imagine e un prompt complet pentru ChatGPT** — niciun `[POZA MEA]`, nicio cerere ca
       Andreea sa fotografieze ceva. *(2026-09-24: "vreau prompturi pentru ChatGPT, nu fac eu nimic".)*
 

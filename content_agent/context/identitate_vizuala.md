@@ -57,5 +57,11 @@ suprapus**, pastrate la fel pe toate slide-urile ca postarea sa se recunoasca in
   — Andreea are pozele produselor ei (ex: cele 3 fonduri de ten) si ChatGPT le reproduce mai fidel.
   **Ceri explicit: "pe ambalaje nu apare niciun alt cod, numar sau text in afara celor scrise aici"**
   — ChatGPT a inventat codul "120C" pe sticla Rare Beauty la postarea #3 (2026-09-24).
-- Produse generice (un fond de ten oarecare, o pensula) → AI, **fara brand/eticheta lizibila**, ca
-  sa nu sugereze un produs anume pe care nu l-a testat.
+- **Produse reale, nu generice (decizia Andreei, 2026-09-25: "vreau sa fie produsele reale").**
+  Orice produs cosmetic care apare in imagine (sticla, tub, paleta, pudra, demachiant) e un produs
+  real al Andreei din `knowledge/produse_incercate.md`, descris fidel, cu nota "incarca poza
+  produsului in ChatGPT ca referinta" si interdictia de coduri/texte inventate. **Nu se mai folosesc
+  produse generice fara brand.** Daca ideea cere un produs pe care nu il are in lista (ex: o mascara
+  anume), il **intrebi** ce foloseste — nu il inventezi si nu pui unul generic. Accesoriile simple
+  (discuri de bumbac, hartie matifianta, servetele, prosop) pot ramane fara brand.
+- Exceptie: continutul deja publicat ramane cum e.

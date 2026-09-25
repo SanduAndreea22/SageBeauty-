@@ -79,7 +79,10 @@ se inteleaga singure.
 - **Textul de pe slide se cere direct in prompt**, intre ghilimele, cu pozitia si stilul lui
   (ChatGPT l-a redat corect, cu diacritice, la caruselul din 2026-09-23). Daca iese gresit, Andreea
   genereaza imaginea fara text si il adauga in Canva — de aceea prompturile descriu si zona libera.
-- Produsele generate AI apar **fara brand/eticheta lizibila**.
+- **Produsele din imagini sunt produsele reale ale Andreei** (din `produse_incercate.md`), cu nota
+  "incarca poza produsului ca referinta" si fara coduri inventate — nu produse generice fara brand
+  (Andreea, 2026-09-25). Lipseste produsul potrivit → intrebi. Accesoriile simple (discuri, hartie
+  matifianta, servetele) pot ramane fara brand.
 - **Textele mici de pe obiectele din fundal** (citate pe cana, bilețele, titluri de carti) sunt ok —
   Andreea le-a pastrat intentionat pe coperta din 2026-09-23 si ii plac, dau viata cadrului. Nu le
   interzice in prompt; doar sa ramana mici si in fundal, sa nu concureze cu textul slide-ului.

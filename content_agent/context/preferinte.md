@@ -19,6 +19,7 @@ Memorie de feedback per-continut, diferita de reguli fixe (acelea sunt in `tone_
 - [2026-09-25] [toate] — Andreea: "sa nu uiti ca e contul meu personal unde postez". Postarile personale non-beauty sunt ale ei; ritmul e tinta, nu presiune. Notat in `brand.md`.
 - [2026-09-25] [carusel/postare] — Andreea are si Threads; a aprobat "Varianta Threads" la fiecare postare/carusel (text conversational + intrebare, poza optionala).
 - [2026-09-25] [biografie] — Andreea nu vrea bio centrat pe "ten gras": "doar nu postez doar de ten gras". Bio-ul (TikTok/IG) descrie contul personal intreg — beauty + viata ei — nu o singura tema.
+- [2026-09-25] [toate imaginile] — Andreea: "vreau sa fie produsele reale". Produsele cosmetice din imagini sunt produsele ei reale (poza de referinta in ChatGPT), nu generice fara brand. Aplicat in `identitate_vizuala.md` si `verificare.md`. Coincide cu datele: postarile cu produsele ei reale au rata de like de 4-11 ori mai mare.
 
 ## Format unei intrari
 
