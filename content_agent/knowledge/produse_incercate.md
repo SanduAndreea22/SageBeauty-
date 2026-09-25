@@ -80,7 +80,7 @@ De retinut pentru continut: trei branduri, trei sisteme diferite de denumire a n
 
 ## Rutina de machiaj de zi cu zi (Andreea, 2026-09-25)
 
-Ordinea ei obisnuita: primer → fond de ten → gel sprancene → pudra sprancene → contur → blush →
+Ordinea ei obisnuita: primer → fond de ten → concealer (adaugat 2026-09-25) → gel sprancene → pudra sprancene → contur → blush →
 iluminator → pudra de fixare → creion de buze → ruj → luciu. **Uneori:** fard de ochi, setting spray.
 Ea nu stie sigur daca ordinea e buna — subiect real pentru itemul #5 ("ordinea corecta de aplicare").
 Produse confirmate pe pasi: primer MUP (sau Huda Easy Blur), fond MUP 2 NBW / Rare Beauty 2 / YSL LN1,
