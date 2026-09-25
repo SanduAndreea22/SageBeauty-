@@ -12,6 +12,8 @@
 > **Status: draft**, fără placeholder-e deschise. Imaginile tot nu arată niciun rezultat al fondului MUP
 > și n-o arată pe Andreea cu fond crăpat (niciun fond nu i-a crăpat, `produse_incercate.md`, 2026-09-25).
 
+> **Imagini generate (2026-09-25):** toate 7 verificate față de prompturi. Text corect pe toate; fața e aceeași pe 1, 3 și 7; niciun fond crăpat. De confirmat de Andreea: textele de pe sticla MUP (slide 4) să fie ca pe sticla ei reală. Detalii minore acceptate: ş cu sedilă pe slide 2-3 și linia split care trece prin titlu pe slide 5.
+
 CARUSEL: Fond waterproof pe ten gras — ce nu-ți spune eticheta — MESAJ PRINCIPAL: Pe ten gras, eticheta „waterproof” nu garantează că fondul ține: apa nu e problema, uleiul tenului e.
 
 Cuvântul setului: **„lucruri pe care eticheta nu ți le spune”** (numerotate 1-3, pe slide-urile 2, 3 și 5).
