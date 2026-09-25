@@ -18,10 +18,10 @@ Memorie de feedback per-continut, diferita de reguli fixe (acelea sunt in `tone_
 - [2026-09-24] [stories] — Andreea a aprobat: share-ul postarii in Story e obligatoriu dupa fiecare postare (a adus 18% din vizualizarile IG); setul cu sondaj/quiz se testeaza o data la urmatorul carusel, apoi se decide pe date.
 - [2026-09-25] [toate] — Andreea: "sa nu uiti ca e contul meu personal unde postez". Postarile personale non-beauty sunt ale ei; ritmul e tinta, nu presiune. Notat in `brand.md`.
 - [2026-09-25] [carusel/postare] — Andreea are si Threads; a aprobat "Varianta Threads" la fiecare postare/carusel (text conversational + intrebare, poza optionala).
+- [2026-09-25] [biografie] — Andreea nu vrea bio centrat pe "ten gras": "doar nu postez doar de ten gras". Bio-ul (TikTok/IG) descrie contul personal intreg — beauty + viata ei — nu o singura tema.
 
 ## Format unei intrari
 
 ```
 - [data] [tip continut: poza/postare/reel] — [ce a spus Andreea] — [cum se aplica pe viitor]
 ```
-| 2026-09-25 | biografie TikTok | Nu vrea bio centrat pe "ten gras" — nu posteaza doar despre asta. Bio-ul descrie contul personal intreg (beauty + viata ei), nu o singura tema. |
