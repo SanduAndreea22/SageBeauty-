@@ -38,3 +38,8 @@
 ## Locatie / zona de activitate
 
 Nespecificat — nu e relevant pentru continut deocamdata.
+
+## Biografie (aleasa de Andreea, 2026-09-25)
+
+TikTok: "Machiaj, drumuri și gânduri 💄 Viața mea, fără filtru" — descrie tot contul personal
+(beauty + calatorii + ganduri), nu o singura tema. Poate fi folosita si pe Instagram/Threads.
