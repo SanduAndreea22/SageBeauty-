@@ -13,7 +13,7 @@
 
 CARUSEL: Waterproof nu înseamnă ce crezi — MESAJ PRINCIPAL: "Waterproof" înseamnă rezistent la apă — nu la sebum, nu la frecat — deci nu „rezistă mereu" la transpirație și lacrimi.
 
-> **DE ACTUALIZAT inainte de generare (regula noua 2026-09-25, produse reale):** slide 5 (sticla de bifazic) si slide 6 (flat lay: mascara, fond, pudra, bifazic) au produse generice → se inlocuiesc cu produsele reale ale Andreei dupa ce confirma ce are (mascara, pudra, demachiant bifazic). Fondul = MUP 2 NBW (real).
+> **Imagini generate (2026-09-25), verificate:** se publica asa cum sunt (decizia Andreei: "lasa asa aici, de acum in colo" produse reale) — slide 3 prima varianta; slide 5 si 6 raman cu produse generice, doar la aceasta postare. Publicare: **doar TikTok**, 2026-09-26, ~7:30.
 
 > **Corectură de logică (2026-09-25, înainte de publicare):** punctele 1 („Căldura” → sebum) și 3 („Sebumul”) spuneau același lucru. Acum: 1 = Sebumul (căldura îl înmulțește), 2 = Frecatul, 3 = Uleiul din demachiant (dovada de pe slide 5). Rezumatul actualizat. Fapte generale: uleiul/bifazicul dizolvă formulele waterproof.
 
