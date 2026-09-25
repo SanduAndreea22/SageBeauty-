@@ -47,3 +47,9 @@ Carusel: `outputs/carusele/2026-09-25-waterproof-B.md` (7 slide-uri, slide 2 cu 
 - Retentia a urcat la 27%, acum la nivelul caruselului cu fondul de ten (26%) — nu mai e sub el.
 - Rata de like (2%) peste caruselul cu fondul (0,8%), dar sub postarile cu produsele ei reale (3,6-9,3%).
 - 0 comentarii inca, desi intrebarea e pe coperta — de urmarit la ~21h.
+
+## Nota test A/B (2026-09-25, 23:50)
+Varianta A s-a publicat pe TikTok pe 2026-09-25 la ~23:50 (B: 7:24). Orele diferite (noapte vs
+dimineata) fac comparatia mai putin curata — se compara pe **ratii** (retentie, rata de like,
+salvari/vizualizari) si la ~48h, nu pe vizualizarile din primele ore. B la momentul asta: 320 vizualizari.
+Bio-ul nou e activ pe profil.
