@@ -59,7 +59,7 @@ Caption: Fondul de ten waterproof și mascara waterproof rezistă la apă, nu la
 Hashtag-uri: #machiajwaterproof #mascarawaterproof #tengras #fonddeten #makeuptips
 Sunet: calm, in trend in zona beauty/makeup, volum mic (sa nu acopere textul de pe slide-uri)
 
-**Share in Story (obligatoriu):** imediat dupa publicare, distribuie postarea in Story (la caruselul cu fondul de ten a adus 18% din vizualizarile IG la ~2h). La caruselul asta se testeaza o singura data **setul complet de Stories** (quiz + teaser + share) — vezi pasul urmator. Ca sa putem compara, trimite screenshot-urile IG la ~2h si ~21h (sursa "Povesti" + raspunsurile la sticker).
+**Share in Story (obligatoriu):** imediat dupa publicare, distribuie postarea in Story (la caruselul cu fondul de ten a adus 18% din vizualizarile IG la ~2h). La varianta A **doar share simplu** (decizia A/B din `briefuri/2026-09-25-item-4-comparatie.md`: setul complet de Stories se testeaza la B). Ca sa putem compara, trimite screenshot-urile IG la ~2h si ~21h (sursa "Povesti" + raspunsurile la sticker).
 
 ---
 

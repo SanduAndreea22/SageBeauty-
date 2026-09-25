@@ -83,6 +83,19 @@ publicul tinta nou; caruselele pe regulile din `identitate_vizuala.md` functione
 varf mai mare decat primul, 45% din Republica Moldova. Salvarile doar 3 → 4, retentia 2.1 / 8.
 Concluzie: TikTok poate reimpinge un carusel dupa 1-2 zile — **rezultatele se judeca la ~48h, nu la
 cateva ore**; distributia e buna, retentia ramane de rezolvat (vezi `outputs/rapoarte/2026-09-24.md`).
+
+**Like-uri raportat la vizualizari (TikTok, 2026-09-25) — cea mai importanta comparatie de pana acum:**
+
+| Postare | Format | Vizualizari | Like-uri | Rata like |
+|---|---|---|---|---|
+| "Dau note produselor din BelleBox" | video, produse reale + parerea ei | 931 | 87 | **9,3%** |
+| "Ia si tu 150 lei sa iti iei make up" | video, produsele ei reale, umor | 1.125 | 41 | **3,6%** |
+| "5 greseli care iti topesc fondul de ten" | carusel AI, sfaturi | 1.433 | 12 | 0,8% |
+| Waterproof B (~2h) | carusel AI, sfaturi | 114 | 3 | 2,6% (prea devreme) |
+
+Concluzie: caruselele-sfat AI aduc **vizualizari** (ajung la straini), dar postarile cu **produsele ei
+reale + parerea/umorul ei** aduc de 4-11 ori mai multe like-uri. Planul urmator trebuie sa mute greutatea
+spre formatul "dau note" / produsele ei reale / opinie personala, nu doar sfaturi generale.
 Candidat pentru decizia Andreei: cross-postare sistematica a fiecarui carusel si pe TikTok.
 
 **Acelasi carusel, a doua zi (TikTok Studio, 2026-09-24 — raport `outputs/rapoarte/2026-09-24.md`):**
