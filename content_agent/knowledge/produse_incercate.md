@@ -85,7 +85,7 @@ iluminator → pudra de fixare → creion de buze → ruj → luciu. **Uneori:**
 Ea nu stie sigur daca ordinea e buna — subiect real pentru itemul #5 ("ordinea corecta de aplicare").
 Produse confirmate pe pasi: primer MUP (sau Huda Easy Blur), fond MUP 2 NBW / Rare Beauty 2 / YSL LN1,
 ABH Brow Freeze (gel), ABH Brow Powder Duo Ash Brown, GOSH Lip Liner 2 in 1 Caramel Toffee, Natasha
-Denona Mini Palette (fard). **Neconfirmate inca:** contur, blush, iluminator, pudra de fixare, ruj,
+Denona Mini Palette (fard). Contur, blush si iluminator sunt **pudre** (2026-09-25; produsele exacte nu sunt numite). **Neconfirmate inca:** pudra de fixare, ruj,
 luciu, setting spray — se intreaba inainte de a le pune in imagine.
 
 ## Experiente reale in afara tabelelor
