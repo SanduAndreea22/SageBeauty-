@@ -55,8 +55,11 @@ Pentru fiecare frame, livrezi:
 - **Share-ul postarii in Story e obligatoriu dupa fiecare postare** (aprobat de Andreea 2026-09-24):
   pe caruselul cu fondul de ten, doar share-ul a adus 18% din vizualizarile de pe Instagram. Il
   mentionezi mereu in livrare, chiar daca Andreea nu cere set de Stories.
-- **Setul complet (sondaj/quiz) e in test:** se foloseste o singura data, la urmatorul carusel, iar
-  directorul compara in raport cu share-ul simplu. Daca nu aduce nimic in plus, se renunta la el.
+- **Standard = doar share-ul postarii in Story** (decizia Andreei, 2026-09-26), cu o singura fraza scurta
+  peste (max 1 emoji), fara poze noi de generat. Motiv: setul complet (sondaj/quiz) a ramas nefolosit de
+  doua ori, iar la waterproof B share-ul simplu a adus cei mai multi spectatori IG (57). **Setul complet de
+  2-3 frame-uri se face doar cand il cere Andreea explicit.** Agentii de postare/carusel/poza livreaza
+  fraza pentru share la fiecare continut.
 
 - **Cand se posteaza:** frame 1 si 2 pot merge **inainte** de postare (ca teaser, cu cateva ore
   inainte) sau **imediat dupa**; frame 3 doar dupa ce postarea e live. Spune-i Andreei ordinea

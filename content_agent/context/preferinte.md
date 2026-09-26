@@ -20,6 +20,7 @@ Memorie de feedback per-continut, diferita de reguli fixe (acelea sunt in `tone_
 - [2026-09-25] [carusel/postare] — Andreea are si Threads; a aprobat "Varianta Threads" la fiecare postare/carusel (text conversational + intrebare, poza optionala).
 - [2026-09-25] [biografie] — Andreea nu vrea bio centrat pe "ten gras": "doar nu postez doar de ten gras". Bio-ul (TikTok/IG) descrie contul personal intreg — beauty + viata ei — nu o singura tema.
 - [2026-09-25] [toate imaginile] — Andreea: "vreau sa fie produsele reale". Produsele cosmetice din imagini sunt produsele ei reale (poza de referinta in ChatGPT), nu generice fara brand. Aplicat in `identitate_vizuala.md` si `verificare.md`. Coincide cu datele: postarile cu produsele ei reale au rata de like de 4-11 ori mai mare.
+- [2026-09-26] [stories] — Andreea a aprobat: standardul e doar share-ul postarii in Story, cu o fraza scurta peste; setul complet (sondaj/quiz, poze noi) doar la cererea ei. Setul a ramas nefolosit de doua ori; share-ul simplu a mers (57 spectatori IG la waterproof B). Aplicat in `prompts/instagram_stories_prompt.md`.
 
 ## Format unei intrari
 
