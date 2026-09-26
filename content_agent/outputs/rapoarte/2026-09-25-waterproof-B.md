@@ -53,3 +53,22 @@ Varianta A s-a publicat pe TikTok pe 2026-09-25 la ~23:50 (B: 7:24). Orele difer
 dimineata) fac comparatia mai putin curata — se compara pe **ratii** (retentie, rata de like,
 salvari/vizualizari) si la ~48h, nu pe vizualizarile din primele ore. B la momentul asta: 320 vizualizari.
 Bio-ul nou e activ pe profil.
+
+**Corectura:** TikTok arata ca A a fost postat pe 2026-09-25 la **11:49** (nu 23:50) — ora din nota de mai sus era gresita.
+
+## A vs B pe TikTok (screenshot-uri 2026-09-26, 11:20)
+
+| Indicator | A — mit ("Waterproof nu înseamnă ce crezi"), ~24h | B — experienta ei (MUP + analiza), ~28h |
+|---|---|---|
+| Vizualizari | 328 | 398 |
+| Like-uri | 1 (**0,3%**) | 7 (**1,8%**) |
+| Salvari | 1 (0,3%) | 3 (0,8%) |
+| Comentarii / distribuiri | 0 / 0 | 0 / 0 |
+| Urmaritori noi | 0 | 1 |
+| Slide-uri vazute | 1.7 / 7 (24%) | 1.9 / 7 (27%) |
+| Timp total de redare | 29m13s | 35m16s |
+
+- Ambele s-au oprit dupa ~4-5h (grafic plat) — posibil al doilea val, ca la caruselul cu fondul; decizia finala la ~48h.
+- **B castiga pe toate ratiile**: like de 6x mai des, salvari de 2,5x, retentie mai mare. Varianta cu experienta ei reala (MUP, analiza tenului) bate mitul general.
+- Ambele raman sub caruselul cu fondul de ten (1.433) si mult sub formatele cu produsele ei reale ("Dau note" 9,3% like).
+- Concluzie de dus in planul nou: **mai mult din ea, mai putin sfat general** — confirma a treia oara aceeasi directie.
