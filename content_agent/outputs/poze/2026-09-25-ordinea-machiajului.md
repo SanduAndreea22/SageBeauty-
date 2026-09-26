@@ -138,6 +138,4 @@ Verificare: ✅ toate punctele de text si prompt. Singura exceptie: produsele pa
 si 12 nu sunt confirmate in `knowledge/`, deci imaginea nu se genereaza pana nu raspunde Andreea.
 Cele doua formulari optionale sunt [DE APROBAT].
 
-**Pasul urmator:** intrebare pentru Andreea — „Ai poze cu concealerul, pudra de fixare, conturul,
-blush-ul, iluminatorul, rujul și luciul pe care le folosești zilnic? Cum se numesc?” Dupa raspuns,
-le trecem in `produse_incercate.md` si generezi imaginea in ChatGPT cu cele 12 poze atasate in ordine.
+**Pasul urmator (aviz director, 2026-09-26):** Andreea confirma ca are poze cu cele 7 produse (concealer, pudra de fixare, contur, blush, iluminator, ruj, luciu) — numele sunt optionale. Daca le are, se genereaza.
