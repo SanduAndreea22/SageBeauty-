@@ -88,7 +88,8 @@ Fiecare rol exista si ca subagent Claude Code in `.claude/agents/` (la radacina 
 Fluxul (sesiunea principala = orchestrator): **director** scrie brief-ul in `outputs/briefuri/` →
 **executantul** scrie continutul in `outputs/` → **verificatorul** (independent, nu a scris continutul)
 raspunde APROBAT/RESPINS → **corectorul de logica** (citeste textele ca un strain: au logica, se inteleg
-usor, fiecare punct spune ceva nou?) raspunde CLAR/NECLAR → orchestratorul repara ce e cazul, face git si i-l arata Andreei.
+usor, fiecare punct spune ceva nou?) raspunde CLAR/NECLAR → **directorul da avizul final** (strategic: serveste obiectivul din brief si datele?) →
+orchestratorul repara ce e cazul, face git si i-l arata Andreei.
 Agentii nu vorbesc direct intre ei — comunica prin fisiere. Itemi independenti (ex: #4 si #5) pot rula
 in paralel. Testat prima data pe itemul #3 (2026-09-24).
 
