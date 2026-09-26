@@ -88,18 +88,20 @@ ce iese si decidem impreuna.
   „Inițial nu mi-a plăcut deloc culoarea. După prima aplicare însă... m-am îndrăgostit de ea.” —
   cuvintele tale, neschimbate; doar folosirea lui aici e o propunere **[DE APROBAT]**.
 
-## Verificare (runda 5)
+## Verificare (runda 6)
 
 Fraze la persoana I / despre Andreea, cu sursa:
 
 | Fraza | Unde | Sursa | Status |
 |---|---|---|---|
 | "Pudra de fixare o pun doar în două locuri: pe frunte și jos pe obraz." | imagine, IG, TikTok (titlu) | `produse_incercate.md`: "doar pe frunte si pe partea de jos a obrazului" (Andreea, 2026-09-26) | ok |
-| "rutina mea de zi cu zi, de la 1 la 12" | imagine | `produse_incercate.md`, "Rutina de machiaj de zi cu zi", 12 pasi, ordinea neschimbata | ok |
-| "E pasul 9 din rutina mea de zi cu zi, după contur, blush și iluminator, și nu o pun peste ele" | IG | `produse_incercate.md` (ordinea + "nu peste zonele cu contur, blush sau iluminator") | ok |
+| "rutina mea de zi cu zi, de la 1 la 12 · pudra de fixare e nr. 9" | imagine | `produse_incercate.md`, "Rutina de machiaj de zi cu zi", 12 pasi, ordinea neschimbata, pudra de fixare = pasul 9 | ok |
+| "E pasul 9 din rutina mea de zi cu zi: vine după contur, blush și iluminator, dar pe alte zone, nu peste ele" | IG | `produse_incercate.md` (ordinea + "nu peste zonele cu contur, blush sau iluminator") | ok |
+| „Pasul 9 e pudra de fixare. Tu o pui pe toată fața sau doar pe zone?” | share in Story | ordinea din `produse_incercate.md` | ok |
+| Legenda 1-12 (comentariu fixat TikTok, identica cu legenda IG) | TikTok | `produse_incercate.md`; cele 7 produse fara nume doar prin pas; "MUP" / "2 NBW" lasate asa (numele complet nu e in `knowledge/`) | ok |
 | "Ordinea machiajului meu de zi cu zi are 12 pași, iar pudra de fixare vine la pasul 9, doar pe frunte și jos pe obraz, nu peste contur, blush și iluminator" | TikTok | ca mai sus | ok |
 | "În rutina mea de zi cu zi, pudra de fixare e pasul 9 din 12 și o pun doar pe frunte și jos pe obraz" | Threads | ca mai sus | ok |
-| „O pun pe frunte pentru că acolo lucesc cel mai repede.” | doar propunere optionala | lipsa (motivul nu e spus de ea) | [DE APROBAT] |
+| „O pun pe frunte pentru că acolo lucesc.” | doar propunere optionala | motivul nu e spus de ea; fara comparatie, deci nu contrazice `analiza_ten.md` (frunte 519, nas 424, obraz stang 576 — toate trecute in nota) | [DE APROBAT] |
 | „Inițial nu mi-a plăcut deloc culoarea. După prima aplicare însă... m-am îndrăgostit de ea.” | doar propunere optionala | `produse_incercate.md`, ABH Brow Powder Duo, citat exact | citat ok; folosirea [DE APROBAT] |
 | Produse numite: primer MUP, fond MUP 2 NBW, ABH Brow Freeze, ABH Brow Powder Duo Ash Brown, GOSH Lip Liner 2 in 1 Caramel Toffee | IG (legenda) | `produse_incercate.md` | ok |
 | Concealer, contur, blush, iluminator, pudra de fixare, ruj, luciu | toate textele | numite doar prin pas, fara brand, nuanta, nota sau efect | ok in text; **in imagine asteapta confirmarea Andreei** |
@@ -112,16 +114,22 @@ Puncte verificate:
   livrat de imagine (cifra 9 evidentiata). Difera de ultimele doua din log (mit contrazis, adresare
   directa).
 - **Un singur mesaj:** 12 pasi, iar pudra de fixare vine la pasul 9, doar pe frunte si jos pe obraz.
-- **Descriere IG:** 3 propozitii plus legenda (ceruta de brief), 1 emoji, 3 hashtag-uri; intrebarea
+- **Descriere IG:** 3 propozitii plus legenda (ceruta de brief), fara emoji (💄 scos, nepotrivit
+  pentru pudra), 3 hashtag-uri; propozitia 2 spune explicit "pe alte zone, nu peste ele"; intrebarea
   se raspunde dintr-un cuvant si intra natural in a 3-a propozitie.
+- **Claritate (corector-logica):** subrandul de pe imagine leaga cifra 9 de pudra de fixare; ordinea
+  1-12 e numita pe TikTok (comentariu fixat); Story are intrebarea cu variante, ca pe celelalte platforme.
 - **Imagine (§4):** 4:5, 4K, ultrarealist, "o singura imagine, nu colaj", cadru strans, grila 4 x 3,
   fundal crem plat, zero obiecte in plus, doar cifre (9 marcata diferit, restul cu contur fin pentru
-  contrast), fara sageti, fete sau nume de pasi, text de maximum 1/3 care nu acopera produsele,
+  contrast), fara sageti, fete sau nume de pasi, hook pe unul sau doua randuri (lizibil pe telefon)
+  + un subrand, text de maximum 1/3 care nu acopera produsele,
   diacritice cerute. Interdictie explicita de coduri/texte inventate; prompt complet pentru ChatGPT.
   **Produse reale:** 5 din 12 confirmate; 7 asteapta raspunsul Andreei, deci generarea e blocata
   pana atunci (regula din `produse_incercate.md` si §4 are prioritate fata de brief, conform review-ului).
-- **TikTok (§5b):** titlu = hook, caption de 2 propozitii, 5 hashtag-uri, tip de sunet.
-- **Threads (§5c):** 2 propozitii conversationale, dintre care una e intrebarea directa, 1 emoji, fara hashtag-uri.
+- **TikTok (§5b):** titlu = hook, caption de 2 propozitii (legenda e in comentariul fixat, nu in
+  caption), 1 emoji, 5 hashtag-uri, tip de sunet.
+- **Threads (§5c):** 2 propozitii conversationale, dintre care una e intrebarea directa, fara emoji,
+  fara hashtag-uri.
 - **§5d:** amintirea despre descriere pe fiecare platforma e prezenta.
 - **Plan (§6):** idee din `plan_continut.md` (#5) + brief; randul din log actualizat, Status draft;
   itemul NU e marcat "facut", asteapta verificatorul independent.
