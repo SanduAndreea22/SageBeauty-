@@ -10,6 +10,6 @@ Citire:
 - Pe Instagram ajunge la **~30-60 de oameni** per postare (cercul ei existent); pe TikTok aceleasi continuturi
   ajung la 300-1.400 de oameni noi. **TikTok = canalul de crestere, Instagram = cercul apropiat.**
 - Vizualizarile IG sunt de 3-5 ori mai multe decat spectatorii: la carusele, fiecare slide/revenire conteaza.
-- Waterproof B are cei mai multi spectatori IG (57) intr-o singura zi — posibil efectul setului complet de Stories
-  (de verificat sursa "Povesti" in Interactiuni/Audienta, daca setul a fost postat).
+- Waterproof B are cei mai multi spectatori IG (57) intr-o singura zi — **doar cu share simplu** in Story (setul
+  complet nu a fost postat). Testul setului complet n-a rulat nici acum (a doua oara nefolosit).
 - 0 comentarii, 0 salvari si 0 urmaritori noi pe toate trei — pe IG nu se construieste inca nimic nou.
