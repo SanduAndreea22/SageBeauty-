@@ -85,6 +85,9 @@ poate respecta, ce anume si de ce (ex: "nu am parerea ta despre X → am lasat [
 
 ## 6. Plan si evidenta
 
+- [ ] **Corectorul de logica (`corector-logica`) a raspuns CLAR** inainte de livrare — textele se inteleg
+      din prima si fiecare punct spune ceva nou. *(2026-09-26, cerut de Andreea dupa waterproof A si B.)*
+
 - [ ] **Verificatorul independent ruleaza inainte ca Andreea sa vada continutul** — si cand orchestratorul
       scrie singur, fara brief. *(2026-09-25: poza #5 si Stories B livrate fara verificator → review RESPINS dupa livrare.)*
 

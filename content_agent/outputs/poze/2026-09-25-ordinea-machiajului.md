@@ -1,128 +1,124 @@
-# Poza — 12 pasi, un singur pas mutat (item #5 din plan) — runda 3
+# Poza — Pudra de fixare, doar in doua locuri (item #5 din plan) — runda 5
 
-> Item #5 din `context/plan_continut.md`: "Layout vizual cu produsele + ordinea corecta de aplicare a
-> machiajului". Scris dupa brief-ul `outputs/briefuri/2026-09-25-item-5.md` (prioritate) si dupa
-> review-ul RESPINS din `2026-09-25-ordinea-machiajului.review.md`.
+> Item #5 din `context/plan_continut.md`: "Layout vizual cu produsele + ordinea de aplicare a
+> machiajului". Scris dupa brief-ul `outputs/briefuri/2026-09-25-item-5.md` (**runda 2 a brief-ului,
+> 2026-09-26**) si dupa review-ul RESPINS al rundei 3 (`2026-09-25-ordinea-machiajului.review.md`).
 > Stil: **autentic**, flat lay de sus cu produsele ei reale (regula 2026-09-25 din
 > `identitate_vizuala.md`), fara fata → regulile de trasaturi / haina / machiaj nu se aplica.
-> Ordinea din imagine = ordinea ei (`produse_incercate.md`, "Rutina de machiaj de zi cu zi") cu
-> **singura mutare decisa de Andreea (2026-09-25)**: pudra de fixare devine pasul 6, inaintea
-> conturului, blush-ului si iluminatorului (toate pudre). Sprancenele raman gel → pudra, ca la ea,
-> fara comentariu.
+> **Ordinea din imagine = ordinea ei, neschimbata** (`produse_incercate.md`, "Rutina de machiaj de zi
+> cu zi"). Fapt nou (Andreea, 2026-09-26): pudra de fixare o pune doar pe frunte si pe partea de jos a
+> obrazului, nu peste contur, blush sau iluminator, deci ordinea ei e corecta pentru tehnica ei.
 >
-> **Runda 3 — ce s-a schimbat fata de runda 2:** 12 pasi (cu concealerul), grila 4 x 3 in loc de sir
-> serpuit, scoasa clama (zero obiecte in plus), hook de tip curiozitate din brief (nu identificare),
-> doar cifra 6 marcata diferit, legenda cifra → produs in descriere, produsele fara nume confirmat
-> numite doar prin pas (fara `[DE CONFIRMAT]` blocant — apar din pozele ei de referinta, decizia din
-> brief), intrebarea de un cuvant, fraze personale propuse separate si marcate `[DE APROBAT]`.
+> **Ce s-a schimbat fata de runda 3:** scos tot ce tinea de "un pas mutat" / corectura de ordine;
+> pudra de fixare e pasul 9 si cifra 9 e singura evidentiata; hook de tip detaliu concret; intrebarea
+> noua ("toata" / "zone"); citatul Brow Powder Duo luat exact din sursa; cercurile cu cifre au contur
+> fin terracotta (observatia minora din review); **generarea asteapta confirmarea celor 7 produse fara
+> nume** (review, punctul 2) — Pasul urmator e intrebarea, nu generarea.
 
-## Pentru Andreea, inainte de generare
+## Pentru Andreea — INAINTE de generare (blocant)
 
-**Incarca in ChatGPT pozele celor 12 produse ca referinta**, in ordinea pasilor (1 → 12), ca sa se
-potriveasca cu cifrele din prompt:
+Promptul de mai jos e gata, dar **nu il folosi inca**. In `produse_incercate.md` 7 dintre cei 12 pasi
+nu au produs confirmat, iar regula ta e ca produsele din imagini sa fie produsele tale reale, cu poza.
+Raspunsul tau (vezi Pasul urmator) se trece in `produse_incercate.md`, apoi generezi.
 
-1 primer MUP · 2 fond MUP 2 NBW · 3 concealerul tau · 4 ABH Brow Freeze · 5 ABH Brow Powder Duo Ash
-Brown · 6 pudra ta de fixare · 7 conturul tau · 8 blush-ul tau · 9 iluminatorul tau · 10 GOSH Lip
-Liner 2 in 1 Caramel Toffee · 11 rujul tau · 12 luciul tau
+Cand generezi: **incarca in ChatGPT pozele celor 12 produse ca referinta**, in ordinea pasilor
+(1 → 12), ca sa se potriveasca cu cifrele din prompt:
 
-Daca pentru unul dintre pasi nu ai o poza a produsului (sau nu e produsul pe care il folosesti de
-fapt), spune-mi inainte sa generezi — nu punem in imagine un produs generic.
+1 primer MUP · 2 fond MUP 2 NBW · 3 concealer · 4 ABH Brow Freeze · 5 ABH Brow Powder Duo Ash Brown ·
+6 contur · 7 blush · 8 iluminator · 9 pudra de fixare · 10 GOSH Lip Liner 2 in 1 Caramel Toffee ·
+11 ruj · 12 luciu
 
-PROMPT DE POZA (gata de copy-paste in ChatGPT):
-Folosește exact cele 12 produse din pozele de referință atașate, în ordinea în care sunt atașate (poza 1 = produsul 1, poza 12 = produsul 12), reproduse fidel din pozele atașate: aceeași formă, culoare, capac, material și logo ca în poze, fără alte produse, coduri sau texte; pe ambalaje nu apare niciun cod, număr sau text în afara celor din pozele de referință, și nu adăuga niciun alt obiect (fără pensule, bureței, căni, clame, flori sau decor). O singură imagine, nu un colaj și nu casete separate. Fotografie ultrarealistă de sus, perfect perpendiculară (flat lay), cadru strâns, format vertical 4:5, pe un blat plat și liniștit de culoare crem mat, cu o textură fină abia vizibilă, fără margini de masă și fără alte suprafețe în cadru. Produsele sunt așezate într-o grilă ordonată de 4 rânduri și 3 coloane, care se citește ca un text, de la stânga la dreapta și de sus în jos: rândul 1 — 1 primerul, 2 fondul de ten, 3 concealerul; rândul 2 — 4 gelul de sprâncene, 5 pudra de sprâncene, 6 pudra de fixare; rândul 3 — 7 conturul, 8 blush-ul, 9 iluminatorul; rândul 4 — 10 creionul de buze, 11 rujul, 12 luciul. Toate produsele sunt închise, culcate plat pe blat, orientate la fel (partea de sus spre marginea de sus a imaginii), cu distanțe egale între ele, niciunul suprapus peste altul și niciunul tăiat de marginea cadrului; grila umple cea mai mare parte a imaginii, iar produsele se văd clar și suficient de mari ca să fie recunoscute pe telefon. Lângă colțul din stânga-sus al fiecărui produs stă o cifră mică, într-un cerc crem cu cifra scrisă în terracotta; singura excepție este cifra 6, de lângă pudra de fixare, care e într-un cerc terracotta plin, cu cifra scrisă în crem, ca să iasă în evidență. În afară de cifre, pe produse sau între ele nu apare niciun alt semn, nicio săgeată și niciun nume de pas. Lumină naturală caldă, laterală, dinspre stânga, ca de la o fereastră care nu se vede în cadru, cu umbre moi și scurte spre dreapta și reflexe fine pe capace; paletă caldă de crem, nude, piersică și terracotta; aspect de viață reală, nu de reclamă, fără produse plutind în aer și fără strălucire artificială. Într-o bandă liberă de blat, în partea de sus a imaginii, deasupra grilei, scrie pe un singur rând, cu un font sans-serif îngroșat, maro-terracotta închis: "12 pași de machiaj, un singur pas mutat: îl găsești?", iar dedesubt, mai mic și mai subțire, în aceeași culoare: "rutina mea de zi cu zi, de la 1 la 12". Scrie cu diacritice corecte, exact textul dat, fără alte cuvinte. Banda de text ocupă cel mult o treime din imagine și nu acoperă niciun produs. Stil ultrarealist, foarte detaliat, rezoluție 4K, 4:5.
+PROMPT DE POZA (gata de copy-paste in ChatGPT, dupa confirmarea produselor):
+Folosește exact cele 12 produse din pozele de referință atașate, în ordinea în care sunt atașate (poza 1 = produsul 1, poza 12 = produsul 12), reproduse fidel din pozele atașate, fără alte produse, coduri sau texte: aceeași formă, culoare, capac, material și logo ca în poze; pe ambalaje nu apare niciun cod, număr sau text în afara celor din pozele de referință și nu adăuga niciun alt obiect (fără pensule, bureței, căni, clame, flori sau decor). O singură imagine, nu un colaj și nu casete separate. Fotografie ultrarealistă de sus, perfect perpendiculară (flat lay), cadru strâns, format vertical 4:5, pe un blat plat și liniștit de culoare crem mat, cu o textură fină abia vizibilă, fără margini de masă și fără alte suprafețe în cadru. Produsele sunt așezate într-o grilă ordonată de 4 rânduri și 3 coloane, care se citește ca un text, de la stânga la dreapta și de sus în jos: rândul 1 — 1 primerul, 2 fondul de ten, 3 concealerul; rândul 2 — 4 gelul de sprâncene, 5 pudra de sprâncene, 6 conturul; rândul 3 — 7 blush-ul, 8 iluminatorul, 9 pudra de fixare; rândul 4 — 10 creionul de buze, 11 rujul, 12 luciul. Toate produsele sunt închise, culcate plat pe blat, orientate la fel (partea de sus spre marginea de sus a imaginii), cu distanțe egale între ele, niciunul suprapus peste altul și niciunul tăiat de marginea cadrului; grila umple cea mai mare parte a imaginii, iar produsele se văd clar și suficient de mari ca să fie recunoscute pe telefon. Lângă colțul din stânga-sus al fiecărui produs stă o cifră mică, într-un cerc crem cu un contur fin terracotta și cifra scrisă în terracotta; singura excepție este cifra 9, de lângă pudra de fixare, care e într-un cerc terracotta plin, cu cifra scrisă în crem, ca să iasă în evidență. În afară de cifre, pe produse sau între ele nu apare niciun alt semn, nicio săgeată, nicio față sau schiță a feței și niciun nume de pas. Lumină naturală caldă, laterală, dinspre stânga, ca de la o fereastră care nu se vede în cadru, cu umbre moi și scurte spre dreapta și reflexe fine pe capace; paletă caldă de crem, nude, piersică și terracotta; aspect de viață reală, nu de reclamă, fără produse plutind în aer și fără strălucire artificială. Într-o bandă liberă de blat, în partea de sus a imaginii, deasupra grilei, scrie pe un singur rând, cu un font sans-serif îngroșat, maro-terracotta închis: "Pudra de fixare o pun doar în două locuri: pe frunte și jos pe obraz.", iar dedesubt, mai mic și mai subțire, în aceeași culoare: "rutina mea de zi cu zi, de la 1 la 12". Scrie cu diacritice corecte, exact textul dat, fără alte cuvinte. Banda de text ocupă cel mult o treime din imagine și nu acoperă niciun produs. Stil ultrarealist, foarte detaliat, rezoluție 4K, 4:5.
 
-TEXT SCURT PENTRU DESCRIERE (Instagram) — HOOK: curiozitate
-12 pași de machiaj, un singur pas mutat: îl găsești? 👀 E rutina mea de zi cu zi, cu o singură mutare: pudra de fixare (6) trece înaintea conturului, blush-ului și iluminatorului, fiindcă pudrele se estompează uniform peste un ten deja fixat, nu în pete. Tu unde pui pudra de fixare, înainte sau după blush?
+TEXT SCURT PENTRU DESCRIERE (Instagram) — HOOK: detaliu concret
+Pudra de fixare o pun doar în două locuri: pe frunte și jos pe obraz 💄 E pasul 9 din rutina mea de zi cu zi, după contur, blush și iluminator, și nu o pun peste ele. Tu unde o pui: pe toată fața sau doar pe zone?
 
-1 primer MUP · 2 fond MUP 2 NBW · 3 concealerul · 4 ABH Brow Freeze · 5 ABH Brow Powder Duo Ash Brown · 6 pudra de fixare · 7 conturul · 8 blush-ul · 9 iluminatorul · 10 GOSH Lip Liner 2 in 1 Caramel Toffee · 11 rujul · 12 luciul
+1 primer MUP · 2 fond MUP 2 NBW · 3 concealerul · 4 ABH Brow Freeze · 5 ABH Brow Powder Duo Ash Brown · 6 conturul · 7 blush-ul · 8 iluminatorul · 9 pudra de fixare · 10 GOSH Lip Liner 2 in 1 Caramel Toffee · 11 rujul · 12 luciul
 
-#rutinamachiaj #machiajzilnic #makeupromania
+#rutinamachiaj #pudradefixare #machiajzilnic
 
 VARIANTA TIKTOK (aceeasi imagine, photo mode):
-Titlu: 12 pași de machiaj, un singur pas mutat: îl găsești?
-Caption: Ordinea machiajului meu de zi cu zi are 12 pași, iar singura mutare e pudra de fixare (6), pusă înaintea conturului, blush-ului și iluminatorului, ca pudrele să se estompeze uniform, nu în pete. Tu unde pui pudra de fixare, înainte sau după blush (scrie „înainte” sau „după”)? 👇
-Hashtag-uri: #rutinamachiaj #ordineamachiajului #machiajzilnic #makeupromania
-Sunet: instrumental calm, lo-fi de dimineață, în trend pe beauty, volum mic (fără voce peste text)
-Test de căutare (opțional): titlul și caption-ul conțin deja „ordinea machiajului” și „rutina”; după ~48h verifică în statistici dacă apar vizualizări din căutare.
+Titlu: Pudra de fixare o pun doar în două locuri: pe frunte și jos pe obraz.
+Caption: Ordinea machiajului meu de zi cu zi are 12 pași, iar pudra de fixare vine la pasul 9, doar pe frunte și jos pe obraz, nu peste contur, blush și iluminator. Tu unde pui pudra de fixare, pe toată fața sau doar pe zone (scrie „toată” sau „zone”)? 👇
+Hashtag-uri: #rutinamachiaj #ordineamachiajului #pudradefixare #machiajzilnic #makeupromania
+Sunet: instrumental calm, lo-fi de dimineață, volum mic, fără voce peste text
+Test de căutare (opțional): titlul și caption-ul conțin deja „ordinea machiajului” și „pudra de fixare”; „ten gras” nu apare în text (nu legăm tenul de motivul pentru care o pune acolo). După ~48h verifică în statistici dacă apar vizualizări din căutare.
 
 VARIANTA THREADS:
-Text: Rutina mea de machiaj de zi cu zi are 12 pași și un singur pas mutat: pudra de fixare, pusă înaintea conturului, blush-ului și iluminatorului 💄 Voi unde o puneți, înainte sau după blush?
+Text: În rutina mea de zi cu zi, pudra de fixare e pasul 9 din 12 și o pun doar pe frunte și jos pe obraz 💄 Voi o puneți pe toată fața sau doar pe zone?
 Imagine: aceeași poză (opțional). Fără hashtag-uri.
 
 SHARE IN STORY (Instagram, obligatoriu):
-După publicare, distribuie postarea în Story cu un singur rând de text: „Pasul 6 e cel mutat. Tu unde îl pui?” (fără alte sticker-e; setul complet de Stories se face separat, dacă vrei).
+După publicare, distribuie postarea în Story cu un singur rând de text: „Pasul 9 e pudra de fixare. Tu unde o pui?” (fără alte sticker-e; setul complet de Stories se face separat, dacă vrei).
 
 **Verifica dupa postare ca descrierea a aparut pe fiecare platforma** (Instagram, TikTok, Threads).
 
 ## Verificare rapida a imaginii generate (pentru Andreea, inainte sa postezi)
 
 - [ ] Numara produsele: exact **12**, in grila 4 x 3, niciunul in plus, niciunul lipsa sau dublat.
-- [ ] Fiecare produs seamana cu poza lui de referinta (forma, capac, logo) — niciun ambalaj deformat.
-- [ ] **Cifra 6** e singura in cerc terracotta plin, langa pudra de fixare.
+- [ ] Fiecare produs seamana cu poza lui de referinta (forma, capac, logo), fara ambalaje deformate.
+- [ ] **Cifra 9** e singura in cerc terracotta plin, langa pudra de fixare (rand 3, dreapta).
 - [ ] Niciun cod, numar sau text inventat pe ambalaje (cazul "120C").
 - [ ] Textul de sus e exact cel din prompt, cu diacritice, si nu acopera produsele.
-- [ ] Niciun obiect in plus (pensula, burete, cana, clama).
+- [ ] Niciun obiect in plus (pensula, burete, cana, clama) si nicio fata/schita.
 
-Daca ChatGPT pierde sau deformeaza produse dupa 2-3 incercari, nu schimbam formatul singuri —
-spune-mi ce iese si decidem impreuna (ex: regenerare cu mai putine referinte odata).
+Daca ChatGPT pierde sau deformeaza produse dupa 2-3 incercari, nu schimbam formatul singuri. Spune-mi
+ce iese si decidem impreuna.
 
 ---
 
-## Formulari personale propuse (optionale) — [DE APROBAT]
+## Formulari personale propuse (optionale) — nu apar in textele gata de postat
 
-Nu sunt in textele de mai sus. Le poti adauga daca iti suna ca tine:
-- „De acum pun pudra de fixare înainte de blush.” — [DE APROBAT] (in `knowledge/` scrie doar ca nu
-  stii sigur daca ordinea e buna; nu scrie ca ai schimbat-o deja). Loc: la finalul caption-ului TikTok
-  sau in Threads, inaintea intrebarii.
-- „La pasul 5: la Brow Powder Duo, inițial nu mi-a plăcut deloc culoarea. După prima aplicare… m-am îndrăgostit de ea. 100/10.” —
-  **nu e propunere inventata**: sursa `produse_incercate.md` (ABH Brow Powder Duo, 100/10, "Initial
-  nu mi-a placut deloc culoarea"). Optional, maximum o nota citata; formularea exacta e [DE APROBAT].
+- „O pun pe frunte pentru că acolo lucesc cel mai repede.” — **[DE APROBAT]**. Nu ai spus de ce o pui
+  acolo. `analiza_ten.md` are sebum 519 pe frunte (fapt aprobat), dar legatura cauza-efect e
+  propunerea mea. Loc posibil: finalul caption-ului TikTok sau in Threads, inaintea intrebarii.
+- Citat exact pentru pasul 5 (nota 100/10), din `produse_incercate.md`, ABH Brow Powder Duo:
+  „Inițial nu mi-a plăcut deloc culoarea. După prima aplicare însă... m-am îndrăgostit de ea.” —
+  cuvintele tale, neschimbate; doar folosirea lui aici e o propunere **[DE APROBAT]**.
 
-## Verificare (runda 3)
+## Verificare (runda 5)
 
 Fraze la persoana I / despre Andreea, cu sursa:
 
 | Fraza | Unde | Sursa | Status |
 |---|---|---|---|
-| "rutina mea de zi cu zi, de la 1 la 12" | imagine | `produse_incercate.md`, "Rutina de machiaj de zi cu zi" (12 pasi cu concealerul); mutarea e spusa in hook, pe acelasi ecran | ok |
-| "12 pași de machiaj, un singur pas mutat" | imagine, IG, TikTok | ordinea ei + singura corectura, decizia Andreei 2026-09-25 (brief) | ok ca descriere a imaginii; nu afirma ca ea face deja asa |
-| "E rutina mea de zi cu zi, cu o singură mutare" | IG | ca mai sus | ok |
-| "Ordinea machiajului meu de zi cu zi are 12 pași, iar singura mutare e pudra de fixare" | TikTok | ca mai sus | ok |
-| "Rutina mea de machiaj de zi cu zi are 12 pași și un singur pas mutat" | Threads | ca mai sus | ok |
-| "De acum pun pudra de fixare înainte de blush" | doar propunere optionala | lipsa in `knowledge/` | [DE APROBAT] |
-| "Inițial nu mi-a plăcut deloc culoarea. După prima aplicare… m-am îndrăgostit de ea. 100/10" | doar propunere optionala | `produse_incercate.md`, ABH Brow Powder Duo — citat exact (runda 4) | ok |
+| "Pudra de fixare o pun doar în două locuri: pe frunte și jos pe obraz." | imagine, IG, TikTok (titlu) | `produse_incercate.md`: "doar pe frunte si pe partea de jos a obrazului" (Andreea, 2026-09-26) | ok |
+| "rutina mea de zi cu zi, de la 1 la 12" | imagine | `produse_incercate.md`, "Rutina de machiaj de zi cu zi", 12 pasi, ordinea neschimbata | ok |
+| "E pasul 9 din rutina mea de zi cu zi, după contur, blush și iluminator, și nu o pun peste ele" | IG | `produse_incercate.md` (ordinea + "nu peste zonele cu contur, blush sau iluminator") | ok |
+| "Ordinea machiajului meu de zi cu zi are 12 pași, iar pudra de fixare vine la pasul 9, doar pe frunte și jos pe obraz, nu peste contur, blush și iluminator" | TikTok | ca mai sus | ok |
+| "În rutina mea de zi cu zi, pudra de fixare e pasul 9 din 12 și o pun doar pe frunte și jos pe obraz" | Threads | ca mai sus | ok |
+| „O pun pe frunte pentru că acolo lucesc cel mai repede.” | doar propunere optionala | lipsa (motivul nu e spus de ea) | [DE APROBAT] |
+| „Inițial nu mi-a plăcut deloc culoarea. După prima aplicare însă... m-am îndrăgostit de ea.” | doar propunere optionala | `produse_incercate.md`, ABH Brow Powder Duo, citat exact | citat ok; folosirea [DE APROBAT] |
 | Produse numite: primer MUP, fond MUP 2 NBW, ABH Brow Freeze, ABH Brow Powder Duo Ash Brown, GOSH Lip Liner 2 in 1 Caramel Toffee | IG (legenda) | `produse_incercate.md` | ok |
-| Concealer, pudra de fixare, contur, blush, iluminator, ruj, luciu | toate | numite doar prin pas, fara brand/nuanta/nota/efect (brief) | ok |
-| "pudrele se estompează uniform peste un ten deja fixat, nu în pete" | IG, TikTok | fapt general permis in brief, fara cifre | ok |
+| Concealer, contur, blush, iluminator, pudra de fixare, ruj, luciu | toate textele | numite doar prin pas, fara brand, nuanta, nota sau efect | ok in text; **in imagine asteapta confirmarea Andreei** |
 
 Puncte verificate:
-- **Adevar (§1):** nicio experienta inventata in textele livrate; fara "pe dos", "am aflat",
-  "mi-am dat seama", "gresit", "secret"; sprancenele gel → pudra nu sunt comentate; singura fraza
-  personala noua e separata si marcata [DE APROBAT].
-- **Hook (§2):** curiozitate (din lista `tone_of_voice.md`), o singura propozitie, adevarat si livrat
-  de imagine (cifra 6 marcata = pasul mutat). Diferit de ultimele doua din log (mit contrazis
-  waterproof A, adresare directa waterproof B).
-- **Un singur mesaj:** 12 pasi, o mutare — pudra de fixare inaintea pudrelor de contur/blush/iluminator.
-- **Descriere IG:** 3 propozitii + legenda (lista cifra → produs, ceruta de brief), 1 emoji,
-  3 hashtag-uri; intrebarea se raspunde dintr-un cuvant si intra natural in a 3-a propozitie (permis
-  de brief la IG).
+- **Adevar (§1):** nicio corectura de ordine si niciun "pas mutat", "pe dos", "gresit", "am aflat",
+  "mi-am dat seama". Nicio regula universala: tehnica e prezentata ca a ei ("o pun"). Nu scrie "nas"
+  sau "toata zona T". Motivul (sebumul) nu apare in textele de postat, doar ca propunere [DE APROBAT].
+- **Hook (§2):** detaliu concret (din lista `tone_of_voice.md`), o singura propozitie, adevarat si
+  livrat de imagine (cifra 9 evidentiata). Difera de ultimele doua din log (mit contrazis, adresare
+  directa).
+- **Un singur mesaj:** 12 pasi, iar pudra de fixare vine la pasul 9, doar pe frunte si jos pe obraz.
+- **Descriere IG:** 3 propozitii plus legenda (ceruta de brief), 1 emoji, 3 hashtag-uri; intrebarea
+  se raspunde dintr-un cuvant si intra natural in a 3-a propozitie.
 - **Imagine (§4):** 4:5, 4K, ultrarealist, "o singura imagine, nu colaj", cadru strans, grila 4 x 3,
-  un singur fundal plat crem, zero obiecte in plus, doar cifre (6 marcata diferit), fara sageti si
-  fara nume de pasi pe imagine, text max 1/3 care nu acopera produsele, diacritice cerute.
-  Produse reale din pozele ei de referinta, "reproduse fidel din pozele atasate, fara alte produse,
-  coduri sau texte" — interdictie explicita de coduri/texte inventate. Prompt complet pentru ChatGPT,
-  nicio cerere ca Andreea sa fotografieze. Fara fata → trasaturi/haina/machiaj nu se aplica.
-- **TikTok (§5b):** titlu = hook scurt, caption 2 propozitii (mesaj + intrebare de un cuvant),
-  4 hashtag-uri, tip de sunet (nu titlu de melodie).
-- **Threads (§5c):** 2 propozitii conversationale + intrebare directa, 1 emoji, fara hashtag-uri.
+  fundal crem plat, zero obiecte in plus, doar cifre (9 marcata diferit, restul cu contur fin pentru
+  contrast), fara sageti, fete sau nume de pasi, text de maximum 1/3 care nu acopera produsele,
+  diacritice cerute. Interdictie explicita de coduri/texte inventate; prompt complet pentru ChatGPT.
+  **Produse reale:** 5 din 12 confirmate; 7 asteapta raspunsul Andreei, deci generarea e blocata
+  pana atunci (regula din `produse_incercate.md` si §4 are prioritate fata de brief, conform review-ului).
+- **TikTok (§5b):** titlu = hook, caption de 2 propozitii, 5 hashtag-uri, tip de sunet.
+- **Threads (§5c):** 2 propozitii conversationale, dintre care una e intrebarea directa, 1 emoji, fara hashtag-uri.
 - **§5d:** amintirea despre descriere pe fiecare platforma e prezenta.
-- **Plan (§6):** idee din `plan_continut.md` (#5) + brief; log actualizat pe randul existent, Status
-  draft; itemul NU e marcat "facut" — asteapta verificatorul independent.
-- **Risc ramas:** 12 referinte intr-o imagine → posibile ambalaje deformate; acoperit de verificarea
-  rapida pentru Andreea de mai sus. Conditie: Andreea are poze cu cele 7 produse fara nume confirmat
-  (`produse_incercate.md` le trece ca neconfirmate) — daca lipseste una, se opreste inainte de generare.
+- **Plan (§6):** idee din `plan_continut.md` (#5) + brief; randul din log actualizat, Status draft;
+  itemul NU e marcat "facut", asteapta verificatorul independent.
 
-Verificare: ✅ toate punctele; singurele elemente [DE APROBAT] sunt cele doua formulari optionale,
-care nu apar in textele gata de postat.
+Verificare: ✅ toate punctele de text si prompt. Singura exceptie: produsele pasilor 3, 6, 7, 8, 9, 11
+si 12 nu sunt confirmate in `knowledge/`, deci imaginea nu se genereaza pana nu raspunde Andreea.
+Cele doua formulari optionale sunt [DE APROBAT].
 
-**Pasul urmator (runda 4, dupa review):** intrebare directa pentru Andreea, inainte de generare — ai la tine (si poti incarca poze cu) cele 7 produse fara nume confirmat: concealer, pudra de fixare, contur, blush, iluminator, ruj, luciu? Si cum se numesc? Raspunsul se trece in `knowledge/produse_incercate.md`; pana atunci nu se genereaza.
+**Pasul urmator:** intrebare pentru Andreea — „Ai poze cu concealerul, pudra de fixare, conturul,
+blush-ul, iluminatorul, rujul și luciul pe care le folosești zilnic? Cum se numesc?” Dupa raspuns,
+le trecem in `produse_incercate.md` si generezi imaginea in ChatGPT cu cele 12 poze atasate in ordine.

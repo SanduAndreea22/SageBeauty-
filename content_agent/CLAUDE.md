@@ -83,11 +83,12 @@ Prima revizie (2026-09-23), aprobata: sursa obligatorie pentru frazele la persoa
 
 Fiecare rol exista si ca subagent Claude Code in `.claude/agents/` (la radacina repo-ului):
 `director-marketing`, `agent-postare`, `agent-carusel`, `agent-poza`, `agent-stories`, `agent-reels`,
-`verificator`. Fiecare fisa trimite la fisierul lui din `prompts/` (sursa unica a regulilor).
+`verificator`, `corector-logica` (din 2026-09-26, la cererea Andreei: logica si claritatea textelor). Fiecare fisa trimite la fisierul lui din `prompts/` (sursa unica a regulilor).
 
 Fluxul (sesiunea principala = orchestrator): **director** scrie brief-ul in `outputs/briefuri/` →
 **executantul** scrie continutul in `outputs/` → **verificatorul** (independent, nu a scris continutul)
-raspunde APROBAT/RESPINS → orchestratorul repara ce e cazul, face git si i-l arata Andreei.
+raspunde APROBAT/RESPINS → **corectorul de logica** (citeste textele ca un strain: au logica, se inteleg
+usor, fiecare punct spune ceva nou?) raspunde CLAR/NECLAR → orchestratorul repara ce e cazul, face git si i-l arata Andreei.
 Agentii nu vorbesc direct intre ei — comunica prin fisiere. Itemi independenti (ex: #4 si #5) pot rula
 in paralel. Testat prima data pe itemul #3 (2026-09-24).
 
